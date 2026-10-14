@@ -1,0 +1,757 @@
+Arquivo csv dos dados obtidos com a anotação da transcrição da entrevista do Ricardo Alban. Dados referentes a anotação da transcrição produzida pelo Whisper large-v3.,,,,,
+# RELATÓRIO ESTATÍSTICO,RODA VIVA | RICARDO ALBAN | 04/08/2025 - Whisper large v3,,,,
+Total de elementos sinalizados (cada trecho conta 1 vez),212,,,,
+Ocorrências com mais de uma categoria,14,,,,
+Ocorrências NÃO vinculadas (cor sem correspondência exata — campo separado),0,,,,
+Categorias no projeto,16,,,,
+,,,,,
+# CONTAGEM POR CATEGORIA,,,,,
+categoria,cor,total_ocorrencias,,,
+Registro de repetição,#FF9E9E,20,,,
+Registro de hesitação,#F4CCCC,0,,,
+Registro de reformulação da fala,#F9CB9C,11,,,
+Desvio ortográfico - palavra,#B6D7A8,67,,,
+Desvio ortográfico - número,#B6D7A8,1,,,
+Desvio de pontuação,#72FFFF,7,,,
+Desvio de capitalização,#99BAF2,16,,,
+Desvio de segmentação - Hipossegmentação,#54D862,6,,,
+Desvio de segmentação - Hipersegmentação,#54D862,10,,,
+Omissão,#B6DCFF,22,,,
+Inserção,#4AC2FF,11,,,
+Substituição lexical - Por homofonia,#C165FF,39,,,
+Substituição lexical - Por alucinação,#C165FF,3,,,
+Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,3,,,
+Registro da flexibilidade da fala - Variações informais,#fbff00,0,,,
+Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,10,,,
+,,,,,
+# OCORRÊNCIAS INDIVIDUAIS (sem contexto),,,,,
+id,trecho,categorias,comentario,,
+f0bc6c66-7e90-49b9-bb87-2b134a12f84a,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+fc5ee072-44d7-4936-aac5-e927f1efc023,Tupi,Desvio ortográfico - palavra,Tupy,,
+8fd2d0c8-76a3-411c-b6da-75ab7b7d2804,Evaldo,Desvio ortográfico - palavra,Euvaldo,,
+39a38139-5efe-4253-bd31-abf7cf27e8e7,Albano,Desvio ortográfico - palavra,Alban,,
+19893ad8-b18c-427e-a176-c0480ac04de7,Vasques,Desvio ortográfico - palavra,Vazquez,,
+50ab306a-d653-47d6-b52c-dc189ad04bce,anal,Inserção,,,
+45ec4783-fe33-48f6-9009-6925b82dff03,Veronese,Desvio ortográfico - palavra,Veronezi,,
+adbdcdc8-9f94-4949-870a-73b41327cdc0,n,Desvio de capitalização,,,
+82062db9-efd0-4f8d-8235-224c8b8c418e,i,Desvio de capitalização,,,
+8e0baa1b-919f-471f-8827-b16d93c6e847,MEDIC,Desvio ortográfico - palavra,MDIC,,
+26500f1e-4edb-4e22-91b2-9cb01fd3406a,busca do diálogo. Busca do diálogo,Registro de repetição,,,
+e31a3119-7481-425c-9aa3-3cf4f1ef1d89,pena,Substituição lexical - Por homofonia,plena,,
+4cd96e84-9863-4040-a146-dd28d3b8f417,da,Inserção,,,
+5c3285c7-bd92-4fa6-9eb0-aafb5e912691,são,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,é,,
+de92fe37-3b7c-4386-9eb2-a5420cf207aa,"a Alemanha, a Alemanha",Registro de repetição,,,
+cf277871-2aae-430e-bec1-660d697169ff,estão,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,está,,
+37a04ba2-1b69-412b-ba77-122391909f34,Comodities,Desvio ortográfico - palavra,Commodities,,
+f3e75682-1f59-4837-afa2-3aa588afbd4c,para a,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Paraná,,
+8b4360f2-1ed7-46e3-a789-90b61252e65d,␣,Desvio de pontuação,",",,
+c188a99e-f9ed-4173-a7a2-436bc39bc695,Nascida da,Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,Santa,,
+1c3e6160-6aa5-4295-a1a2-10a17d8b61e4,pud,Inserção,,,
+975411bd-eb40-41e1-b100-a1dcc89a9f95,Adjetamento,Desvio ortográfico - palavra,Adiantamento,,
+57a778f0-a4a7-4862-8cd9-4ee143538db0,em março,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,máximo,,
+056e6261-2866-4ed4-8109-0186b0d0ca50,adjetamento,Desvio ortográfico - palavra,adiantamento,,
+7a75e720-2c68-4b86-a68a-220ea9c70e74,r,Desvio de capitalização,,,
+ddca889a-4ffc-4fb9-a71d-9fa8e5f2749e,Simps,Desvio ortográfico - palavra,Simples,,
+f9a6e08b-003e-4554-aa80-62b043ac3c4a,r,Desvio de capitalização,,,
+04eebb2e-8799-4a8e-a7d2-a8b34bf4f375,feita,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,feitas,,
+d5be6d2a-3adc-4f79-8769-27150bbdfca3,␣,Omissão,"Pois não, Talita.",,
+a1b256cc-4327-4bdc-8fb6-861b1bd0842d,Thalita,Desvio ortográfico - palavra,Talita,,
+cdf24fdb-e10b-4dd6-b7e7-acf2d727b82b,traiu,Substituição lexical - Por homofonia,atraiu,,
+ad894b82-054a-4698-a600-7992ea0aaa72,a sessão,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,assessor,,
+a37060d2-2698-449c-96da-cf7d8707b1e0,Tarifasso,Desvio ortográfico - palavra,tarifaço,,
+f22e31cd-445d-4c47-a0d7-dacd3b5e1e5d,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+908d1fcf-7b06-459d-8e15-a408c3c1efae,tiques,Substituição lexical - Por homofonia,tigres,,
+fc192c21-10d9-4064-bd42-23fd99ea8525,Albano,Desvio ortográfico - palavra,Alban,,
+1f67a53c-d268-4575-8751-3b81900ca5b4,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+05e309b0-b373-4318-aa8e-e47ed07ce04b,"muito acessível, muito acessível",Registro de repetição,,,
+c8bc46a6-2664-4bd7-87a0-5e2f7e2632cf,Anshan. Anshan,Registro de repetição,,,
+57450a11-c7d0-4457-aa06-f946187cd5b6,Anshan,Desvio ortográfico - palavra,Amcham,,
+2a468fee-b738-4d8e-9f79-9aa663b8c187,Anshan,Desvio ortográfico - palavra,Amcham,,
+14bdd077-3789-4cd2-a491-c83a0dc178ba,no,Inserção,,,
+a2027926-0f05-4968-b4a2-7de0994af817,suco de laranja. Suco de laranja,Registro de repetição,,,
+b1459a9a-eeb9-4efc-a3a1-40f765c0e215,cearia,Substituição lexical - Por homofonia,aciaria,,
+48791893-92dc-4916-bc4a-c056acdafee6,Albã,Desvio ortográfico - palavra,Alban,,
+2429d61b-abe4-40ac-9d24-ca1287e2997b,Tarifasso,Desvio ortográfico - palavra,tarifaço,,
+0194b21c-aae0-4144-a19f-fea1a4206bc2,.,Desvio de pontuação,?,,
+a883b62a-8969-4344-b1fe-fc7d0716d329,não,Substituição lexical - Por homofonia,em,,
+c12b6526-84ce-4ff1-9f7a-b0aa3b2fa1f9,direito,Substituição lexical - Por homofonia,direita,,
+46d53522-a606-4751-b054-879b92a5c8a1,a própria,Registro de reformulação da fala,,,
+479c61a9-f01e-4037-8939-67a072207e29,Braz,Desvio ortográfico - palavra,Bras,,
+89878be5-9f54-4fc9-a155-66f59c18248e,Se der Braz,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Siderbras,,
+99594358-cde1-4511-aa90-ad4800b05a89,é Libraz,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Helibras,,
+20efb879-533d-4912-8e34-2de857a18e4a,Libraz,Desvio ortográfico - palavra,Helibras,,
+ad1ffe66-d5c7-470a-96f7-1fa34bed6aa1,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+179f6d48-a5d5-4c93-a36d-557ce573700c,mas,Substituição lexical - Por homofonia,mais,,
+5aa92b0d-d244-4dff-bf02-971522e10746,sendo,Substituição lexical - Por homofonia,cedo,,
+55f4ab85-1abf-49d9-92a0-6865caf4fa56,␣,Omissão,ou,,
+87173400-9b45-4db8-8343-94f616433e1f,Essa é mais uma. Essa é mais uma,Registro de repetição,,,
+1d0fbadc-0171-4214-bf7c-f385aa968873,␣,Omissão,Alban,,
+7470bb30-d45b-47df-8a26-1d3427392ecc,BID,Substituição lexical - Por homofonia,BYD,,
+d1681c60-df68-4289-bc1e-db2f2902bf40,Anfávia,Desvio ortográfico - palavra,ANFAVEA,,
+ff26523f-fef5-4fed-af81-ae3d697fe47d,ib,Desvio de capitalização,,,
+d7012b2c-a766-4f03-a994-bcf70110b0a0,n,Desvio de capitalização,,,
+4fd96778-93da-41fd-acfe-6a2003ac7c42,i,Desvio de capitalização,,,
+5eeb5f29-ec2a-4f0c-b7f3-edf68a80cead,olhar,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+7f190dc4-88db-4dd6-ba51-327a3005be4c,␣,Desvio de pontuação,?,,
+70204154-5814-4743-bc03-6539152c1cc1,nem,Substituição lexical - Por homofonia,não é,,
+4b6f68ff-f874-46a3-ad55-6125c43f3d67,␣,Desvio de pontuação,?,,
+5be736d1-0b92-4b5f-9ce2-33ff5e3b72f7,Lá no,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Plano,,
+f83b2d31-6da5-462b-a770-bb634aa8fd68,s,Desvio de capitalização,,,
+3996c138-f39d-45d7-8dd1-3bcfd538bad6,␣,Omissão,se,,
+5ca92c0a-1479-4569-ac67-51ec11cd42f3,T,Desvio de capitalização,,,
+12a8b0d8-5a0f-4118-afe0-16af885e0b91,Tarifácio,Desvio ortográfico - palavra,Tarifaço,,
+87c364dd-29ba-4fd9-8779-c93dae933996,-,Inserção,,,
+57db3ac9-f8d5-41b7-ba92-9055b86e31dd,geral do,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Geraldo,,
+a8b882f9-b06e-43b4-90b1-3234d9ff88d8,senhor,Substituição lexical - Por homofonia,CEO,,
+5d433f2d-be44-49a9-9a87-658d225f13c9,Dembraer,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,da Embraer,,
+9a7e3fe4-2e0a-4600-ac79-5d05ea8822ca,retalhatória,Desvio ortográfico - palavra,retaliatória,,
+5b99caaf-354e-4a14-b21f-62ea45ad7122,MEDIC,Desvio ortográfico - palavra,MDIC,,
+13796808-08ea-4efc-b03c-9f671b5528f2,Simonitéri,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,Simone Tebet,,
+0b763ae8-2ac7-4dc5-bfa3-737780f81b6f,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+22435a84-3f99-49f5-b59e-49bcc3c59637,motos,Substituição lexical - Por homofonia,motes,,
+63313733-0999-4ff3-9c61-dbce2203ce50,␣,Omissão,se,,
+5cf27640-cf1c-4f36-add6-571dde8515cb,ela realmente,Registro de reformulação da fala,,,
+8b75df71-006d-4cb7-a12c-fffb3fbb6b08,Thaís,Desvio ortográfico - palavra,Thais,,
+d4fcf5f6-dd60-4bad-8996-b592aed8b83c,devem,Substituição lexical - Por alucinação,do,,
+e2160095-39c5-4c81-a75b-6a2b50aa6421,ser,Substituição lexical - Por homofonia,setor,,
+25a1d6c2-e974-4cdb-997f-bd9c0a9fd637,tributários,Desvio ortográfico - palavra,tributário,,
+672d9d02-74e3-49ea-8763-d3f07b0a0b70,␣,Omissão,e,,
+1336be31-e25b-4c8b-813f-21269250e624,estar,Substituição lexical - Por homofonia,está,,
+83a1e0bd-2790-4094-8010-58c60785c234,fosse,Inserção,,,
+fef8abe4-bcee-4f57-87e2-fb4490ebcc5a,perguntados,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,perguntado,,
+4369a1e9-e6dc-4d89-86bf-4e446d2f8ba6,␣,Omissão,Alban,,
+2f21b24c-3426-4db1-b78f-4168c4f47f12,␣,Omissão,eu,,
+93e05a5d-d2f7-48a1-a0bc-e5c79e980886,eles,Substituição lexical - Por homofonia,lhe,,
+2a5cb8d8-00b6-4d44-98d9-01f73dc1b612,pediram,Substituição lexical - Por alucinação,explico,,
+5bf1e62f-123e-4395-8c7b-9ca48731ab01,tarifás,Desvio ortográfico - palavra,tarifaço,,
+424141ee-03d4-4dcf-aead-e66dcd06e9c8,parcimônio,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+4633fcee-9fff-4482-ad8e-235cb3bbf9e8,leve,Substituição lexical - Por homofonia,ledo,,
+f2ea4e73-9f98-4108-9373-8711ecb2a476,que saiba,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,quiçá,,
+24fabf81-14f8-4daf-8aa2-a98b0b320fdf,foi,Substituição lexical - Por homofonia,fosse,,
+5eef56bb-8a0a-40db-9865-f9a58eecc2fc,de,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,da,,
+ff4ca72e-6b94-4e3e-b158-4ac09303c2ae,enxergar,Substituição lexical - Por homofonia,enxugar,,
+c954facc-a4dc-4a5e-8fc5-c6a11fe31dcd,␣,Omissão,de,,
+742bc82c-0ef6-4e4e-b563-27e2e6ac43d6,isso,Substituição lexical - Por homofonia,subir,,
+fea16124-e9b0-4ca6-a996-25186fbeafeb,não,Substituição lexical - Por alucinação,a,,
+0ce89793-2cb2-489f-98d7-943bd988cf3d,seria,Substituição lexical - Por homofonia,Selic,,
+31e50d29-05aa-4ebf-88a8-1a9b7e2d54d8,.,Desvio de pontuação,?,,
+32284f19-dd64-4339-9e52-61fd72907b40,ônibus,Substituição lexical - Por homofonia,ônus,,
+4fc54da5-c082-436d-88e7-af267ceec9ce,␣,Omissão,"Abriu uma última, quem vai?",,
+1b89fa25-d807-4bab-91dc-f6771289b22f,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+1a3d45e1-c26f-4ac9-aabc-4402fec50e8a,Thalita,Desvio ortográfico - palavra,Talita,,
+7694ae67-5e9d-4437-9816-740234f8bb99,"O Copom também ao mesmo tempo disse,",Registro de reformulação da fala,,,
+dbc59821-e784-4879-bd3f-8b088d74481e,na,Substituição lexical - Por homofonia,não,,
+fee95f18-1a60-48a4-a31f-52a130c1b40a,␣,Omissão,a,,
+626024af-a124-4a10-b605-8fef0c2b1e2a,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+ebe101b6-86d0-4d25-9bb4-da63965c2280,"A indústria já está sentindo, né? A indústria já está sentindo, né?",Registro de repetição,,,
+31553d32-94fa-408a-9bbb-a3ed00d4ddf8,Albano,Desvio ortográfico - palavra,Alban,,
+612fa72e-3dfd-41de-9a52-c3a851b947a3,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+74b7692a-68b4-4d16-afac-f820a43bced7,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+bfcea763-2f77-4416-80f6-de952f7591be,␣,Omissão,é,,
+f818c304-5835-4763-907b-cbb04f32c3c1,"Nós temos agora, desculpa, Paulo, nós temos agora que estamos criando um mote. Assim como tem o agro é pop, o agro é tech, nós temos que na indústria é pobre.",Inserção,,,
+a1f9cc13-a5d9-4276-9a71-5388c45c95fc,pobre,Substituição lexical - Por homofonia,pop,,
+153dbe4d-4660-4cb6-bcbe-468f67a6cfef,a gente,Registro de reformulação da fala,,,
+3a4b486a-3705-4cd8-8ced-33089d7dd07d,Alba,Desvio ortográfico - palavra,Alban,,
+d1cf9a35-c416-4484-92a1-d283a9ca7528,fichal,Desvio ortográfico - palavra,fiscal,,
+0e4c841c-3a66-48eb-9222-3c7c4e114f61,Pessoa,Desvio ortográfico - palavra,Pessôa,,
+78e67e77-1f25-4624-afc7-dacc73dd9fad,PERS,Desvio ortográfico - palavra,PERSE,,
+0ad8a3a6-8c20-4ff6-999e-6b7c5bc13414,PES,Desvio ortográfico - palavra,PERSE,,
+4f738553-d8c6-48be-ad4b-bdaaba39da82,Albano,Desvio ortográfico - palavra,Alban,,
+f89c354a-1c27-47ce-929b-5cd6dd22fc04,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+17dbf151-53e3-4747-8247-75a44eeed839,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+db000629-f76c-4352-ae0b-3a407e476bb0,hoje,Substituição lexical - Por homofonia,olha,,
+62e04384-f6e3-40af-8be8-802377b9c4b0,␣,Omissão,que,,
+d9e40f58-53c9-42ab-93f1-2f3ed9d84c02,unicionalmente,Desvio ortográfico - palavra,unissonamente,,
+b75ef5e8-4d43-4740-99e6-9033a6fa484b,água,Substituição lexical - Por homofonia,agro,,
+df419b64-733f-4d4a-ba18-952506c1ed8f,␣,Omissão,atinge,,
+3a839fde-1f02-44f5-8876-de97eab4fbcc,de,Inserção,,,
+5b174996-14ce-4920-904d-cdd26d52c66c,deveríamos,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,deveramos,,
+e122a264-39d4-4bfa-b521-1077502b215f,dos,Substituição lexical - Por homofonia,nos,,
+848367d7-a923-45fb-96ba-ed589be6a36c,sou,Substituição lexical - Por homofonia,só,,
+c5414bd2-230e-4dc0-b95f-4809e219cb00,Nós precisaríamos,Registro de reformulação da fala,,,
+ade29b5f-1b91-4a20-b768-3ef780b192f1,Thaís,Desvio ortográfico - palavra,Thais,,
+11d8b005-f925-4c31-918e-30006920b236,eu,Registro de reformulação da fala,,,
+cf28eac4-06fd-472a-9b33-00937d97aac9,"lobby, lobby",Registro de repetição,,,
+a36d9d17-4dda-452c-b988-ed1de031b33c,levando,Substituição lexical - Por homofonia,lembrando,,
+cc6c755d-bfc6-4aa3-b0ae-9f9e63df76b7,a,Substituição lexical - Por homofonia,de,,
+16a0b944-646d-4a04-af63-9554c9d6d26b,13 de 1,Desvio ortográfico - número,301,,
+318436f9-7974-4725-8fe1-20623d5e2329,␣,Omissão,Brasil e,,
+2f1c80a9-baab-40fe-8c65-d0bcabb59582,a,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,o,,
+a89bd724-5c91-49ff-84fa-85c196c3765c,segunda,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,segundo,,
+50992335-678e-4fc6-b20c-363f0453ae32,estão,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,está,,
+255527fd-fca6-4283-acd3-41742954d78c,tantos,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,tanto os,,
+900f1283-6f98-4d2e-9e5c-cd03a3086c20,Big Techs. Big Techs,Registro de repetição,,,
+d4078fa9-48b1-44ff-932e-1f69f39916cb,superbaterias. Superbaterias,Registro de repetição,,,
+bc6ffada-1a36-447f-893e-8d329b194382,␣,Omissão,o senhor,,
+6d7655a2-bad8-403f-8582-366c13ef290f,J,Desvio de capitalização,,,
+96fcd305-d565-41df-bd28-9b97faff44dc,E nós tivemos...,Registro de reformulação da fala,,,
+f3543630-1824-44ae-8105-88dddd723fcb,tarif,Desvio ortográfico - palavra,tarifaço,,
+a1784c85-e51d-4f9b-a906-af8b0579cbb2,␣,Omissão,e toda essa agenda enorme que o Alban colocou aqui para gente.,,
+32baadb5-e454-4aae-8e01-664dba35ca3a,␣,Omissão,"Inovação que conecta, Bradesco.",,
+73f5cc51-e28c-4f06-9d09-6ed29041d64f,␣,Omissão,O Roda Viva está,,
+51ef13d4-f6da-4739-90e1-342050fe3e29,Vasco,Substituição lexical - Por homofonia,Vazquez,,
+8f6f42f1-af91-4121-8b3d-d200a9c7d9c9,o B20. O B20,Registro de repetição,,,
+09408864-cd50-47ab-ad76-2b3d1daae825,SEBRICS,Desvio ortográfico - palavra,CEBRICS,,
+ab98270d-f522-4749-9d11-6f30eece4b64,SEBRICS,Desvio ortográfico - palavra,CEBRICS,,
+c75aa8af-b904-4b95-8b76-373d23008a4e,Cebrix,Desvio ortográfico - palavra,CEBRICS,,
+66585b4d-1023-418a-bb10-fff0085f0ce9,op,Desvio de capitalização,,,
+9ca5b4c9-765a-4a9d-8b22-4bd723f62ae4,SBCOP,Desvio de segmentação - Hipossegmentação,,,
+141c2e8f-f0ea-492a-9626-0317df65df8f,SBCOP,Desvio de segmentação - Hipossegmentação,,,
+d86e1035-d702-475b-80c9-a3eec784c21d,visitão,Desvio ortográfico - palavra,visitando,,
+962b7f8b-98df-4b99-acbf-6037d1499053,␣,Omissão,ano,,
+651473d7-6172-414c-b006-1721aef067b6,mitig,Inserção,,,
+c8bc93ad-18c0-42b2-974b-b57b11559aa6,o,Inserção,,,
+47b62810-4d54-44b9-a3dd-fcaa1c60f2bb,contei,Substituição lexical - Por homofonia,cortei,,
+06ccb9bb-75ee-4951-a7be-45c785078875,BAMA,Desvio de capitalização,,,
+2a18bd71-6e0d-45a7-8171-328f23bad2a2,BAMA,Desvio de capitalização,,,
+9f4afad3-0e7c-411d-8eef-3f0039d2316d,BAMA,Desvio de capitalização,,,
+ea242660-d1e7-4450-a1b2-41328882c478,Thalita,Desvio ortográfico - palavra,Talita,,
+1365a1b8-7d1a-4fcc-9f2a-be98411874f6,␣,Omissão,a,,
+07f57d6d-3d17-4d50-adaa-fb51dfeb3c48,c,Desvio de capitalização,,,
+21927bfd-422c-47e7-b968-aebfdb0c4dc5,c,Desvio de capitalização,,,
+6808598c-9939-422f-82a5-ee37f3b2a28b,Aba,Desvio ortográfico - palavra,Alban,,
+092bae51-8e0f-4872-b999-70a942e54737,a Argentina. A Argentina,Registro de repetição,,,
+d4d7ff09-4375-4d19-a3a9-129f6d605668,Millet,Desvio ortográfico - palavra,Milei,,
+f1e3469c-000f-40e6-90b2-fca879793cc4,sem...,Registro de reformulação da fala,,,
+cf4d186b-4069-4f11-beb3-b8f63dc4ac81,Albano,Desvio ortográfico - palavra,Alban,,
+c14a8282-c355-451b-af99-8c463bc8f74c,.,Desvio de pontuação,?,,
+bc5efd2b-b049-4df2-8a34-7df867885010,Temos uma...,Registro de reformulação da fala,,,
+82594391-d372-4992-81d3-b43f70eed388,isso é bom. Isso é bom.,Registro de repetição,,,
+c99eab69-d30a-427e-a9d8-c26bb4a2bf11,Nós não podemos...,Registro de reformulação da fala,,,
+0fe9e00e-06b7-44b4-8edb-a82e240e08ac,industriais,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+e1d26c49-d501-446e-8f3e-87e227cb4da8,"Incômodos, incômodos",Registro de repetição,,,
+0e926367-a077-462d-825a-892a68d3d96f,"óbvio, óbvio",Registro de repetição,,,
+f4823c80-36b1-4e5c-b392-878765251c3a,discortei,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,te cortei,,
+f46e2963-9b0a-4436-82df-0e047a451512,o Brasil pode ser um dos...,Registro de reformulação da fala,,,
+379aedc6-cdb0-4c81-9dc0-a8eee182f329,.,Desvio de pontuação,?,,
+779b4f78-0a43-4d9f-a583-a9fe4f5357ec,commodities. Commodities,Registro de repetição,,,
+e020aa92-d111-4fd4-b448-08fbf2859d89,␣,Omissão,Deixa ele responder.,,
+728bf8b4-e117-47bf-a1f8-c84a80dec361,EMC,Desvio ortográfico - palavra,OMC,,
+a0257401-0f3e-4dab-aef8-5a67294ec76f,"nesse momento, nesse momento",Registro de repetição,,,
+6bb8fdb3-98df-4695-a48d-114512c02833,"tudo é dinâmico, tudo é dinâmico",Registro de repetição,,,
+2a46cf07-11bc-43c0-bd24-5c45fcc0f818,devemos,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,deveremos,,
+b9f90391-3bda-4e6e-baf3-06004d1d589f,"avança e recua, avança e recua",Registro de repetição,,,
+84064322-b81b-41b7-9ee3-f69f166d7021,até isso,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Thais,,
+e7a9d375-98b4-4ccb-a96a-c9aeab6b0aa9,"uma disputa, uma disputa",Registro de repetição,,,
+1fcc540f-5d2d-4c17-b90b-ca5af32152f8,Vasques,Desvio ortográfico - palavra,Vazquez,,
+d7451fb1-11b1-4945-9a6a-91827c67ea56,Thaís,Desvio ortográfico - palavra,Thais,,
+404a1ccc-9707-404f-b680-77e9e3b2cea7,Veronese,Desvio ortográfico - palavra,Veronezi,,
+b38ce53e-81fb-4142-9ad4-9db90f8d8f78,tarifácio,Desvio ortográfico - palavra,tarifaço,,
+92cf2a5b-baae-457c-bb89-657030fca962,Thank you,Inserção,,,
+,,,,,
+# OCORRÊNCIAS EM KEY WORD IN CONTEXT (KWIC) — 8 palavras antes/depois,,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,comentario
+f0bc6c66-7e90-49b9-bb87-2b134a12f84a,retirados da lista daqueles que serão atingidos pelo,tarifácio,Mas não há nenhuma garantia nesse sentido. Para,Desvio ortográfico - palavra,tarifaço
+fc5ee072-44d7-4936-aac5-e927f1efc023,80 e desde 1987 é sócio-diretor da Biscoitos,Tupi,fábrica de alimentos fundada por sua família. Já,Desvio ortográfico - palavra,Tupy
+8fd2d0c8-76a3-411c-b6da-75ab7b7d2804,"Industrial, o SENAI, do Conselho Superior do Instituto",Evaldo,Lodi e é diretor do Departamento Nacional do,Desvio ortográfico - palavra,Euvaldo
+39a38139-5efe-4253-bd31-abf7cf27e8e7,"SESI. Para entrevistar o presidente da CNI, Ricardo",Albano,"nós convidamos Juliana Rosa, comentarista de economia do",Desvio ortográfico - palavra,Alban
+19893ad8-b18c-427e-a176-c0480ac04de7,"Talita Nascimento, repórter do broadcast Agência Estado. Rafael",Vasques,repórter da Editoria de Brasil do Valor Econômico.,Desvio ortográfico - palavra,Vazquez
+50ab306a-d653-47d6-b52c-dc189ad04bce,"Editoria de Brasil do Valor Econômico. Thais Herédia,",anal,analista de economia da CNN Brasil. E Paulo,Inserção,
+45ec4783-fe33-48f6-9009-6925b82dff03,os desenhos em tempo real do nosso Luciano,Veronese,"Boa noite, presidente. Obrigada por ter aceitado o",Desvio ortográfico - palavra,Veronezi
+adbdcdc8-9f94-4949-870a-73b41327cdc0,"que a gente mais gosta, da indústria, da",n,"indústria Brasil, falar do processo de industrialização e",Desvio de capitalização,
+82062db9-efd0-4f8d-8235-224c8b8c418e,"a gente mais gosta, da indústria, da nova",i,"Brasil, falar do processo de industrialização e da",Desvio de capitalização,
+8e0baa1b-919f-471f-8827-b16d93c6e847,comportamento. Isso começou com as primeiras reuniões no,MEDIC,"com o ministro Alckmin, o vice-presidente, onde tivemos",Desvio ortográfico - palavra,MDIC
+26500f1e-4edb-4e22-91b2-9cb01fd3406a,"de não retaliação. E no segundo momento, de",busca do diálogo. Busca do diálogo,"estava difícil. Na verdade, nós temos que ser",Registro de repetição,
+e31a3119-7481-425c-9aa3-3cf4f1ef1d89,"Esse processo se iniciou, tanto é que, em",pena,"da Covid, houve uma nova política industrial nos",Substituição lexical - Por homofonia,plena
+4cd96e84-9863-4040-a146-dd28d3b8f417,"processo se iniciou, tanto é que, em pena",da,"Covid, houve uma nova política industrial nos Estados",Inserção,
+5c3285c7-bd92-4fa6-9eb0-aafb5e912691,"preservação das suas indústrias, de fato. As tarifas",são,uma forma de preservar a defesa de suas,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,é
+de92fe37-3b7c-4386-9eb2-a5420cf207aa,"realidade de mercado? Nós estamos vendo a Europa,","a Alemanha, a Alemanha","o grande celeiro da indústria automobilística, hoje já",Registro de repetição,
+cf277871-2aae-430e-bec1-660d697169ff,"tradicionais como a Europa, como o Reino Unido,",estão,"enfrentando esse problema. Nós também temos que fazer,",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,está
+37a04ba2-1b69-412b-ba77-122391909f34,"não é simples, não é fácil essa substituição.",Comodities,"é um pouco mais fácil, é um pouco",Desvio ortográfico - palavra,Commodities
+f3e75682-1f59-4837-afa2-3aa588afbd4c,"uma infinidade de indústrias no sul do país,",para a,"Nascida da Catarina e Rio Grande do Sul,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Paraná
+8b4360f2-1ed7-46e3-a789-90b61252e65d,"de indústrias no sul do país, para a",␣,"Nascida da Catarina e Rio Grande do Sul,",Desvio de pontuação,","
+c188a99e-f9ed-4173-a7a2-436bc39bc695,"de indústrias no sul do país, para a",Nascida da,"Catarina e Rio Grande do Sul, que fabricam",Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,Santa
+1c3e6160-6aa5-4295-a1a2-10a17d8b61e4,"inviável à continuidade dessa empresa. Então, quando nós",pud,pudemos focar primeiro foi quais são as características,Inserção,
+975411bd-eb40-41e1-b100-a1dcc89a9f95,"características inerentes das empresas exportadoras. Número um, ACC,",Adjetamento,de Contrato de Câmbio. Todas trabalham com esse,Desvio ortográfico - palavra,Adiantamento
+57a778f0-a4a7-4862-8cd9-4ee143538db0,"é que nós pedimos? Que o prazo hoje,",em março,são 750 dias entre a tomada do adjetamento,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,máximo
+056e6261-2866-4ed4-8109-0186b0d0ca50,"março, são 750 dias entre a tomada do",adjetamento,"de câmbio e o fechamento do financiamento, que",Desvio ortográfico - palavra,adiantamento
+7a75e720-2c68-4b86-a68a-220ea9c70e74,que dobrasse esse prazo. Depois nós pedimos o,r,que foi dado agora para as empresas do,Desvio de capitalização,
+ddca889a-4ffc-4fb9-a71d-9fa8e5f2749e,que foi dado agora para as empresas do,Simps,"3%, que fosse estendido esses 3% para todas",Desvio ortográfico - palavra,Simples
+f9a6e08b-003e-4554-aa80-62b043ac3c4a,estendido esses 3% para todas as empresas do,r,"Depois nós temos muitas empresas que exportam, volto",Desvio de capitalização,
+04eebb2e-8799-4a8e-a7d2-a8b34bf4f375,para que essa dosimetria das medidas pudesse ser,feita,"Então, nós estamos trabalhando junto, buscando pesquisas também",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,feitas
+d5be6d2a-3adc-4f79-8769-27150bbdfca3,já está acontecendo. Muitos embarques não foram feitos.,␣,Há pouco o senhor falava para o Rafael,Omissão,"Pois não, Talita."
+a1b256cc-4327-4bdc-8fb6-861b1bd0842d,avançar na sua parceria com o governo chinês?,Thalita,"que bom que você fez essa pergunta, porque",Desvio ortográfico - palavra,Talita
+cdf24fdb-e10b-4dd6-b7e7-acf2d727b82b,a China começou a se desenvolver significativamente? Ela,traiu,a produção para o seu país e soube,Substituição lexical - Por homofonia,atraiu
+ad894b82-054a-4698-a600-7992ea0aaa72,"queria continuar nessa linha. Porque na semana passada,",a sessão,"especial de assuntos internacionais do presidente Lula, Celso",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,assessor
+a37060d2-2698-449c-96da-cf7d8707b1e0,ele disse que toda essa situação com o,Tarifasso,"enfim, essa situação com o presidente Donald Trump,",Desvio ortográfico - palavra,tarifaço
+f22e31cd-445d-4c47-a0d7-dacd3b5e1e5d,"BRICS, dizendo que boa parte da culpa do",tarifácio,vem desse alinhamento do Brasil ao BRICS e,Desvio ortográfico - palavra,tarifaço
+908d1fcf-7b06-459d-8e15-a408c3c1efae,"é um novo bloco, teve o período dos",tiques,asiáticos. O que nós temos que fazer é,Substituição lexical - Por homofonia,tigres
+fc192c21-10d9-4064-bd42-23fd99ea8525,"já já com o presidente da CNI, Ricardo",Albano,Inovação que conecta. Bradesco. Nós estamos de volta,Desvio ortográfico - palavra,Alban
+1f67a53c-d268-4575-8751-3b81900ca5b4,"embaixador americano aqui, listando razões pelas quais o",tarifácio,"é prejudicial também para as empresas norte-americanas, também",Desvio ortográfico - palavra,tarifaço
+05e309b0-b373-4318-aa8e-e47ed07ce04b,"mesa. Diga-se de passagem, o Gabriel Escobar foi","muito acessível, muito acessível","Explicamos a situação que nos preocupava, principalmente das",Registro de repetição,
+c8bc46a6-2664-4bd7-87a0-5e2f7e2632cf,"com eles lá em maio, e com a",Anshan. Anshan,e a West Chamber já tinham feito uma,Registro de repetição,
+57450a11-c7d0-4457-aa06-f946187cd5b6,"com eles lá em maio, e com a",Anshan,Anshan e a West Chamber já tinham feito,Desvio ortográfico - palavra,Amcham
+2a468fee-b738-4d8e-9f79-9aa663b8c187,"eles lá em maio, e com a Anshan.",Anshan,e a West Chamber já tinham feito uma,Desvio ortográfico - palavra,Amcham
+14bdd077-3789-4cd2-a491-c83a0dc178ba,vantajoso? Essa foi a prioridade que nós falamos,no,número um. Quando você tem setores altamente impactados,Inserção,
+a2027926-0f05-4968-b4a2-7de0994af817,Não interessa essa polarização nesse setor. Nós fizemos,suco de laranja. Suco de laranja,não existe opção de mercado para suco de,Registro de repetição,
+b1459a9a-eeb9-4efc-a3a1-40f765c0e215,"da noite para o dia, você fazer uma",cearia,Mas então o senhor acha que veio mais,Substituição lexical - Por homofonia,aciaria
+48791893-92dc-4916-bc4a-c056acdafee6,o teto de uma relação comercial de tarifas.,Albã,"essa sensibilidade que você chama, ela foi se",Desvio ortográfico - palavra,Alban
+2429d61b-abe4-40ac-9d24-ca1287e2997b,"política para o governo Lula, que transformou o",Tarifasso,"e tal numa nova plataforma, inclusive, de comunicação,",Desvio ortográfico - palavra,tarifaço
+0194b21c-aae0-4144-a19f-fea1a4206bc2,plataforma política vai atrasar a solução para esse,.,Contra fatos não existem argumentos. Até a parte,Desvio de pontuação,?
+a883b62a-8969-4344-b1fe-fc7d0716d329,"que de esquerda. O empresariado, sempre nós verificamos,",não,"todo empresariado, mesmo industrial, uma certa maior identidade",Substituição lexical - Por homofonia,em
+c12b6526-84ce-4ff1-9f7a-b0aa3b2fa1f9,uma certa maior identidade com uma política de,direito,Isso é um fato. Mas o que nós,Substituição lexical - Por homofonia,direita
+46d53522-a606-4751-b054-879b92a5c8a1,"conversar empresarialmente. Nós temos até conseguido, nesse governo,",a própria,vamos dar a César o que é de,Registro de reformulação da fala,
+479c61a9-f01e-4037-8939-67a072207e29,"forma alguma, mas foi quando nós tivemos os",Braz,"da vida. Se der Braz, é Libraz e",Desvio ortográfico - palavra,Bras
+89878be5-9f54-4fc9-a155-66f59c18248e,foi quando nós tivemos os Braz da vida.,Se der Braz,é Libraz e etc. Libraz não que é,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Siderbras
+99594358-cde1-4511-aa90-ad4800b05a89,"tivemos os Braz da vida. Se der Braz,",é Libraz,"e etc. Libraz não que é agora, mas",Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Helibras
+20efb879-533d-4912-8e34-2de857a18e4a,"vida. Se der Braz, é Libraz e etc.",Libraz,"não que é agora, mas é Eletrobras e",Desvio ortográfico - palavra,Helibras
+ad1ffe66-d5c7-470a-96f7-1fa34bed6aa1,que é a prioridade agora? É resolver o,tarifácio,e dar fôlego para a indústria ou focar,Desvio ortográfico - palavra,tarifaço
+179f6d48-a5d5-4c93-a36d-557ce573700c,"uma coisa pontual, algo que vai ser resolvido,",mas,sendo mais tarde. Mas a indústria brasileira enfrenta,Substituição lexical - Por homofonia,mais
+5aa92b0d-d244-4dff-bf02-971522e10746,"coisa pontual, algo que vai ser resolvido, mas",sendo,mais tarde. Mas a indústria brasileira enfrenta problemas,Substituição lexical - Por homofonia,cedo
+55f4ab85-1abf-49d9-92a0-6865caf4fa56,"pontual, algo que vai ser resolvido, mas sendo",␣,mais tarde. Mas a indústria brasileira enfrenta problemas,Omissão,ou
+87173400-9b45-4db8-8343-94f616433e1f,Nós temos uma infinidade de crises para administrar.,Essa é mais uma. Essa é mais uma,que vai ser superada porque essa crise não,Registro de repetição,
+1d0fbadc-0171-4214-bf7c-f385aa968873,superada porque essa crise não é só nossa,␣,". A nossa crise está potencializada. Não, eu",Omissão,Alban
+7470bb30-d45b-47df-8a26-1d3427392ecc,temos pontual agora com relação ao investimento da,BID,"com relação à Anfávia, nós temos hoje a",Substituição lexical - Por homofonia,BYD
+d1681c60-df68-4289-bc1e-db2f2902bf40,"relação ao investimento da BID, com relação à",Anfávia,nós temos hoje a indústria automobilística no Brasil,Desvio ortográfico - palavra,ANFAVEA
+ff26523f-fef5-4fed-af81-ae3d697fe47d,"único programa, a Mover, que é lastreado na",ib,na nova indústria Brasil. Tem subsídio sempre na,Desvio de capitalização,
+d7012b2c-a766-4f03-a994-bcf70110b0a0,"a Mover, que é lastreado na Nib, na",n,indústria Brasil. Tem subsídio sempre na indústria automotiva.,Desvio de capitalização,
+4fd96778-93da-41fd-acfe-6a2003ac7c42,"Mover, que é lastreado na Nib, na nova",i,Brasil. Tem subsídio sempre na indústria automotiva. Não,Desvio de capitalização,
+5eeb5f29-ec2a-4f0c-b7f3-edf68a80cead,"valor. Então, não é exatamente isso, bastamos nós",olhar,"a estatística, a relatividade desse subsídio. E mais",Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+7f190dc4-88db-4dd6-ba51-327a3005be4c,Nós não temos um orgulho nacional do agronegócio,␣,", nem um orgulho nacional , para mim",Desvio de pontuação,?
+70204154-5814-4743-bc03-6539152c1cc1,"não temos um orgulho nacional do agronegócio ,",nem,"um orgulho nacional, para mim é um orgulho",Substituição lexical - Por homofonia,não é
+4b6f68ff-f874-46a3-ad55-6125c43f3d67,"nacional do agronegócio , nem um orgulho nacional",␣,", para mim é um orgulho nacional. E",Desvio de pontuação,?
+5be736d1-0b92-4b5f-9ce2-33ff5e3b72f7,"o agronegócio chegou onde chegou, baseado em quê?",Lá no,safra. Baseado em altos incentivos para o seu,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Plano
+f83b2d31-6da5-462b-a770-bb634aa8fd68,"chegou onde chegou, baseado em quê? Lá no",s,"Baseado em altos incentivos para o seu processo,",Desvio de capitalização,
+3996c138-f39d-45d7-8dd1-3bcfd538bad6,"financiamento, quer seja subsídios, quer seja... Mas ele",␣,abriu para o mundo e a indústria não.,Omissão,se
+5ca92c0a-1479-4569-ac67-51ec11cd42f3,só queria voltar nessa questão da politização do,T,porque eu queria saber a sua avaliação sobre,Desvio de capitalização,
+12a8b0d8-5a0f-4118-afe0-16af885e0b91,só queria voltar nessa questão da politização do,Tarifácio,porque eu queria saber a sua avaliação sobre,Desvio ortográfico - palavra,Tarifaço
+87c364dd-29ba-4fd9-8779-c93dae933996,saber a sua avaliação sobre a atuação do,-,do Alckmin. Ele tem recebido vários elogios de,Inserção,
+57db3ac9-f8d5-41b7-ba92-9055b86e31dd,saber a sua avaliação sobre a atuação do,geral do,"Alckmin. Ele tem recebido vários elogios de setores,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Geraldo
+a8b882f9-b06e-43b4-90b1-3234d9ff88d8,"de setores, entidades setoriais, também recebeu elogios do",senhor,"Dembraer. Ele teve ali, fez essa intermediação entre",Substituição lexical - Por homofonia,CEO
+5d433f2d-be44-49a9-9a87-658d225f13c9,"setores, entidades setoriais, também recebeu elogios do senhor",Dembraer,"Ele teve ali, fez essa intermediação entre o",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,da Embraer
+9a7e3fe4-2e0a-4600-ac79-5d05ea8822ca,"descartar, por exemplo, uma resposta que fosse imediatamente",retalhatória,alguma coisa de ameaçar com lei de reciprocidade,Desvio ortográfico - palavra,retaliatória
+5b99caaf-354e-4a14-b21f-62ea45ad7122,que foi a primeira reunião lá feita no,MEDIC,"com a participação de vários ministros, foi quase",Desvio ortográfico - palavra,MDIC
+13796808-08ea-4efc-b03c-9f671b5528f2,"consenso com todos os ministros, estavam as ministras",Simonitéri,"estava o ministro Rui Costa, estavam vários outros",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,Simone Tebet
+0b763ae8-2ac7-4dc5-bfa3-737780f81b6f,num cenário de trégua comercial e não de,tarifácio,O que o senhor proporia nesse novo cenário?,Desvio ortográfico - palavra,tarifaço
+22435a84-3f99-49f5-b59e-49bcc3c59637,"ponto importante, porque uma das campanhas ou dos",motos,que o governo lançou recentemente é exatamente o,Substituição lexical - Por homofonia,motes
+63313733-0999-4ff3-9c61-dbce2203ce50,"é o equilíbrio que o senhor acredita? Primeiro,",␣,o senhor concorda com essa campanha pela justiça,Omissão,se
+5cf27640-cf1c-4f36-add6-571dde8515cb,essa campanha pela justiça tributária no Brasil? Se,ela realmente,o senhor acredita que ela vai sair? E,Registro de reformulação da fala,
+8b75df71-006d-4cb7-a12c-fffb3fbb6b08,mesmo tempo enfrentar essa nova agenda do governo?,Thaís,"eu não tenho dúvida que devem existir equívocos,",Desvio ortográfico - palavra,Thais
+d4fcf5f6-dd60-4bad-8996-b592aed8b83c,"equívocos, como tem em tudo quanto é lugar,",devem,ser tributários. Eu só não consigo entender a,Substituição lexical - Por alucinação,do
+e2160095-39c5-4c81-a75b-6a2b50aa6421,"como tem em tudo quanto é lugar, devem",ser,tributários. Eu só não consigo entender a lógica,Substituição lexical - Por homofonia,setor
+25a1d6c2-e974-4cdb-997f-bd9c0a9fd637,"tem em tudo quanto é lugar, devem ser",tributários,Eu só não consigo entender a lógica de,Desvio ortográfico - palavra,tributário
+672d9d02-74e3-49ea-8763-d3f07b0a0b70,"do IOF, do processo do IOF, que foi",␣,"estar sendo esse verdadeiro parto, seria bom que",Omissão,e
+1336be31-e25b-4c8b-813f-21269250e624,"do IOF, do processo do IOF, que foi",estar,"sendo esse verdadeiro parto, seria bom que fosse",Substituição lexical - Por homofonia,está
+83a1e0bd-2790-4094-8010-58c60785c234,"estar sendo esse verdadeiro parto, seria bom que",fosse,"fosse parto de nove meses, mas é um",Inserção,
+fef8abe4-bcee-4f57-87e2-fb4490ebcc5a,"estávamos discutindo, junto com o Legislativo, foram nos",perguntados,"num almoço, como é que a base está",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,perguntado
+4369a1e9-e6dc-4d89-86bf-4e446d2f8ba6,"com o Legislativo, foram nos perguntados, num almoço,",␣,como é que a base está vendo essa,Omissão,Alban
+2f21b24c-3426-4db1-b78f-4168c4f47f12,base está vendo essa discussão do IOF? E,␣,"eles pediram, amigo, a base está vendo como",Omissão,eu
+93e05a5d-d2f7-48a1-a0bc-e5c79e980886,base está vendo essa discussão do IOF? E,eles,"pediram, amigo, a base está vendo como nós",Substituição lexical - Por homofonia,lhe
+2a5cb8d8-00b6-4d44-98d9-01f73dc1b612,está vendo essa discussão do IOF? E eles,pediram,"amigo, a base está vendo como nós estamos",Substituição lexical - Por alucinação,explico
+5bf1e62f-123e-4395-8c7b-9ca48731ab01,plano enquanto foca na resolução do problema do,tarifás,"Não, porque esse problema da justiça tributária, ou",Desvio ortográfico - palavra,tarifaço
+424141ee-03d4-4dcf-aead-e66dcd06e9c8,A outra coisa requer um pouco mais de,parcimônio,um pouco mais de equilíbrio nas relações bilaterais.,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+4633fcee-9fff-4482-ad8e-235cb3bbf9e8,que não incide sobre pessoas físicas é um,leve,engano. Fale dizer que o IOF não vai,Substituição lexical - Por homofonia,ledo
+f2ea4e73-9f98-4108-9373-8711ecb2a476,Selic que tem 10% de juros reais e,que saiba,que só foi só isso? Só que nós,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,quiçá
+24fabf81-14f8-4daf-8aa2-a98b0b320fdf,de juros reais e que saiba que só,foi,só isso? Só que nós temos um mercado,Substituição lexical - Por homofonia,fosse
+5eef56bb-8a0a-40db-9865-f9a58eecc2fc,"que existem outras ferramentas de política monetária, além",de,"simplesmente os juros. Uma delas é depósito compulsório,",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,da
+ff4ca72e-6b94-4e3e-b158-4ac09303c2ae,"Uma delas é depósito compulsório, que você pode",enxergar,a liquidez através do depósito compulsório e não,Substituição lexical - Por homofonia,enxugar
+c954facc-a4dc-4a5e-8fc5-c6a11fe31dcd,"correto, não é esse o meu pressuposto, antes",␣,"isso não seria 2%, 3%, porque não se",Omissão,de
+742bc82c-0ef6-4e4e-b563-27e2e6ac43d6,"correto, não é esse o meu pressuposto, antes",isso,"não seria 2%, 3%, porque não se trabalha",Substituição lexical - Por homofonia,subir
+fea16124-e9b0-4ca6-a996-25186fbeafeb,"não é esse o meu pressuposto, antes isso",não,"seria 2%, 3%, porque não se trabalha no",Substituição lexical - Por alucinação,a
+0ce89793-2cb2-489f-98d7-943bd988cf3d,"é esse o meu pressuposto, antes isso não",seria,"2%, 3%, porque não se trabalha no IOF.",Substituição lexical - Por homofonia,Selic
+31e50d29-05aa-4ebf-88a8-1a9b7e2d54d8,"seria 2%, 3%, porque não se trabalha no",.,"Você tinha arrecadação, você tinha o mesmo efeito",Desvio de pontuação,?
+32284f19-dd64-4339-9e52-61fd72907b40,efeito sobre os juros e não tinha o,ônibus,sobre o serviço da dívida. Nós não temos,Substituição lexical - Por homofonia,ônus
+4fc54da5-c082-436d-88e7-af267ceec9ce,de uma forma tão exponencial como ele vai.,␣,Você citou a taxa de juros e se,Omissão,"Abriu uma última, quem vai?"
+1b89fa25-d807-4bab-91dc-f6771289b22f,do Copom foi justamente a incerteza gerada pelo,tarifácio,e na incerteza a gente mantém os juros,Desvio ortográfico - palavra,tarifaço
+1a3d45e1-c26f-4ac9-aabc-4402fec50e8a,gente mantém os juros da maneira como está.,Thalita,você sabe aquela história do copo meio cheio,Desvio ortográfico - palavra,Talita
+7694ae67-5e9d-4437-9816-740234f8bb99,meio vazio? A gente tem argumento para tudo.,"O Copom também ao mesmo tempo disse,",o Copom na economia ao mesmo tempo disse,Registro de reformulação da fala,
+dbc59821-e784-4879-bd3f-8b088d74481e,"Copom também ao mesmo tempo disse, o Copom",na,economia ao mesmo tempo disse que esse tarifácio,Substituição lexical - Por homofonia,não
+fee95f18-1a60-48a4-a31f-52a130c1b40a,"também ao mesmo tempo disse, o Copom na",␣,economia ao mesmo tempo disse que esse tarifácio,Omissão,a
+626024af-a124-4a10-b605-8fef0c2b1e2a,na economia ao mesmo tempo disse que esse,tarifácio,"poderá facilitar o combate com a inflação, porque",Desvio ortográfico - palavra,tarifaço
+ebe101b6-86d0-4d25-9bb4-da63965c2280,a indústria ajudou e o agro foi negativo.,"A indústria já está sentindo, né? A indústria já está sentindo, né?","Sim, já vem. É um processo gradativo e",Registro de repetição,
+31553d32-94fa-408a-9bbb-a3ed00d4ddf8,"já já com o presidente da CNI, Ricardo",Albano,Inovação que conecta. Bradesco. Nós estamos de volta,Desvio ortográfico - palavra,Alban
+612fa72e-3dfd-41de-9a52-c3a851b947a3,"volta com Roda Viva, que hoje discute o",tarifácio,e outras questões de política industrial com o,Desvio ortográfico - palavra,tarifaço
+74b7692a-68b4-4d16-afac-f820a43bced7,"entrevista, estão agindo em conjunto no enfrentamento ao",tarifácio,"Como está sendo essa estratégia? Sim, desde que",Desvio ortográfico - palavra,tarifaço
+bfcea763-2f77-4416-80f6-de952f7591be,"está em tudo, tudo está em indústria. Indústria",␣,"pop. Nós temos agora, desculpa, Paulo, nós temos",Omissão,é
+f818c304-5835-4763-907b-cbb04f32c3c1,"em tudo, tudo está em indústria. Indústria pop.","Nós temos agora, desculpa, Paulo, nós temos agora que estamos criando um mote. Assim como tem o agro é pop, o agro é tech, nós temos que na indústria é pobre.","Não, nós temos agora, desculpa, Paulo, nós temos",Inserção,
+a1f9cc13-a5d9-4276-9a71-5388c45c95fc,um mote. Assim como tem o agro é,pobre,"o agro é tech, nós temos que na",Substituição lexical - Por homofonia,pop
+153dbe4d-4660-4cb6-bcbe-468f67a6cfef,"mais, a indústria cria. Aquilo que dá certo,",a gente,"é sempre bom seguir o rumo. Alba, eu",Registro de reformulação da fala,
+3a4b486a-3705-4cd8-8ced-33089d7dd07d,a gente é sempre bom seguir o rumo.,Alba,"eu só queria voltar, pegando esse gancho, na",Desvio ortográfico - palavra,Alban
+d1cf9a35-c416-4484-92a1-d283a9ca7528,dividindo em propostas que têm impacto no marco,fichal,e outras que não têm. O ministro Fernando,Desvio ortográfico - palavra,fiscal
+0e4c841c-3a66-48eb-9222-3c7c4e114f61,queria trazer aqui uma preocupação do economista Samuel,Pessoa,Ele deu uma entrevista para a BBC e,Desvio ortográfico - palavra,Pessôa
+78e67e77-1f25-4624-afc7-dacc73dd9fad,para não acontecer o que aconteceu com o,PERS,"por exemplo, que foi um programa criado para",Desvio ortográfico - palavra,PERSE
+0ad8a3a6-8c20-4ff6-999e-6b7c5bc13414,atingir quem realmente precisa. Nós sabemos que no,PES,"mesmo, por exemplo, teve muitos setores que, ao",Desvio ortográfico - palavra,PERSE
+4f738553-d8c6-48be-ad4b-bdaaba39da82,sem Mercosul. Isso a gente tem que acelerar.,Albano,você disse que está discutindo essas soluções com,Desvio ortográfico - palavra,Alban
+f89c354a-1c27-47ce-929b-5cd6dd22fc04,não só pode ajudar na solução específica do,tarifácio,mas tem lá uma série de medidas econômicas,Desvio ortográfico - palavra,tarifaço
+17dbf151-53e3-4747-8247-75a44eeed839,"medidas mitigatórias, digamos assim, da crise proveniente do",tarifácio,se o Congresso estaria contaminado ou não pela,Desvio ortográfico - palavra,tarifaço
+db000629-f76c-4352-ae0b-3a407e476bb0,"que quando tivemos em maio os 10%, e",hoje,"estamos falando de 10%, o Congresso se juntou",Substituição lexical - Por homofonia,olha
+62e04384-f6e3-40af-8be8-802377b9c4b0,"quando tivemos em maio os 10%, e hoje",␣,"estamos falando de 10%, o Congresso se juntou",Omissão,que
+d9e40f58-53c9-42ab-93f1-2f3ed9d84c02,"estamos falando de 10%, o Congresso se juntou",unicionalmente,"por unanimidade, para aprovar aquela lei de reciprocidade,",Desvio ortográfico - palavra,unissonamente
+b75ef5e8-4d43-4740-99e6-9033a6fa484b,estamos falando de 50% e áreas que atingem,água,"atingem indústria de todos, que nesse ponto deveríamos",Substituição lexical - Por homofonia,agro
+df419b64-733f-4d4a-ba18-952506c1ed8f,"50% e áreas que atingem água, atingem indústria",␣,"de todos, que nesse ponto deveríamos ter uma",Omissão,atinge
+3a839fde-1f02-44f5-8876-de97eab4fbcc,"50% e áreas que atingem água, atingem indústria",de,"todos, que nesse ponto deveríamos ter uma convergência",Inserção,
+5b174996-14ce-4920-904d-cdd26d52c66c,"água, atingem indústria de todos, que nesse ponto",deveríamos,ter uma convergência para dar solução. Em momento,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,deveramos
+e122a264-39d4-4bfa-b521-1077502b215f,"essa ambiência do Congresso e com o governo,",dos,"poderes, essa é uma realidade que nós estamos",Substituição lexical - Por homofonia,nos
+848367d7-a923-45fb-96ba-ed589be6a36c,"dos extremos, é algo que eu, como não",sou,"representante da indústria brasileira e como cidadão, lamento.",Substituição lexical - Por homofonia,só
+c5414bd2-230e-4dc0-b95f-4809e219cb00,"representante da indústria brasileira e como cidadão, lamento.",Nós precisaríamos,"eu não conheço, Thaís, nenhuma nação, nenhum país",Registro de reformulação da fala,
+ade29b5f-1b91-4a20-b768-3ef780b192f1,"como cidadão, lamento. Nós precisaríamos, eu não conheço,",Thaís,"nenhuma nação, nenhum país se transformou em nação",Desvio ortográfico - palavra,Thais
+11d8b005-f925-4c31-918e-30006920b236,"se transformaram em nação foi conjugando nós. Então,",eu,"essa polarização definitivamente não constrói uma nação. Presidente,",Registro de reformulação da fala,
+cf28eac4-06fd-472a-9b33-00937d97aac9,"a Thais aqui só rapidamente, quando falamos de","lobby, lobby",é algo totalmente normal nos Estados Unidos. E,Registro de repetição,
+a36d9d17-4dda-452c-b988-ed1de031b33c,Estados Unidos. E por que eu estou me,levando,a dar essa sua resposta? Eu gostaria que,Substituição lexical - Por homofonia,lembrando
+cc6c755d-bfc6-4aa3-b0ae-9f9e63df76b7,Unidos. E por que eu estou me levando,a,dar essa sua resposta? Eu gostaria que a,Substituição lexical - Por homofonia,de
+16a0b944-646d-4a04-af63-9554c9d6d26b,seis itens desse processo de investigação da sessão,13 de 1,"Desses seis itens, nós vamos participar de quatro.",Desvio ortográfico - número,301
+318436f9-7974-4725-8fe1-20623d5e2329,na defesa de interesse da relação bilateral entre,␣,"os Estados Unidos. E nesse processo, o que",Omissão,Brasil e
+2f1c80a9-baab-40fe-8c65-d0bcabb59582,"terras raras. No Brasil, se diz que é",a,segunda maior reserva do mundo. E nós não,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,o
+a89bd724-5c91-49ff-84fa-85c196c3765c,"raras. No Brasil, se diz que é a",segunda,maior reserva do mundo. E nós não temos,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,segundo
+50992335-678e-4fc6-b20c-363f0453ae32,minerais críticos é a China. Os Estados Unidos,estão,desenvolvendo essa tecnologia. Podemos estar pensando em desenvolver,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,está
+255527fd-fca6-4283-acd3-41742954d78c,Estados Unidos. Podemos desenvolver isso em conjunto. Discutimos,tantos,Big Techs. Big Techs precisam cada vez mais,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,tanto os
+900f1283-6f98-4d2e-9e5c-cd03a3086c20,Unidos. Podemos desenvolver isso em conjunto. Discutimos tantos,Big Techs. Big Techs,precisam cada vez mais de data centers. Os,Registro de repetição,
+d4078fa9-48b1-44ff-932e-1f69f39916cb,"nas energias renováveis que são intermitentes, são baterias,",superbaterias. Superbaterias,"são feitas de materiais críticos. Então, existe um",Registro de repetição,
+bc6ffada-1a36-447f-893e-8d329b194382,o senhor falou agora para a Thais que,␣,gostaria que o lobby da indústria fosse maior.,Omissão,o senhor
+6d7655a2-bad8-403f-8582-366c13ef290f,suprimentos do setor automotivo. E tem também a,J,Você também tem no setor todo um investimento,Desvio de capitalização,
+96fcd305-d565-41df-bd28-9b97faff44dc,foi colocado na mesa e é uma verdade.,E nós tivemos...,Sabe o que eu sinto no setor automotivo,Registro de reformulação da fala,
+f3543630-1824-44ae-8105-88dddd723fcb,rápida interrupção e volta já já discutindo o,tarif,de volta e quem pergunta agora para o,Desvio ortográfico - palavra,tarifaço
+a1784c85-e51d-4f9b-a906-af8b0579cbb2,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,Omissão,e toda essa agenda enorme que o Alban colocou aqui para gente.
+32baadb5-e454-4aae-8e01-664dba35ca3a,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,Omissão,"Inovação que conecta, Bradesco."
+73f5cc51-e28c-4f06-9d09-6ed29041d64f,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,Omissão,O Roda Viva está
+51ef13d4-f6da-4739-90e1-342050fe3e29,agora para o Ricardo Alban é o Rafael,Vasco,"Presidente, tentar conectar aqui dois pontos. Indústria verde",Substituição lexical - Por homofonia,Vazquez
+8f6f42f1-af91-4121-8b3d-d200a9c7d9c9,"no ano passado, coordenamos, a CNI coordenou aqui",o B20. O B20,"é o setor privado do G20, totalmente estruturado,",Registro de repetição,
+09408864-cd50-47ab-ad76-2b3d1daae825,"ano teve o BRICS, que tem também o",SEBRICS,"que foi no Brasil, e nós coordenamos também",Desvio ortográfico - palavra,CEBRICS
+ab98270d-f522-4749-9d11-6f30eece4b64,também aqui e criamos também a força-tarefa do,SEBRICS,"que foi coordenada inclusive pelo Francisco, o CEO",Desvio ortográfico - palavra,CEBRICS
+c75aa8af-b904-4b95-8b76-373d23008a4e,temos feito com o B20 e com o,Cebrix,como é que uma COP pode ter discussões,Desvio ortográfico - palavra,CEBRICS
+66585b4d-1023-418a-bb10-fff0085f0ce9,"vai querer isso. Então, nós criamos a SB",op,"para que ela seja também contínua, já está",Desvio de capitalização,
+9ca5b4c9-765a-4a9d-8b22-4bd723f62ae4,de milhares de empresas já fazendo parte da,SBCOP,onde nós tivemos já concordância do governo e,Desvio de segmentação - Hipossegmentação,
+141c2e8f-f0ea-492a-9626-0317df65df8f,nós tivemos já concordância do governo e a,SBCOP,"a partir daqui do Brasil, vai funcionar que",Desvio de segmentação - Hipossegmentação,
+d86e1035-d702-475b-80c9-a3eec784c21d,"está no radar, seguramente. Nós tivemos até recentemente",visitão,"lá, porque nós também temos que acomodar a",Desvio ortográfico - palavra,visitando
+962b7f8b-98df-4b99-acbf-6037d1499053,"essa organização. Tanto é, para só ilustrar, esse",␣,", a COP tem uma construção diferente. A",Omissão,ano
+651473d7-6172-414c-b006-1721aef067b6,assim os preços foram absurdos. Vai ter que,mitig,mitigar. É responsabilidade do governo de encontrar as,Inserção,
+c8bc93ad-18c0-42b2-974b-b57b11559aa6,"tem como voltar mais atrás. Certo. Diga, Paulo,",o,que eu te contei. Eu só queria engatar,Inserção,
+47b62810-4d54-44b9-a3dd-fcaa1c60f2bb,"atrás. Certo. Diga, Paulo, o que eu te",contei,"Eu só queria engatar nessa questão de COP30,",Substituição lexical - Por homofonia,cortei
+06ccb9bb-75ee-4951-a7be-45c785078875,"semana passada, nós assinamos um convênio com o",BAMA,Como tu imaginaria isso? No próprio discurso da,Desvio de capitalização,
+2a18bd71-6e0d-45a7-8171-328f23bad2a2,toda a equipe nossa e o entendimento do,BAMA,"todos estão vendo aquilo como facilitador, nós estamos",Desvio de capitalização,
+9f4afad3-0e7c-411d-8eef-3f0039d2316d,"facilitador, nós estamos suprindo. Você acredita que o",BAMA,não tinha um drone para o licenciamento? Como,Desvio de capitalização,
+ea242660-d1e7-4450-a1b2-41328882c478,"legitimamente trabalhar para a derrubada do veto. Diga,",Thalita,"Agora, para falar de transição energética, descarbonização, a",Desvio ortográfico - palavra,Talita
+1365a1b8-7d1a-4fcc-9f2a-be98411874f6,"porque, mais uma vez, nós temos que dar",␣,césar o que é de césar. O BNDES,Omissão,a
+07f57d6d-3d17-4d50-adaa-fb51dfeb3c48,"porque, mais uma vez, nós temos que dar",c,o que é de césar. O BNDES tem,Desvio de capitalização,
+21927bfd-422c-47e7-b968-aebfdb0c4dc5,temos que dar césar o que é de,c,O BNDES tem desenvolvido um papel muito importante,Desvio de capitalização,
+6808598c-9939-422f-82a5-ee37f3b2a28b,mundo são recursos. Faltam projetos e segurança jurídica.,Aba,eu quero sair um pouco da história da,Desvio ortográfico - palavra,Alban
+092bae51-8e0f-4872-b999-70a942e54737,"muito forte do presidente americano, Donald Trump, com",a Argentina. A Argentina,"com o Javier Millet, é uma oposição forte",Registro de repetição,
+d4d7ff09-4375-4d19-a3a9-129f6d605668,"com a Argentina. A Argentina, com o Javier",Millet,"é uma oposição forte ao governo brasileiro, inclusive",Desvio ortográfico - palavra,Milei
+f1e3469c-000f-40e6-90b2-fca879793cc4,"povo, para a sua sociedade. Sem a ideologia,",sem...,"A geopolítica faz parte, porque nós não vivemos",Registro de reformulação da fala,
+cf4d186b-4069-4f11-beb3-b8f63dc4ac81,e eu volto já já com mais Ricardo,Albano,no Roda Viva. Inovação que conecta. Bradesco. Nós,Desvio ortográfico - palavra,Alban
+c14a8282-c355-451b-af99-8c463bc8f74c,de competitividade? A reforma tributária vai beneficiar a,.,"Vai, mas a reforma tributária ainda carregou um",Desvio de pontuação,?
+bc5efd2b-b049-4df2-8a34-7df867885010,setores para incluir seus produtos na cesta básica?,Temos uma...,Como é que vai ser esse fundo de,Registro de reformulação da fala,
+82594391-d372-4992-81d3-b43f70eed388,"Então, nós estamos tendo realmente uma transformação. Mas",isso é bom. Isso é bom.,"Mudança traz oportunidades. Nós não podemos... Olha, o",Registro de repetição,
+c99eab69-d30a-427e-a9d8-c26bb4a2bf11,é bom. Isso é bom. Mudança traz oportunidades.,Nós não podemos...,"Olha, o ser humano, não é o brasileiro,",Registro de reformulação da fala,
+0fe9e00e-06b7-44b4-8edb-a82e240e08ac,"traz sequelas para o setor, principalmente de exportação",industriais,"é óbvio que essas ponderações são feitas, per",Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+e1d26c49-d501-446e-8f3e-87e227cb4da8,"Mas tem incômodos, o senhor ouve incômodos. Como?","Incômodos, incômodos","dos empresários com essa campanha aberta. Sim, óbvio,",Registro de repetição,
+0e926367-a077-462d-825a-892a68d3d96f,"incômodos dos empresários com essa campanha aberta. Sim,","óbvio, óbvio","Mas alguém falou para ele, algum de vocês",Registro de repetição,
+f4823c80-36b1-4e5c-b392-878765251c3a,"eu tenha conhecimento, não. Diga, Paulo, que eu",discortei,Eu só queria voltar nessa questão da OMC.,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,te cortei
+f46e2963-9b0a-4436-82df-0e047a451512,pela Câmara de Comércio Internacional que mostra que,o Brasil pode ser um dos...,O comércio brasileiro pode ser um dos mais,Registro de reformulação da fala,
+379aedc6-cdb0-4c81-9dc0-a8eee182f329,"que, enfim, a gente está vivendo esse momento",.,Eu não consigo associar esse colapso da OMC,Desvio de pontuação,?
+779b4f78-0a43-4d9f-a583-a9fe4f5357ec,"brasileiras, porque nós ainda estamos muito concentrados em",commodities. Commodities,"é usado, é a lei de mercado que",Registro de repetição,
+e020aa92-d111-4fd4-b448-08fbf2859d89,isso não é um caminho para o colapso?,␣,"Desculpa. Por favor. Não, esse é o colapso",Omissão,Deixa ele responder.
+728bf8b4-e117-47bf-a1f8-c84a80dec361,"organização mundial, se vai ser um reposicionamento da",EMC,"um novo direcionamento, mas nós estamos passando nesse",Desvio ortográfico - palavra,OMC
+a0257401-0f3e-4dab-aef8-5a67294ec76f,"EMC, um novo direcionamento, mas nós estamos passando","nesse momento, nesse momento",de ajuste e principalmente motivado por uma forma,Registro de repetição,
+6bb8fdb3-98df-4695-a48d-114512c02833,firme que está tendo a política americana. Mas,"tudo é dinâmico, tudo é dinâmico",Nós devemos ter uma dinâmica ao longo do,Registro de repetição,
+2a46cf07-11bc-43c0-bd24-5c45fcc0f818,"Mas tudo é dinâmico, tudo é dinâmico. Nós",devemos,ter uma dinâmica ao longo do tempo. E,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,deveremos
+b9f90391-3bda-4e6e-baf3-06004d1d589f,"é um empresário, é um negociador, ele negocia,","avança e recua, avança e recua","Nós também tivemos um bom tempo aqui, que",Registro de repetição,
+84064322-b81b-41b7-9ee3-f69f166d7021,quanto ele foi no passado? Vamos ver. Diga,até isso,"para fechar o programa. Vamos ver. Presidente, o",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,Thais
+e7a9d375-98b4-4ccb-a96a-c9aeab6b0aa9,ser contaminado. O que não pode é gerar,"uma disputa, uma disputa",entre ações e reações. E isso não constrói.,Registro de repetição,
+1fcc540f-5d2d-4c17-b90b-ca5af32152f8,"bancada de hoje. Juliana Rosa, Talita Nascimento, Rafael",Vasques,"Thaís Herédia, Paulo Ricardo Martins e Luciano Veronese.",Desvio ortográfico - palavra,Vazquez
+d7451fb1-11b1-4945-9a6a-91827c67ea56,"de hoje. Juliana Rosa, Talita Nascimento, Rafael Vasques,",Thaís,"Herédia, Paulo Ricardo Martins e Luciano Veronese. Obrigada",Desvio ortográfico - palavra,Thais
+404a1ccc-9707-404f-b680-77e9e3b2cea7,"Vasques, Thaís Herédia, Paulo Ricardo Martins e Luciano",Veronese,Obrigada a você pela sua audiência semana a,Desvio ortográfico - palavra,Veronezi
+b38ce53e-81fb-4142-9ad4-9db90f8d8f78,"internos. Ao Brasil, o país mais afetado pelo",tarifácio,"por razões mais políticas que comerciais, cabe ter",Desvio ortográfico - palavra,tarifaço
+92cf2a5b-baae-457c-bb89-657030fca962,da noite e eu espero você. Até lá.,Thank you,Inovação que conecta. Bradesco.,Inserção,
+,,,,,
+# KWIC POR CATEGORIA — uma tabela por categoria,,,,,
+,,,,,
+## CATEGORIA: Registro de repetição,#FF9E9E,total=20,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+26500f1e-4edb-4e22-91b2-9cb01fd3406a,"de não retaliação. E no segundo momento, de",busca do diálogo. Busca do diálogo,"estava difícil. Na verdade, nós temos que ser",,
+de92fe37-3b7c-4386-9eb2-a5420cf207aa,"realidade de mercado? Nós estamos vendo a Europa,","a Alemanha, a Alemanha","o grande celeiro da indústria automobilística, hoje já",,
+05e309b0-b373-4318-aa8e-e47ed07ce04b,"mesa. Diga-se de passagem, o Gabriel Escobar foi","muito acessível, muito acessível","Explicamos a situação que nos preocupava, principalmente das",,
+c8bc46a6-2664-4bd7-87a0-5e2f7e2632cf,"com eles lá em maio, e com a",Anshan. Anshan,e a West Chamber já tinham feito uma,,
+a2027926-0f05-4968-b4a2-7de0994af817,Não interessa essa polarização nesse setor. Nós fizemos,suco de laranja. Suco de laranja,não existe opção de mercado para suco de,,
+87173400-9b45-4db8-8343-94f616433e1f,Nós temos uma infinidade de crises para administrar.,Essa é mais uma. Essa é mais uma,que vai ser superada porque essa crise não,,
+ebe101b6-86d0-4d25-9bb4-da63965c2280,a indústria ajudou e o agro foi negativo.,"A indústria já está sentindo, né? A indústria já está sentindo, né?","Sim, já vem. É um processo gradativo e",,
+cf28eac4-06fd-472a-9b33-00937d97aac9,"a Thais aqui só rapidamente, quando falamos de","lobby, lobby",é algo totalmente normal nos Estados Unidos. E,,
+900f1283-6f98-4d2e-9e5c-cd03a3086c20,Unidos. Podemos desenvolver isso em conjunto. Discutimos tantos,Big Techs. Big Techs,precisam cada vez mais de data centers. Os,,
+d4078fa9-48b1-44ff-932e-1f69f39916cb,"nas energias renováveis que são intermitentes, são baterias,",superbaterias. Superbaterias,"são feitas de materiais críticos. Então, existe um",,
+8f6f42f1-af91-4121-8b3d-d200a9c7d9c9,"no ano passado, coordenamos, a CNI coordenou aqui",o B20. O B20,"é o setor privado do G20, totalmente estruturado,",,
+092bae51-8e0f-4872-b999-70a942e54737,"muito forte do presidente americano, Donald Trump, com",a Argentina. A Argentina,"com o Javier Millet, é uma oposição forte",,
+82594391-d372-4992-81d3-b43f70eed388,"Então, nós estamos tendo realmente uma transformação. Mas",isso é bom. Isso é bom.,"Mudança traz oportunidades. Nós não podemos... Olha, o",,
+e1d26c49-d501-446e-8f3e-87e227cb4da8,"Mas tem incômodos, o senhor ouve incômodos. Como?","Incômodos, incômodos","dos empresários com essa campanha aberta. Sim, óbvio,",,
+0e926367-a077-462d-825a-892a68d3d96f,"incômodos dos empresários com essa campanha aberta. Sim,","óbvio, óbvio","Mas alguém falou para ele, algum de vocês",,
+779b4f78-0a43-4d9f-a583-a9fe4f5357ec,"brasileiras, porque nós ainda estamos muito concentrados em",commodities. Commodities,"é usado, é a lei de mercado que",,
+a0257401-0f3e-4dab-aef8-5a67294ec76f,"EMC, um novo direcionamento, mas nós estamos passando","nesse momento, nesse momento",de ajuste e principalmente motivado por uma forma,,
+6bb8fdb3-98df-4695-a48d-114512c02833,firme que está tendo a política americana. Mas,"tudo é dinâmico, tudo é dinâmico",Nós devemos ter uma dinâmica ao longo do,,
+b9f90391-3bda-4e6e-baf3-06004d1d589f,"é um empresário, é um negociador, ele negocia,","avança e recua, avança e recua","Nós também tivemos um bom tempo aqui, que",,
+e7a9d375-98b4-4ccb-a96a-c9aeab6b0aa9,ser contaminado. O que não pode é gerar,"uma disputa, uma disputa",entre ações e reações. E isso não constrói.,,
+,,,,,
+## CATEGORIA: Registro de hesitação,#F4CCCC,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Registro de reformulação da fala,#F9CB9C,total=11,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+46d53522-a606-4751-b054-879b92a5c8a1,"conversar empresarialmente. Nós temos até conseguido, nesse governo,",a própria,vamos dar a César o que é de,,
+5cf27640-cf1c-4f36-add6-571dde8515cb,essa campanha pela justiça tributária no Brasil? Se,ela realmente,o senhor acredita que ela vai sair? E,,
+7694ae67-5e9d-4437-9816-740234f8bb99,meio vazio? A gente tem argumento para tudo.,"O Copom também ao mesmo tempo disse,",o Copom na economia ao mesmo tempo disse,,
+153dbe4d-4660-4cb6-bcbe-468f67a6cfef,"mais, a indústria cria. Aquilo que dá certo,",a gente,"é sempre bom seguir o rumo. Alba, eu",,
+c5414bd2-230e-4dc0-b95f-4809e219cb00,"representante da indústria brasileira e como cidadão, lamento.",Nós precisaríamos,"eu não conheço, Thaís, nenhuma nação, nenhum país",,
+11d8b005-f925-4c31-918e-30006920b236,"se transformaram em nação foi conjugando nós. Então,",eu,"essa polarização definitivamente não constrói uma nação. Presidente,",,
+96fcd305-d565-41df-bd28-9b97faff44dc,foi colocado na mesa e é uma verdade.,E nós tivemos...,Sabe o que eu sinto no setor automotivo,,
+f1e3469c-000f-40e6-90b2-fca879793cc4,"povo, para a sua sociedade. Sem a ideologia,",sem...,"A geopolítica faz parte, porque nós não vivemos",,
+bc5efd2b-b049-4df2-8a34-7df867885010,setores para incluir seus produtos na cesta básica?,Temos uma...,Como é que vai ser esse fundo de,,
+c99eab69-d30a-427e-a9d8-c26bb4a2bf11,é bom. Isso é bom. Mudança traz oportunidades.,Nós não podemos...,"Olha, o ser humano, não é o brasileiro,",,
+f46e2963-9b0a-4436-82df-0e047a451512,pela Câmara de Comércio Internacional que mostra que,o Brasil pode ser um dos...,O comércio brasileiro pode ser um dos mais,,
+,,,,,
+## CATEGORIA: Desvio ortográfico - palavra,#B6D7A8,total=67,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+f0bc6c66-7e90-49b9-bb87-2b134a12f84a,retirados da lista daqueles que serão atingidos pelo,tarifácio,Mas não há nenhuma garantia nesse sentido. Para,,tarifaço
+fc5ee072-44d7-4936-aac5-e927f1efc023,80 e desde 1987 é sócio-diretor da Biscoitos,Tupi,fábrica de alimentos fundada por sua família. Já,,Tupy
+8fd2d0c8-76a3-411c-b6da-75ab7b7d2804,"Industrial, o SENAI, do Conselho Superior do Instituto",Evaldo,Lodi e é diretor do Departamento Nacional do,,Euvaldo
+39a38139-5efe-4253-bd31-abf7cf27e8e7,"SESI. Para entrevistar o presidente da CNI, Ricardo",Albano,"nós convidamos Juliana Rosa, comentarista de economia do",,Alban
+19893ad8-b18c-427e-a176-c0480ac04de7,"Talita Nascimento, repórter do broadcast Agência Estado. Rafael",Vasques,repórter da Editoria de Brasil do Valor Econômico.,,Vazquez
+45ec4783-fe33-48f6-9009-6925b82dff03,os desenhos em tempo real do nosso Luciano,Veronese,"Boa noite, presidente. Obrigada por ter aceitado o",,Veronezi
+8e0baa1b-919f-471f-8827-b16d93c6e847,comportamento. Isso começou com as primeiras reuniões no,MEDIC,"com o ministro Alckmin, o vice-presidente, onde tivemos",,MDIC
+37a04ba2-1b69-412b-ba77-122391909f34,"não é simples, não é fácil essa substituição.",Comodities,"é um pouco mais fácil, é um pouco",,Commodities
+975411bd-eb40-41e1-b100-a1dcc89a9f95,"características inerentes das empresas exportadoras. Número um, ACC,",Adjetamento,de Contrato de Câmbio. Todas trabalham com esse,,Adiantamento
+056e6261-2866-4ed4-8109-0186b0d0ca50,"março, são 750 dias entre a tomada do",adjetamento,"de câmbio e o fechamento do financiamento, que",,adiantamento
+ddca889a-4ffc-4fb9-a71d-9fa8e5f2749e,que foi dado agora para as empresas do,Simps,"3%, que fosse estendido esses 3% para todas",,Simples
+a1b256cc-4327-4bdc-8fb6-861b1bd0842d,avançar na sua parceria com o governo chinês?,Thalita,"que bom que você fez essa pergunta, porque",,Talita
+a37060d2-2698-449c-96da-cf7d8707b1e0,ele disse que toda essa situação com o,Tarifasso,"enfim, essa situação com o presidente Donald Trump,",,tarifaço
+f22e31cd-445d-4c47-a0d7-dacd3b5e1e5d,"BRICS, dizendo que boa parte da culpa do",tarifácio,vem desse alinhamento do Brasil ao BRICS e,,tarifaço
+fc192c21-10d9-4064-bd42-23fd99ea8525,"já já com o presidente da CNI, Ricardo",Albano,Inovação que conecta. Bradesco. Nós estamos de volta,,Alban
+1f67a53c-d268-4575-8751-3b81900ca5b4,"embaixador americano aqui, listando razões pelas quais o",tarifácio,"é prejudicial também para as empresas norte-americanas, também",,tarifaço
+57450a11-c7d0-4457-aa06-f946187cd5b6,"com eles lá em maio, e com a",Anshan,Anshan e a West Chamber já tinham feito,,Amcham
+2a468fee-b738-4d8e-9f79-9aa663b8c187,"eles lá em maio, e com a Anshan.",Anshan,e a West Chamber já tinham feito uma,,Amcham
+48791893-92dc-4916-bc4a-c056acdafee6,o teto de uma relação comercial de tarifas.,Albã,"essa sensibilidade que você chama, ela foi se",,Alban
+2429d61b-abe4-40ac-9d24-ca1287e2997b,"política para o governo Lula, que transformou o",Tarifasso,"e tal numa nova plataforma, inclusive, de comunicação,",,tarifaço
+479c61a9-f01e-4037-8939-67a072207e29,"forma alguma, mas foi quando nós tivemos os",Braz,"da vida. Se der Braz, é Libraz e",,Bras
+89878be5-9f54-4fc9-a155-66f59c18248e,foi quando nós tivemos os Braz da vida.,Se der Braz,é Libraz e etc. Libraz não que é,Desvio de segmentação - Hipersegmentação,Siderbras
+99594358-cde1-4511-aa90-ad4800b05a89,"tivemos os Braz da vida. Se der Braz,",é Libraz,"e etc. Libraz não que é agora, mas",Desvio de segmentação - Hipersegmentação,Helibras
+20efb879-533d-4912-8e34-2de857a18e4a,"vida. Se der Braz, é Libraz e etc.",Libraz,"não que é agora, mas é Eletrobras e",,Helibras
+ad1ffe66-d5c7-470a-96f7-1fa34bed6aa1,que é a prioridade agora? É resolver o,tarifácio,e dar fôlego para a indústria ou focar,,tarifaço
+d1681c60-df68-4289-bc1e-db2f2902bf40,"relação ao investimento da BID, com relação à",Anfávia,nós temos hoje a indústria automobilística no Brasil,,ANFAVEA
+12a8b0d8-5a0f-4118-afe0-16af885e0b91,só queria voltar nessa questão da politização do,Tarifácio,porque eu queria saber a sua avaliação sobre,,Tarifaço
+5d433f2d-be44-49a9-9a87-658d225f13c9,"setores, entidades setoriais, também recebeu elogios do senhor",Dembraer,"Ele teve ali, fez essa intermediação entre o",Desvio de segmentação - Hipossegmentação,da Embraer
+9a7e3fe4-2e0a-4600-ac79-5d05ea8822ca,"descartar, por exemplo, uma resposta que fosse imediatamente",retalhatória,alguma coisa de ameaçar com lei de reciprocidade,,retaliatória
+5b99caaf-354e-4a14-b21f-62ea45ad7122,que foi a primeira reunião lá feita no,MEDIC,"com a participação de vários ministros, foi quase",,MDIC
+13796808-08ea-4efc-b03c-9f671b5528f2,"consenso com todos os ministros, estavam as ministras",Simonitéri,"estava o ministro Rui Costa, estavam vários outros",Desvio de segmentação - Hipossegmentação,Simone Tebet
+0b763ae8-2ac7-4dc5-bfa3-737780f81b6f,num cenário de trégua comercial e não de,tarifácio,O que o senhor proporia nesse novo cenário?,,tarifaço
+8b75df71-006d-4cb7-a12c-fffb3fbb6b08,mesmo tempo enfrentar essa nova agenda do governo?,Thaís,"eu não tenho dúvida que devem existir equívocos,",,Thais
+25a1d6c2-e974-4cdb-997f-bd9c0a9fd637,"tem em tudo quanto é lugar, devem ser",tributários,Eu só não consigo entender a lógica de,,tributário
+5bf1e62f-123e-4395-8c7b-9ca48731ab01,plano enquanto foca na resolução do problema do,tarifás,"Não, porque esse problema da justiça tributária, ou",,tarifaço
+1b89fa25-d807-4bab-91dc-f6771289b22f,do Copom foi justamente a incerteza gerada pelo,tarifácio,e na incerteza a gente mantém os juros,,tarifaço
+1a3d45e1-c26f-4ac9-aabc-4402fec50e8a,gente mantém os juros da maneira como está.,Thalita,você sabe aquela história do copo meio cheio,,Talita
+626024af-a124-4a10-b605-8fef0c2b1e2a,na economia ao mesmo tempo disse que esse,tarifácio,"poderá facilitar o combate com a inflação, porque",,tarifaço
+31553d32-94fa-408a-9bbb-a3ed00d4ddf8,"já já com o presidente da CNI, Ricardo",Albano,Inovação que conecta. Bradesco. Nós estamos de volta,,Alban
+612fa72e-3dfd-41de-9a52-c3a851b947a3,"volta com Roda Viva, que hoje discute o",tarifácio,e outras questões de política industrial com o,,tarifaço
+74b7692a-68b4-4d16-afac-f820a43bced7,"entrevista, estão agindo em conjunto no enfrentamento ao",tarifácio,"Como está sendo essa estratégia? Sim, desde que",,tarifaço
+3a4b486a-3705-4cd8-8ced-33089d7dd07d,a gente é sempre bom seguir o rumo.,Alba,"eu só queria voltar, pegando esse gancho, na",,Alban
+d1cf9a35-c416-4484-92a1-d283a9ca7528,dividindo em propostas que têm impacto no marco,fichal,e outras que não têm. O ministro Fernando,,fiscal
+0e4c841c-3a66-48eb-9222-3c7c4e114f61,queria trazer aqui uma preocupação do economista Samuel,Pessoa,Ele deu uma entrevista para a BBC e,,Pessôa
+78e67e77-1f25-4624-afc7-dacc73dd9fad,para não acontecer o que aconteceu com o,PERS,"por exemplo, que foi um programa criado para",,PERSE
+0ad8a3a6-8c20-4ff6-999e-6b7c5bc13414,atingir quem realmente precisa. Nós sabemos que no,PES,"mesmo, por exemplo, teve muitos setores que, ao",,PERSE
+4f738553-d8c6-48be-ad4b-bdaaba39da82,sem Mercosul. Isso a gente tem que acelerar.,Albano,você disse que está discutindo essas soluções com,,Alban
+f89c354a-1c27-47ce-929b-5cd6dd22fc04,não só pode ajudar na solução específica do,tarifácio,mas tem lá uma série de medidas econômicas,,tarifaço
+17dbf151-53e3-4747-8247-75a44eeed839,"medidas mitigatórias, digamos assim, da crise proveniente do",tarifácio,se o Congresso estaria contaminado ou não pela,,tarifaço
+d9e40f58-53c9-42ab-93f1-2f3ed9d84c02,"estamos falando de 10%, o Congresso se juntou",unicionalmente,"por unanimidade, para aprovar aquela lei de reciprocidade,",,unissonamente
+ade29b5f-1b91-4a20-b768-3ef780b192f1,"como cidadão, lamento. Nós precisaríamos, eu não conheço,",Thaís,"nenhuma nação, nenhum país se transformou em nação",,Thais
+255527fd-fca6-4283-acd3-41742954d78c,Estados Unidos. Podemos desenvolver isso em conjunto. Discutimos,tantos,Big Techs. Big Techs precisam cada vez mais,Desvio de segmentação - Hipossegmentação,tanto os
+f3543630-1824-44ae-8105-88dddd723fcb,rápida interrupção e volta já já discutindo o,tarif,de volta e quem pergunta agora para o,,tarifaço
+09408864-cd50-47ab-ad76-2b3d1daae825,"ano teve o BRICS, que tem também o",SEBRICS,"que foi no Brasil, e nós coordenamos também",,CEBRICS
+ab98270d-f522-4749-9d11-6f30eece4b64,também aqui e criamos também a força-tarefa do,SEBRICS,"que foi coordenada inclusive pelo Francisco, o CEO",,CEBRICS
+c75aa8af-b904-4b95-8b76-373d23008a4e,temos feito com o B20 e com o,Cebrix,como é que uma COP pode ter discussões,,CEBRICS
+d86e1035-d702-475b-80c9-a3eec784c21d,"está no radar, seguramente. Nós tivemos até recentemente",visitão,"lá, porque nós também temos que acomodar a",,visitando
+ea242660-d1e7-4450-a1b2-41328882c478,"legitimamente trabalhar para a derrubada do veto. Diga,",Thalita,"Agora, para falar de transição energética, descarbonização, a",,Talita
+6808598c-9939-422f-82a5-ee37f3b2a28b,mundo são recursos. Faltam projetos e segurança jurídica.,Aba,eu quero sair um pouco da história da,,Alban
+d4d7ff09-4375-4d19-a3a9-129f6d605668,"com a Argentina. A Argentina, com o Javier",Millet,"é uma oposição forte ao governo brasileiro, inclusive",,Milei
+cf4d186b-4069-4f11-beb3-b8f63dc4ac81,e eu volto já já com mais Ricardo,Albano,no Roda Viva. Inovação que conecta. Bradesco. Nós,,Alban
+f4823c80-36b1-4e5c-b392-878765251c3a,"eu tenha conhecimento, não. Diga, Paulo, que eu",discortei,Eu só queria voltar nessa questão da OMC.,Desvio de segmentação - Hipossegmentação,te cortei
+728bf8b4-e117-47bf-a1f8-c84a80dec361,"organização mundial, se vai ser um reposicionamento da",EMC,"um novo direcionamento, mas nós estamos passando nesse",,OMC
+1fcc540f-5d2d-4c17-b90b-ca5af32152f8,"bancada de hoje. Juliana Rosa, Talita Nascimento, Rafael",Vasques,"Thaís Herédia, Paulo Ricardo Martins e Luciano Veronese.",,Vazquez
+d7451fb1-11b1-4945-9a6a-91827c67ea56,"de hoje. Juliana Rosa, Talita Nascimento, Rafael Vasques,",Thaís,"Herédia, Paulo Ricardo Martins e Luciano Veronese. Obrigada",,Thais
+404a1ccc-9707-404f-b680-77e9e3b2cea7,"Vasques, Thaís Herédia, Paulo Ricardo Martins e Luciano",Veronese,Obrigada a você pela sua audiência semana a,,Veronezi
+b38ce53e-81fb-4142-9ad4-9db90f8d8f78,"internos. Ao Brasil, o país mais afetado pelo",tarifácio,"por razões mais políticas que comerciais, cabe ter",,tarifaço
+,,,,,
+## CATEGORIA: Desvio ortográfico - número,#B6D7A8,total=1,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+16a0b944-646d-4a04-af63-9554c9d6d26b,seis itens desse processo de investigação da sessão,13 de 1,"Desses seis itens, nós vamos participar de quatro.",,301
+,,,,,
+## CATEGORIA: Desvio de pontuação,#72FFFF,total=7,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+8b4360f2-1ed7-46e3-a789-90b61252e65d,"de indústrias no sul do país, para a",␣,"Nascida da Catarina e Rio Grande do Sul,",,","
+0194b21c-aae0-4144-a19f-fea1a4206bc2,plataforma política vai atrasar a solução para esse,.,Contra fatos não existem argumentos. Até a parte,,?
+7f190dc4-88db-4dd6-ba51-327a3005be4c,Nós não temos um orgulho nacional do agronegócio,␣,", nem um orgulho nacional , para mim",,?
+4b6f68ff-f874-46a3-ad55-6125c43f3d67,"nacional do agronegócio , nem um orgulho nacional",␣,", para mim é um orgulho nacional. E",,?
+31e50d29-05aa-4ebf-88a8-1a9b7e2d54d8,"seria 2%, 3%, porque não se trabalha no",.,"Você tinha arrecadação, você tinha o mesmo efeito",,?
+c14a8282-c355-451b-af99-8c463bc8f74c,de competitividade? A reforma tributária vai beneficiar a,.,"Vai, mas a reforma tributária ainda carregou um",,?
+379aedc6-cdb0-4c81-9dc0-a8eee182f329,"que, enfim, a gente está vivendo esse momento",.,Eu não consigo associar esse colapso da OMC,,?
+,,,,,
+## CATEGORIA: Desvio de capitalização,#99BAF2,total=16,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+adbdcdc8-9f94-4949-870a-73b41327cdc0,"que a gente mais gosta, da indústria, da",n,"indústria Brasil, falar do processo de industrialização e",,
+82062db9-efd0-4f8d-8235-224c8b8c418e,"a gente mais gosta, da indústria, da nova",i,"Brasil, falar do processo de industrialização e da",,
+7a75e720-2c68-4b86-a68a-220ea9c70e74,que dobrasse esse prazo. Depois nós pedimos o,r,que foi dado agora para as empresas do,,
+f9a6e08b-003e-4554-aa80-62b043ac3c4a,estendido esses 3% para todas as empresas do,r,"Depois nós temos muitas empresas que exportam, volto",,
+ff26523f-fef5-4fed-af81-ae3d697fe47d,"único programa, a Mover, que é lastreado na",ib,na nova indústria Brasil. Tem subsídio sempre na,,
+d7012b2c-a766-4f03-a994-bcf70110b0a0,"a Mover, que é lastreado na Nib, na",n,indústria Brasil. Tem subsídio sempre na indústria automotiva.,,
+4fd96778-93da-41fd-acfe-6a2003ac7c42,"Mover, que é lastreado na Nib, na nova",i,Brasil. Tem subsídio sempre na indústria automotiva. Não,,
+f83b2d31-6da5-462b-a770-bb634aa8fd68,"chegou onde chegou, baseado em quê? Lá no",s,"Baseado em altos incentivos para o seu processo,",,
+5ca92c0a-1479-4569-ac67-51ec11cd42f3,só queria voltar nessa questão da politização do,T,porque eu queria saber a sua avaliação sobre,,
+6d7655a2-bad8-403f-8582-366c13ef290f,suprimentos do setor automotivo. E tem também a,J,Você também tem no setor todo um investimento,,
+66585b4d-1023-418a-bb10-fff0085f0ce9,"vai querer isso. Então, nós criamos a SB",op,"para que ela seja também contínua, já está",,
+06ccb9bb-75ee-4951-a7be-45c785078875,"semana passada, nós assinamos um convênio com o",BAMA,Como tu imaginaria isso? No próprio discurso da,,
+2a18bd71-6e0d-45a7-8171-328f23bad2a2,toda a equipe nossa e o entendimento do,BAMA,"todos estão vendo aquilo como facilitador, nós estamos",,
+9f4afad3-0e7c-411d-8eef-3f0039d2316d,"facilitador, nós estamos suprindo. Você acredita que o",BAMA,não tinha um drone para o licenciamento? Como,,
+07f57d6d-3d17-4d50-adaa-fb51dfeb3c48,"porque, mais uma vez, nós temos que dar",c,o que é de césar. O BNDES tem,,
+21927bfd-422c-47e7-b968-aebfdb0c4dc5,temos que dar césar o que é de,c,O BNDES tem desenvolvido um papel muito importante,,
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipossegmentação,#54D862,total=6,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+5d433f2d-be44-49a9-9a87-658d225f13c9,"setores, entidades setoriais, também recebeu elogios do senhor",Dembraer,"Ele teve ali, fez essa intermediação entre o",Desvio ortográfico - palavra,da Embraer
+13796808-08ea-4efc-b03c-9f671b5528f2,"consenso com todos os ministros, estavam as ministras",Simonitéri,"estava o ministro Rui Costa, estavam vários outros",Desvio ortográfico - palavra,Simone Tebet
+255527fd-fca6-4283-acd3-41742954d78c,Estados Unidos. Podemos desenvolver isso em conjunto. Discutimos,tantos,Big Techs. Big Techs precisam cada vez mais,Desvio ortográfico - palavra,tanto os
+9ca5b4c9-765a-4a9d-8b22-4bd723f62ae4,de milhares de empresas já fazendo parte da,SBCOP,onde nós tivemos já concordância do governo e,,
+141c2e8f-f0ea-492a-9626-0317df65df8f,nós tivemos já concordância do governo e a,SBCOP,"a partir daqui do Brasil, vai funcionar que",,
+f4823c80-36b1-4e5c-b392-878765251c3a,"eu tenha conhecimento, não. Diga, Paulo, que eu",discortei,Eu só queria voltar nessa questão da OMC.,Desvio ortográfico - palavra,te cortei
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipersegmentação,#54D862,total=10,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+f3e75682-1f59-4837-afa2-3aa588afbd4c,"uma infinidade de indústrias no sul do país,",para a,"Nascida da Catarina e Rio Grande do Sul,",Substituição lexical - Por homofonia,Paraná
+c188a99e-f9ed-4173-a7a2-436bc39bc695,"de indústrias no sul do país, para a",Nascida da,"Catarina e Rio Grande do Sul, que fabricam",Substituição lexical - Por homofonia,Santa
+57a778f0-a4a7-4862-8cd9-4ee143538db0,"é que nós pedimos? Que o prazo hoje,",em março,são 750 dias entre a tomada do adjetamento,Substituição lexical - Por homofonia,máximo
+ad894b82-054a-4698-a600-7992ea0aaa72,"queria continuar nessa linha. Porque na semana passada,",a sessão,"especial de assuntos internacionais do presidente Lula, Celso",Substituição lexical - Por homofonia,assessor
+89878be5-9f54-4fc9-a155-66f59c18248e,foi quando nós tivemos os Braz da vida.,Se der Braz,é Libraz e etc. Libraz não que é,Desvio ortográfico - palavra,Siderbras
+99594358-cde1-4511-aa90-ad4800b05a89,"tivemos os Braz da vida. Se der Braz,",é Libraz,"e etc. Libraz não que é agora, mas",Desvio ortográfico - palavra,Helibras
+5be736d1-0b92-4b5f-9ce2-33ff5e3b72f7,"o agronegócio chegou onde chegou, baseado em quê?",Lá no,safra. Baseado em altos incentivos para o seu,Substituição lexical - Por homofonia,Plano
+57db3ac9-f8d5-41b7-ba92-9055b86e31dd,saber a sua avaliação sobre a atuação do,geral do,"Alckmin. Ele tem recebido vários elogios de setores,",Substituição lexical - Por homofonia,Geraldo
+f2ea4e73-9f98-4108-9373-8711ecb2a476,Selic que tem 10% de juros reais e,que saiba,que só foi só isso? Só que nós,Substituição lexical - Por homofonia,quiçá
+84064322-b81b-41b7-9ee3-f69f166d7021,quanto ele foi no passado? Vamos ver. Diga,até isso,"para fechar o programa. Vamos ver. Presidente, o",Substituição lexical - Por homofonia,Thais
+,,,,,
+## CATEGORIA: Omissão,#B6DCFF,total=22,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+d5be6d2a-3adc-4f79-8769-27150bbdfca3,já está acontecendo. Muitos embarques não foram feitos.,␣,Há pouco o senhor falava para o Rafael,,"Pois não, Talita."
+55f4ab85-1abf-49d9-92a0-6865caf4fa56,"pontual, algo que vai ser resolvido, mas sendo",␣,mais tarde. Mas a indústria brasileira enfrenta problemas,,ou
+1d0fbadc-0171-4214-bf7c-f385aa968873,superada porque essa crise não é só nossa,␣,". A nossa crise está potencializada. Não, eu",,Alban
+3996c138-f39d-45d7-8dd1-3bcfd538bad6,"financiamento, quer seja subsídios, quer seja... Mas ele",␣,abriu para o mundo e a indústria não.,,se
+63313733-0999-4ff3-9c61-dbce2203ce50,"é o equilíbrio que o senhor acredita? Primeiro,",␣,o senhor concorda com essa campanha pela justiça,,se
+672d9d02-74e3-49ea-8763-d3f07b0a0b70,"do IOF, do processo do IOF, que foi",␣,"estar sendo esse verdadeiro parto, seria bom que",,e
+4369a1e9-e6dc-4d89-86bf-4e446d2f8ba6,"com o Legislativo, foram nos perguntados, num almoço,",␣,como é que a base está vendo essa,,Alban
+2f21b24c-3426-4db1-b78f-4168c4f47f12,base está vendo essa discussão do IOF? E,␣,"eles pediram, amigo, a base está vendo como",,eu
+c954facc-a4dc-4a5e-8fc5-c6a11fe31dcd,"correto, não é esse o meu pressuposto, antes",␣,"isso não seria 2%, 3%, porque não se",,de
+4fc54da5-c082-436d-88e7-af267ceec9ce,de uma forma tão exponencial como ele vai.,␣,Você citou a taxa de juros e se,,"Abriu uma última, quem vai?"
+fee95f18-1a60-48a4-a31f-52a130c1b40a,"também ao mesmo tempo disse, o Copom na",␣,economia ao mesmo tempo disse que esse tarifácio,,a
+bfcea763-2f77-4416-80f6-de952f7591be,"está em tudo, tudo está em indústria. Indústria",␣,"pop. Nós temos agora, desculpa, Paulo, nós temos",,é
+62e04384-f6e3-40af-8be8-802377b9c4b0,"quando tivemos em maio os 10%, e hoje",␣,"estamos falando de 10%, o Congresso se juntou",,que
+df419b64-733f-4d4a-ba18-952506c1ed8f,"50% e áreas que atingem água, atingem indústria",␣,"de todos, que nesse ponto deveríamos ter uma",,atinge
+318436f9-7974-4725-8fe1-20623d5e2329,na defesa de interesse da relação bilateral entre,␣,"os Estados Unidos. E nesse processo, o que",,Brasil e
+bc6ffada-1a36-447f-893e-8d329b194382,o senhor falou agora para a Thais que,␣,gostaria que o lobby da indústria fosse maior.,,o senhor
+a1784c85-e51d-4f9b-a906-af8b0579cbb2,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,,e toda essa agenda enorme que o Alban colocou aqui para gente.
+32baadb5-e454-4aae-8e01-664dba35ca3a,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,,"Inovação que conecta, Bradesco."
+73f5cc51-e28c-4f06-9d09-6ed29041d64f,interrupção e volta já já discutindo o tarif,␣,de volta e quem pergunta agora para o,,O Roda Viva está
+962b7f8b-98df-4b99-acbf-6037d1499053,"essa organização. Tanto é, para só ilustrar, esse",␣,", a COP tem uma construção diferente. A",,ano
+1365a1b8-7d1a-4fcc-9f2a-be98411874f6,"porque, mais uma vez, nós temos que dar",␣,césar o que é de césar. O BNDES,,a
+e020aa92-d111-4fd4-b448-08fbf2859d89,isso não é um caminho para o colapso?,␣,"Desculpa. Por favor. Não, esse é o colapso",,Deixa ele responder.
+,,,,,
+## CATEGORIA: Inserção,#4AC2FF,total=11,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+50ab306a-d653-47d6-b52c-dc189ad04bce,"Editoria de Brasil do Valor Econômico. Thais Herédia,",anal,analista de economia da CNN Brasil. E Paulo,,
+4cd96e84-9863-4040-a146-dd28d3b8f417,"processo se iniciou, tanto é que, em pena",da,"Covid, houve uma nova política industrial nos Estados",,
+1c3e6160-6aa5-4295-a1a2-10a17d8b61e4,"inviável à continuidade dessa empresa. Então, quando nós",pud,pudemos focar primeiro foi quais são as características,,
+14bdd077-3789-4cd2-a491-c83a0dc178ba,vantajoso? Essa foi a prioridade que nós falamos,no,número um. Quando você tem setores altamente impactados,,
+87c364dd-29ba-4fd9-8779-c93dae933996,saber a sua avaliação sobre a atuação do,-,do Alckmin. Ele tem recebido vários elogios de,,
+83a1e0bd-2790-4094-8010-58c60785c234,"estar sendo esse verdadeiro parto, seria bom que",fosse,"fosse parto de nove meses, mas é um",,
+f818c304-5835-4763-907b-cbb04f32c3c1,"em tudo, tudo está em indústria. Indústria pop.","Nós temos agora, desculpa, Paulo, nós temos agora que estamos criando um mote. Assim como tem o agro é pop, o agro é tech, nós temos que na indústria é pobre.","Não, nós temos agora, desculpa, Paulo, nós temos",,
+3a839fde-1f02-44f5-8876-de97eab4fbcc,"50% e áreas que atingem água, atingem indústria",de,"todos, que nesse ponto deveríamos ter uma convergência",,
+651473d7-6172-414c-b006-1721aef067b6,assim os preços foram absurdos. Vai ter que,mitig,mitigar. É responsabilidade do governo de encontrar as,,
+c8bc93ad-18c0-42b2-974b-b57b11559aa6,"tem como voltar mais atrás. Certo. Diga, Paulo,",o,que eu te contei. Eu só queria engatar,,
+92cf2a5b-baae-457c-bb89-657030fca962,da noite e eu espero você. Até lá.,Thank you,Inovação que conecta. Bradesco.,,
+,,,,,
+## CATEGORIA: Substituição lexical - Por homofonia,#C165FF,total=39,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+e31a3119-7481-425c-9aa3-3cf4f1ef1d89,"Esse processo se iniciou, tanto é que, em",pena,"da Covid, houve uma nova política industrial nos",,plena
+f3e75682-1f59-4837-afa2-3aa588afbd4c,"uma infinidade de indústrias no sul do país,",para a,"Nascida da Catarina e Rio Grande do Sul,",Desvio de segmentação - Hipersegmentação,Paraná
+c188a99e-f9ed-4173-a7a2-436bc39bc695,"de indústrias no sul do país, para a",Nascida da,"Catarina e Rio Grande do Sul, que fabricam",Desvio de segmentação - Hipersegmentação,Santa
+57a778f0-a4a7-4862-8cd9-4ee143538db0,"é que nós pedimos? Que o prazo hoje,",em março,são 750 dias entre a tomada do adjetamento,Desvio de segmentação - Hipersegmentação,máximo
+cdf24fdb-e10b-4dd6-b7e7-acf2d727b82b,a China começou a se desenvolver significativamente? Ela,traiu,a produção para o seu país e soube,,atraiu
+ad894b82-054a-4698-a600-7992ea0aaa72,"queria continuar nessa linha. Porque na semana passada,",a sessão,"especial de assuntos internacionais do presidente Lula, Celso",Desvio de segmentação - Hipersegmentação,assessor
+908d1fcf-7b06-459d-8e15-a408c3c1efae,"é um novo bloco, teve o período dos",tiques,asiáticos. O que nós temos que fazer é,,tigres
+b1459a9a-eeb9-4efc-a3a1-40f765c0e215,"da noite para o dia, você fazer uma",cearia,Mas então o senhor acha que veio mais,,aciaria
+a883b62a-8969-4344-b1fe-fc7d0716d329,"que de esquerda. O empresariado, sempre nós verificamos,",não,"todo empresariado, mesmo industrial, uma certa maior identidade",,em
+c12b6526-84ce-4ff1-9f7a-b0aa3b2fa1f9,uma certa maior identidade com uma política de,direito,Isso é um fato. Mas o que nós,,direita
+179f6d48-a5d5-4c93-a36d-557ce573700c,"uma coisa pontual, algo que vai ser resolvido,",mas,sendo mais tarde. Mas a indústria brasileira enfrenta,,mais
+5aa92b0d-d244-4dff-bf02-971522e10746,"coisa pontual, algo que vai ser resolvido, mas",sendo,mais tarde. Mas a indústria brasileira enfrenta problemas,,cedo
+7470bb30-d45b-47df-8a26-1d3427392ecc,temos pontual agora com relação ao investimento da,BID,"com relação à Anfávia, nós temos hoje a",,BYD
+70204154-5814-4743-bc03-6539152c1cc1,"não temos um orgulho nacional do agronegócio ,",nem,"um orgulho nacional, para mim é um orgulho",,não é
+5be736d1-0b92-4b5f-9ce2-33ff5e3b72f7,"o agronegócio chegou onde chegou, baseado em quê?",Lá no,safra. Baseado em altos incentivos para o seu,Desvio de segmentação - Hipersegmentação,Plano
+57db3ac9-f8d5-41b7-ba92-9055b86e31dd,saber a sua avaliação sobre a atuação do,geral do,"Alckmin. Ele tem recebido vários elogios de setores,",Desvio de segmentação - Hipersegmentação,Geraldo
+a8b882f9-b06e-43b4-90b1-3234d9ff88d8,"de setores, entidades setoriais, também recebeu elogios do",senhor,"Dembraer. Ele teve ali, fez essa intermediação entre",,CEO
+22435a84-3f99-49f5-b59e-49bcc3c59637,"ponto importante, porque uma das campanhas ou dos",motos,que o governo lançou recentemente é exatamente o,,motes
+e2160095-39c5-4c81-a75b-6a2b50aa6421,"como tem em tudo quanto é lugar, devem",ser,tributários. Eu só não consigo entender a lógica,,setor
+1336be31-e25b-4c8b-813f-21269250e624,"do IOF, do processo do IOF, que foi",estar,"sendo esse verdadeiro parto, seria bom que fosse",,está
+93e05a5d-d2f7-48a1-a0bc-e5c79e980886,base está vendo essa discussão do IOF? E,eles,"pediram, amigo, a base está vendo como nós",,lhe
+4633fcee-9fff-4482-ad8e-235cb3bbf9e8,que não incide sobre pessoas físicas é um,leve,engano. Fale dizer que o IOF não vai,,ledo
+f2ea4e73-9f98-4108-9373-8711ecb2a476,Selic que tem 10% de juros reais e,que saiba,que só foi só isso? Só que nós,Desvio de segmentação - Hipersegmentação,quiçá
+24fabf81-14f8-4daf-8aa2-a98b0b320fdf,de juros reais e que saiba que só,foi,só isso? Só que nós temos um mercado,,fosse
+ff4ca72e-6b94-4e3e-b158-4ac09303c2ae,"Uma delas é depósito compulsório, que você pode",enxergar,a liquidez através do depósito compulsório e não,,enxugar
+742bc82c-0ef6-4e4e-b563-27e2e6ac43d6,"correto, não é esse o meu pressuposto, antes",isso,"não seria 2%, 3%, porque não se trabalha",,subir
+0ce89793-2cb2-489f-98d7-943bd988cf3d,"é esse o meu pressuposto, antes isso não",seria,"2%, 3%, porque não se trabalha no IOF.",,Selic
+32284f19-dd64-4339-9e52-61fd72907b40,efeito sobre os juros e não tinha o,ônibus,sobre o serviço da dívida. Nós não temos,,ônus
+dbc59821-e784-4879-bd3f-8b088d74481e,"Copom também ao mesmo tempo disse, o Copom",na,economia ao mesmo tempo disse que esse tarifácio,,não
+a1f9cc13-a5d9-4276-9a71-5388c45c95fc,um mote. Assim como tem o agro é,pobre,"o agro é tech, nós temos que na",,pop
+db000629-f76c-4352-ae0b-3a407e476bb0,"que quando tivemos em maio os 10%, e",hoje,"estamos falando de 10%, o Congresso se juntou",,olha
+b75ef5e8-4d43-4740-99e6-9033a6fa484b,estamos falando de 50% e áreas que atingem,água,"atingem indústria de todos, que nesse ponto deveríamos",,agro
+e122a264-39d4-4bfa-b521-1077502b215f,"essa ambiência do Congresso e com o governo,",dos,"poderes, essa é uma realidade que nós estamos",,nos
+848367d7-a923-45fb-96ba-ed589be6a36c,"dos extremos, é algo que eu, como não",sou,"representante da indústria brasileira e como cidadão, lamento.",,só
+a36d9d17-4dda-452c-b988-ed1de031b33c,Estados Unidos. E por que eu estou me,levando,a dar essa sua resposta? Eu gostaria que,,lembrando
+cc6c755d-bfc6-4aa3-b0ae-9f9e63df76b7,Unidos. E por que eu estou me levando,a,dar essa sua resposta? Eu gostaria que a,,de
+51ef13d4-f6da-4739-90e1-342050fe3e29,agora para o Ricardo Alban é o Rafael,Vasco,"Presidente, tentar conectar aqui dois pontos. Indústria verde",,Vazquez
+47b62810-4d54-44b9-a3dd-fcaa1c60f2bb,"atrás. Certo. Diga, Paulo, o que eu te",contei,"Eu só queria engatar nessa questão de COP30,",,cortei
+84064322-b81b-41b7-9ee3-f69f166d7021,quanto ele foi no passado? Vamos ver. Diga,até isso,"para fechar o programa. Vamos ver. Presidente, o",Desvio de segmentação - Hipersegmentação,Thais
+,,,,,
+## CATEGORIA: Substituição lexical - Por alucinação,#C165FF,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+d4fcf5f6-dd60-4bad-8996-b592aed8b83c,"equívocos, como tem em tudo quanto é lugar,",devem,ser tributários. Eu só não consigo entender a,,do
+2a5cb8d8-00b6-4d44-98d9-01f73dc1b612,está vendo essa discussão do IOF? E eles,pediram,"amigo, a base está vendo como nós estamos",,explico
+fea16124-e9b0-4ca6-a996-25186fbeafeb,"não é esse o meu pressuposto, antes isso",não,"seria 2%, 3%, porque não se trabalha no",,a
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+5eeb5f29-ec2a-4f0c-b7f3-edf68a80cead,"valor. Então, não é exatamente isso, bastamos nós",olhar,"a estatística, a relatividade desse subsídio. E mais",,
+424141ee-03d4-4dcf-aead-e66dcd06e9c8,A outra coisa requer um pouco mais de,parcimônio,um pouco mais de equilíbrio nas relações bilaterais.,,
+0fe9e00e-06b7-44b4-8edb-a82e240e08ac,"traz sequelas para o setor, principalmente de exportação",industriais,"é óbvio que essas ponderações são feitas, per",,
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Variações informais,#fbff00,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,total=10,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+5c3285c7-bd92-4fa6-9eb0-aafb5e912691,"preservação das suas indústrias, de fato. As tarifas",são,uma forma de preservar a defesa de suas,,é
+cf277871-2aae-430e-bec1-660d697169ff,"tradicionais como a Europa, como o Reino Unido,",estão,"enfrentando esse problema. Nós também temos que fazer,",,está
+04eebb2e-8799-4a8e-a7d2-a8b34bf4f375,para que essa dosimetria das medidas pudesse ser,feita,"Então, nós estamos trabalhando junto, buscando pesquisas também",,feitas
+fef8abe4-bcee-4f57-87e2-fb4490ebcc5a,"estávamos discutindo, junto com o Legislativo, foram nos",perguntados,"num almoço, como é que a base está",,perguntado
+5eef56bb-8a0a-40db-9865-f9a58eecc2fc,"que existem outras ferramentas de política monetária, além",de,"simplesmente os juros. Uma delas é depósito compulsório,",,da
+5b174996-14ce-4920-904d-cdd26d52c66c,"água, atingem indústria de todos, que nesse ponto",deveríamos,ter uma convergência para dar solução. Em momento,,deveramos
+2f1c80a9-baab-40fe-8c65-d0bcabb59582,"terras raras. No Brasil, se diz que é",a,segunda maior reserva do mundo. E nós não,,o
+a89bd724-5c91-49ff-84fa-85c196c3765c,"raras. No Brasil, se diz que é a",segunda,maior reserva do mundo. E nós não temos,,segundo
+50992335-678e-4fc6-b20c-363f0453ae32,minerais críticos é a China. Os Estados Unidos,estão,desenvolvendo essa tecnologia. Podemos estar pensando em desenvolver,,está
+2a46cf07-11bc-43c0-bd24-5c45fcc0f818,"Mas tudo é dinâmico, tudo é dinâmico. Nós",devemos,ter uma dinâmica ao longo do tempo. E,,deveremos
+,,,,,
+# OCORRÊNCIAS COM MAIS DE UMA CATEGORIA (KWIC),,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,
+f3e75682-1f59-4837-afa2-3aa588afbd4c,"uma infinidade de indústrias no sul do país,",para a,"Nascida da Catarina e Rio Grande do Sul,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+c188a99e-f9ed-4173-a7a2-436bc39bc695,"de indústrias no sul do país, para a",Nascida da,"Catarina e Rio Grande do Sul, que fabricam",Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,
+57a778f0-a4a7-4862-8cd9-4ee143538db0,"é que nós pedimos? Que o prazo hoje,",em março,são 750 dias entre a tomada do adjetamento,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+ad894b82-054a-4698-a600-7992ea0aaa72,"queria continuar nessa linha. Porque na semana passada,",a sessão,"especial de assuntos internacionais do presidente Lula, Celso",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+89878be5-9f54-4fc9-a155-66f59c18248e,foi quando nós tivemos os Braz da vida.,Se der Braz,é Libraz e etc. Libraz não que é,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,
+99594358-cde1-4511-aa90-ad4800b05a89,"tivemos os Braz da vida. Se der Braz,",é Libraz,"e etc. Libraz não que é agora, mas",Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,
+5be736d1-0b92-4b5f-9ce2-33ff5e3b72f7,"o agronegócio chegou onde chegou, baseado em quê?",Lá no,safra. Baseado em altos incentivos para o seu,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+57db3ac9-f8d5-41b7-ba92-9055b86e31dd,saber a sua avaliação sobre a atuação do,geral do,"Alckmin. Ele tem recebido vários elogios de setores,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+5d433f2d-be44-49a9-9a87-658d225f13c9,"setores, entidades setoriais, também recebeu elogios do senhor",Dembraer,"Ele teve ali, fez essa intermediação entre o",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+13796808-08ea-4efc-b03c-9f671b5528f2,"consenso com todos os ministros, estavam as ministras",Simonitéri,"estava o ministro Rui Costa, estavam vários outros",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+f2ea4e73-9f98-4108-9373-8711ecb2a476,Selic que tem 10% de juros reais e,que saiba,que só foi só isso? Só que nós,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+255527fd-fca6-4283-acd3-41742954d78c,Estados Unidos. Podemos desenvolver isso em conjunto. Discutimos,tantos,Big Techs. Big Techs precisam cada vez mais,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+f4823c80-36b1-4e5c-b392-878765251c3a,"eu tenha conhecimento, não. Diga, Paulo, que eu",discortei,Eu só queria voltar nessa questão da OMC.,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+84064322-b81b-41b7-9ee3-f69f166d7021,quanto ele foi no passado? Vamos ver. Diga,até isso,"para fechar o programa. Vamos ver. Presidente, o",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+,,,,,
+# OCORRÊNCIAS NÃO VINCULADAS — destaques cuja cor não é idêntica a nenhuma categoria,,,,,
+Total de ocorrências não vinculadas,0,,,,
+,,,,,
+## QUANTIFICAÇÃO POR COR (não vinculadas),,,,,
+cor_detectada,total_ocorrencias,,,,
+,,,,,
+## LISTA (KWIC) — não vinculadas,,,,,
+id,cor_detectada,contexto_esquerdo,trecho,contexto_direito,

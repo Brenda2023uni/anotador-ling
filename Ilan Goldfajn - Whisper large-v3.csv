@@ -1,0 +1,751 @@
+Arquivo csv dos dados obtidos com a anotação da transcrição da entrevista do Ilan Goldfajn. Dados referentes a anotação da transcrição produzida pelo Whisper large-v3.,,,,,
+# RELATÓRIO ESTATÍSTICO,Roda Viva | Ilan Goldfajn | 26/02/2024 - Whisper large v3,,,,
+Total de elementos sinalizados (cada trecho conta 1 vez),210,,,,
+Ocorrências com mais de uma categoria,14,,,,
+Ocorrências NÃO vinculadas (cor sem correspondência exata — campo separado),0,,,,
+Categorias no projeto,16,,,,
+,,,,,
+# CONTAGEM POR CATEGORIA,,,,,
+categoria,cor,total_ocorrencias,,,
+Registro de repetição,#FF9E9E,10,,,
+Registro de hesitação,#F4CCCC,0,,,
+Registro de reformulação da fala,#F9CB9C,16,,,
+Desvio ortográfico - palavra,#B6D7A8,44,,,
+Desvio ortográfico - número,#B6D7A8,1,,,
+Desvio de pontuação,#72FFFF,5,,,
+Desvio de capitalização,#99BAF2,14,,,
+Desvio de segmentação - Hipossegmentação,#54D862,5,,,
+Desvio de segmentação - Hipersegmentação,#54D862,9,,,
+Omissão,#B6DCFF,39,,,
+Inserção,#4AC2FF,11,,,
+Substituição lexical - Por homofonia,#C165FF,53,,,
+Substituição lexical - Por alucinação,#C165FF,3,,,
+Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,3,,,
+Registro da flexibilidade da fala - Variações informais,#fbff00,0,,,
+Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,11,,,
+,,,,,
+# OCORRÊNCIAS INDIVIDUAIS (sem contexto),,,,,
+id,trecho,categorias,comentario,,
+6d0ccde8-7a06-4578-8c45-dde7d215884b,F,Desvio de capitalização,,,
+3260cb16-1692-4420-86b1-11313cb9b117,Goldfein,Desvio ortográfico - palavra,Goldfajn,,
+1f6071f2-c5fc-4bd3-afcd-255361484366,Goldfein,Desvio ortográfico - palavra,Goldfajn,,
+1741a93a-c44e-4297-8e6f-125e4bb1a8b1,␣,Omissão,"Para entrevistar o Ilan Goldfajn nós convidamos Vanessa Adachi, redatora chefe, editora chefe do Reset. Renato Andrade, diretor da sucursal do Globo em São Paulo, Marcela Ayres, repórter de economia da agência Reuters, Luciana Magalhães, correspondente do The Wall Street Journal no Brasil e Alex Ribeiro, repórter especial do Valor Econômico. Contamos ainda com os desenhos em tempo real do nosso Luciano Veronezi. ",,
+b645482e-3239-439d-b701-a3d16907da2a,concessionários,Substituição lexical - Por homofonia,concessionais,,
+69551cac-1475-4640-af1d-e7f122672bbd,a,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+3001b9a9-ae49-4f35-96e5-1d752629e51b,id,Desvio de capitalização,,,
+28938b9c-51a0-4b0c-873a-d38e05d64b34,id,Desvio de capitalização,,,
+f2afc748-a25c-41a7-84f9-e1cdb267ace3,Marcel,Desvio ortográfico - palavra,Marcela,,
+fdfa5935-1596-4d7e-b248-8ddd3ddd8e3f,Inhela,Desvio ortográfico - palavra,Ilan,,
+2cd539c5-9cec-4731-9846-64a6690e2e81,id,Desvio de capitalização,,,
+b514939f-e2e4-404c-97d9-4f35571e4d36,Meca,Substituição lexical - Por homofonia,América,,
+dfa7d1c4-ec37-4bd3-8a50-6bd6630885ed,do,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+1526b3ff-c81e-4c6d-90f1-7e375fdc1d64,o,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+5946bf4a-61a9-412a-b801-e36d388fa226,devaliação,Desvio ortográfico - palavra,desvalorização,,
+078d4a1c-94c5-48d7-9087-7e95ce29c52a,␣,Omissão,para nos ajudar,,
+1527bd51-220e-4d80-900e-53064f5042d9,␣,Omissão,Precisa mudar?,,
+3f41b319-f5ad-49a7-bea5-2367595411b5,␣,Omissão,na verdade,,
+43742036-8d21-4a96-a633-e372bf824d61,␣,Omissão,estava respondendo a Marcela,,
+dfd8b695-899a-4df5-ad7c-40d6618688a3,a Marcela respondeu,Inserção,,,
+f0ffcc5e-2d9a-449a-a6f6-e6aa91018645,GTA,Substituição lexical - Por alucinação,multilaterais,,
+ebaf4e65-79cd-4f48-86a1-ca10b4f67d38,␣,Omissão,Certo,,
+eb5baa2c-7201-4ef6-bd52-00453a098699,"Boa noite, boa noite",Registro de repetição,,,
+896166d6-488d-40ee-b989-3f1e158e1558,A,Substituição lexical - Por homofonia,Essa,,
+b184893c-5081-45b5-9842-cff2d128471a,chegar com...,Registro de reformulação da fala,,,
+b9b1b9e6-6005-49cd-a47e-3d3fa1b772af,garanto,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,gaianto,,
+0d846948-8f28-47d3-baf0-626c02e9d2a9,cidade,Substituição lexical - Por homofonia,história,,
+163942d9-0c08-4c6c-ae67-7cc409501725,quis,Substituição lexical - Por homofonia,risco,,
+e3f27ddb-0dca-4c04-93f8-4a228994740c,cambiar,Substituição lexical - Por homofonia,cambial,,
+18518b90-6b6f-4603-a424-2bdaf199d016,A Inglaterra,Registro de reformulação da fala,,,
+4ec5d7e6-bd8c-4936-9caa-3cbb4bf9a044,bilhões,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,bi,,
+b3d8615d-2e94-40b5-9517-b43ab863088a,␣,Omissão,Certo.,,
+abe1f3b1-1488-4813-b4c0-d11427054449,o,Substituição lexical - Por homofonia,um,,
+8c10d4e2-3825-4d6a-814a-29d476899e8f,␣,Omissão,Para entrarem também.,,
+46ddff3b-19ed-4ea1-968a-beb2752c1e88,do,Registro de reformulação da fala,,,
+a717c2f4-f0a8-41c8-b1da-753aee720a0c,␣,Omissão,"Fala. Tudo bem, Alex?",,
+d97b6c19-7a23-4ebc-9927-4bb7b509d99c,A gente...,Registro de reformulação da fala,,,
+cf47151a-e22f-4ded-8370-854c8bd298e2,␣,Omissão,é,,
+15507987-3655-4d5e-a253-f8369e55d1e4,os,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+9d675ea6-cf37-4a3c-b6f8-b73ae02bf806,presta,Substituição lexical - Por homofonia,empresta,,
+a574c17f-7eed-49f8-a723-a20e001a362a,presta,Substituição lexical - Por homofonia,empresta,,
+7576f3bc-e230-4fc8-b17a-cc1265681753,só para não...,Registro de reformulação da fala,,,
+4b57ebea-66c5-4096-be0e-5f7fbabc25a4,não sei,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,vocês...,,
+5608a902-2a51-4af4-b779-eaa1452c3147,␣,Omissão,da que é super importante,,
+a31fc7ce-7afd-4cc2-bca0-31b851e44a70,␣,Omissão,é o conhecimento,,
+5fd28c5d-fb92-48cb-9cad-5d9854e5e2b0,␣,Omissão,"É, eu acho que é importante, mas agora eu preciso fazer um breve intervalo. A gente volta já já no Roda Viva que hoje recebe o presidente do BID Ilan Goldfajn. Até já.",,
+295351a4-7055-4a63-96cf-cab6f0789a2a,",",Desvio de pontuação,.,,
+ad0377d3-f675-4504-8ea5-08118c49a5f4,␣,Omissão,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar nunca",,
+93ec304a-e96e-4b5f-ba92-195dfe8f279b,␣,Omissão,"Inovação que conecta, Bradesco.",,
+84698462-4638-4b87-b758-e647ee039d9f,␣,Omissão,que estamos vigendo hoje.,,
+e422aed4-5202-47f3-b90b-205dab57c0a0,␣,Desvio de pontuação,.,,
+46181e0b-29cd-4f55-986d-41000cff9280,␣,Omissão,Estamos de volta com,,
+dd19cf37-9cb7-420d-abbb-ce940daef94a,Goldfein,Desvio ortográfico - palavra,Goldfajn,,
+c66266fc-500f-42e2-a9b3-0e3e38c0d28e,dobrar,Substituição lexical - Por homofonia,domar,,
+8b150710-1701-4d6c-8a97-dab91464cc0b,juiz,Substituição lexical - Por homofonia,juros,,
+3520217d-161b-44f9-8ee6-518dce80ab2d,␣,Omissão,desenvolvimento,,
+a504d34b-e6ed-4064-b9e0-3ac0a6c9487b,na redução de,Registro de reformulação da fala,,,
+b6411096-7a09-4384-a20a-5763411e3651,Lina,Desvio ortográfico - palavra,Ilan,,
+fa6773ba-c1ac-40db-8944-ff238d3e22a3,é mais,Registro de reformulação da fala,,,
+7e559276-98b7-401b-92fb-4538af11b0e4,vir a,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,virar,,
+df968568-21de-4b01-9130-61c0b6c6f567,␣,Omissão,a,,
+602b428b-08af-44f0-9f76-79a888558202,vir a,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,virar,,
+37f611ee-3a76-4487-ba08-8c5a3acee4b8,o,Inserção,,,
+fdac7cc7-8084-41ba-84a3-d41abf25fb56,meou,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,me chamou,,
+920835cb-90bb-4a91-8ca1-f01804bd05cf,que,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+8b49b7c5-b7c7-4143-b3ed-7ee21d1d9d28,Queria,Substituição lexical - Por homofonia,Quem,,
+ce8a5dfd-d990-4c4d-a31c-6599ce8e27d7,você,Desvio ortográfico - palavra,vocês,,
+eecd9681-1a30-4ebf-856f-bad15f022c09,se,Inserção,,,
+198fdbaf-ed19-4d47-9fa4-60f9736e7299,distinguir,Substituição lexical - Por homofonia,transferir,,
+0db88286-e0e2-4b7a-b39d-676399f9ae2a,carro,Substituição lexical - Por homofonia,cargo,,
+9d68354e-da57-47a2-849b-3506884da7a9,Mais,Substituição lexical - Por homofonia,Mas,,
+b570d720-7690-412c-895b-a210c1d4c1a7,Senado,Substituição lexical - Por homofonia,Renato,,
+f709b2e5-bdb4-4ee3-9c67-da68bd8cf5fd,que a gente tenha uma,Registro de reformulação da fala,,,
+6634c89c-5ad3-4e9b-9dc5-e37feadb784c,␣,Omissão,Eu falei,,
+23bcd73d-a270-4b10-b783-3da03e05de09,s,Desvio de capitalização,,,
+ec836e97-7115-470c-ad2c-324c79275ef2,com o,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,como,,
+e3ea92a0-960e-414c-8c6b-4ca3dce531e5,meca,Substituição lexical - Por homofonia,América,,
+598064ca-aee4-4f9c-99be-788fabdd1ebe,l,Desvio de capitalização,,,
+e8fbf9ed-e362-4732-aa9f-224144580faa,meca,Substituição lexical - Por homofonia,América,,
+95c20612-1985-42a5-9161-fa5f1789c94e,l,Desvio de capitalização,,,
+08226368-0357-4aee-bdc5-4d57a27329f0,meca,Substituição lexical - Por homofonia,América,,
+519b08e1-e384-4fba-a4a3-526cdace1179,l,Desvio de capitalização,,,
+dbd6b9c6-fcb7-4bf0-a3e0-e5a544608874,"eu preciso, eu preciso, eu preciso",Registro de repetição,,,
+9784fb27-ccb9-4862-b766-00b41b15d9d6,de,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+84941c4b-28cd-4ba6-8f9f-6c1bc1ff896c,estabilidade. Estabilidade,Registro de repetição,,,
+1d8aebe1-442e-4ac2-bd03-812319fc57d3,uma boa,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+315f6cce-0f8a-43ab-bb82-aafdee7b4207,Irã,Substituição lexical - Por homofonia,Ilan,,
+ce887917-ba8f-47aa-85ac-274d5ef44997,E.J.,Desvio ortográfico - palavra,Ajay,,
+4fdd4a7e-27a4-41cc-b6d4-cf175abd6b8f,Irã,Substituição lexical - Por homofonia,Ilan,,
+22c375d3-2517-42f7-9120-6d0b17b72c2d,"com você, com você, com você",Registro de repetição,,,
+4e26759b-dbdd-4129-a0ad-0b75edc13cd3,financeiros reais,Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,multilaterais,,
+1052df60-d1db-49a6-a02e-67948d86f7e0,␣,Omissão,El,,
+c4163aa0-cd5a-4f42-b32f-1d3c919d0525,buchatel,Desvio ortográfico - palavra,multilateral,,
+5bfd54eb-2062-4882-b238-c97b7935a586,policia,Desvio ortográfico - palavra,polícia,,
+b09d3e1d-7411-47d4-becb-6b91d7318bd9,␣,Omissão,El,,
+5bb547c9-607a-41b1-a4d9-8359ca2ef555,vir,Inserção,,,
+243a078f-6d88-455d-ae54-ef2bc567d16e,␣,Omissão,Quem vai?,,
+e1978f2b-f276-4542-afe2-af4196ce138d,␣,Omissão,o terceiro bloco desse Roda Viva tão interessante e cheio de assuntos com Ilan Goldfajn,,
+53c1ab11-4856-4923-bc36-715e4ab98bb3,␣,Desvio de pontuação,.,,
+60ce7535-8ba5-4a6b-a86d-b723be342a36,␣,Omissão,"Inovação que conecta, Bradesco.",,
+c0d6df54-2e98-4216-b07c-d8f8830880a3,␣,Omissão,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência.",,
+fb324611-1ac9-4309-a551-86fe1c4ae252,"É o que você sabe, é o que você sabe",Registro de repetição,,,
+3b6b906f-038e-4281-b09b-c5ba16d9380f,mudar essa...,Registro de reformulação da fala,,,
+91b83c55-8df9-4f3e-9a1e-95c6d426cefb,háin,Desvio ortográfico - palavra,há,,
+329644d5-4e1b-456b-9c0b-1f38c9e47c3b,␣,Omissão,"problema nenhum. No plano estratégico que nós estamos vigendo hoje, isso estava...",,
+17fb34f0-a3f5-4374-bb1c-19d5a46f5b8b,␣,Omissão,Estamos de volta com o Roda Viva e quem pergunta agora para o Ilan Goldfajn ,,
+f4d84153-6200-4b29-bfe0-a778cce72bd8,Dash,Desvio ortográfico - palavra,Adachi,,
+7de205f5-67b3-433b-93c2-ae872cb7c934,Tévede,Desvio ortográfico - palavra,Tebet,,
+962a8607-660a-45ae-bee3-23360b275ea8,A,Substituição lexical - Por homofonia,Agora,,
+c5861ce4-f292-4981-b395-2d986111c3bc,Valência,Substituição lexical - Por homofonia,Vanessa,,
+712eb822-acb5-4469-be5b-651f5f62e89a,␣,Omissão,você,,
+343623cc-e9ec-43d1-867a-3f018f3c3ddd,␣,Omissão,a andar,,
+db3eee90-6e02-4a9e-a62b-e65f863bdc1d,as,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,os,,
+52bb6f79-7107-4850-8efe-3bd58d49210d,estabelecidas,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,estabelecidos,,
+1c02cf77-b289-42e0-a096-b7f36a58ff95,"sabe, sabe",Registro de repetição,,,
+7f9f600d-d8ed-4791-a7d4-585806204bec,privadaada,Desvio ortográfico - palavra,privada,,
+6db4e929-c95d-4d33-a32d-10a79f91ba7c,atraso,Desvio ortográfico - palavra,atrasa,,
+6e7799cc-5ffb-47c6-b2d3-83ff35c01eaa,a,Inserção,,,
+dc41f932-7d77-43f3-aa0d-bac64be149f0,"o segredo aqui é a agenda do G20 e a agenda dos bancos e municípios estrangeiros, junto com a agenda do G20.",Inserção,,,
+8b536a66-43b7-401c-90b2-7e0d795d61d2,tem,Substituição lexical - Por homofonia,é,,
+6c9a00a5-7e24-4dbe-8237-71bbc2898661,suas,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,,,
+b894af47-70be-45ac-8ef6-5154aded657b,e,Inserção,,,
+9bde982a-97d7-4e39-bfe2-2ab2d70450f5,num,Substituição lexical - Por homofonia,no,,
+ef067adb-ba61-4ddd-ae6b-ba2714600872,vídeo,Substituição lexical - Por homofonia,BID,,
+285aa178-b63a-4779-98d7-b5f2332783e8,porque o foco...,Registro de reformulação da fala,,,
+d7b5d945-871a-4043-9497-e3061a35e690,bid,Desvio de capitalização,,,
+a9b7493d-656c-407c-a3ad-a2bea33ae5a0,BGT,Desvio ortográfico - palavra,BID,,
+fd276e4d-f8c6-4b49-9848-124e234f8ac1,␣,Omissão,tem,,
+ee0f7b00-085e-4082-a38a-d6e0d2df5da6,100,Desvio ortográfico - número,5,,
+fd9a67e0-d43b-40d4-832c-6b7c646841e1,BID,Substituição lexical - Por homofonia,bi,,
+91379b5f-8f54-4274-a0f3-8edfc9fc2a80,Big,Desvio ortográfico - palavra,BID,,
+fe948833-6d96-4dd9-8420-55604af68767,id,Desvio de capitalização,,,
+f2ae2301-d268-41fb-8995-d0172e74c1fb,ele,Substituição lexical - Por homofonia,Ilan,,
+52cb146a-1c9f-4e43-a3ec-c31ca22dc365,",",Desvio de pontuação,.,,
+ac0e8485-7f2b-4d8c-9560-18813fff12cd,mudar essa...,Registro de reformulação da fala,,,
+fdc91f24-7f43-420b-8d0e-f9504fbb8dcb,vigiando,Substituição lexical - Por homofonia,vigendo,,
+8930a6e0-752c-49f2-85c2-1bdb20bdbf16,Goldfein,Desvio ortográfico - palavra,Goldfajn,,
+0141638e-0505-4e38-85e4-cad7261319a1,arregadação,Desvio ortográfico - palavra,arrecadação,,
+78b39a44-1f33-40bb-8a90-7aa831751f77,Milley,Desvio ortográfico - palavra,Milei,,
+4fd8f43e-279f-4410-b601-a811dfcacc16,que está...,Registro de reformulação da fala,,,
+843bf567-3d12-4d41-8017-570fb1075ff1,é,Substituição lexical - Por homofonia,era,,
+bbb467fb-a334-423c-8155-f2e129f5e000,déc,Inserção,,,
+ffe7999e-10b2-4e32-b365-c5cac6ee0c10,␣,Omissão,então,,
+3e4795de-5a96-4db2-9bcf-b27c35957285,id,Desvio de capitalização,,,
+4f8a05cf-0117-4bc0-b79c-af79b58df106,V,Desvio de capitalização,,,
+9460e433-a682-4032-8607-605df639673e,Nia Chorin,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring,,
+7da35d91-df92-4a67-82a2-13ad98f6113a,Nia Chorin,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring,,
+f6a348a6-0ac4-41f4-9083-af9b37a37d0d,bid,Desvio de capitalização,,,
+6ef26386-c3c4-4d52-8a09-263798605a8b,New Shoring,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring,,
+36b39a3c-18fa-41fe-878b-62b4b86a35f7,"eu fui eleito, eu fui eleito",Registro de repetição,,,
+e9b4fae4-2ed3-423e-8044-74fd0bf86384,dizem que querem integrar,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,"se eles disserem ó, eu quero integrar",,
+48484bae-17b1-4f62-92e0-0d4a5beb9c77,vão,Substituição lexical - Por homofonia,vamos,,
+7681cb45-0b5a-4366-8062-382f483411c3,Tebbett,Desvio ortográfico - palavra,Tebet,,
+30638c78-72b4-46c5-b32a-bdd5ed4ae85e,Bit,Desvio ortográfico - palavra,BID,,
+64577cc4-520b-4539-9022-e34ccd51d552,Bit,Desvio ortográfico - palavra,BID,,
+481bcf28-4516-40d2-91b0-a5a569e9eba2,e não...,Registro de reformulação da fala,,,
+0796c010-fb96-4bfa-ba66-b8ba2a900ae2,s,Desvio de capitalização,,,
+7b620833-9216-4b03-b43d-c9ef3228cbdd,Ca,Desvio ortográfico - palavra,Custa,,
+cd0902ce-511f-485c-930d-414733533396,␣,Omissão,"Ilan, deixa eu te perguntar uma outra coisa.",,
+ceee3707-56ca-4096-8dd3-85f8f78157b9,economistas,Substituição lexical - Por homofonia,economias,,
+26fbb140-f2a6-47d4-bfac-edf656a02f47,comodity,Desvio ortográfico - palavra,commodity,,
+5163dd5c-9c6d-4da0-beb5-3eada6e63e35,política. Política,Registro de repetição,,,
+4393576b-e465-414c-889a-e1d91ab12b49,aquecimento,Substituição lexical - Por homofonia,crescimento,,
+81654af9-ecec-4d0d-89b5-5c2c7536c7c5,Quer dizer,Substituição lexical - Por alucinação,Brasil,,
+7dccff8d-54ac-4287-8a7c-d043dc749889,Colôômbia,Desvio ortográfico - palavra,Colômbia,,
+f74fab54-8adc-4312-b7e1-f8f740db95bd,␣,Omissão,"desse Roda Viva com o presidente do BID, Ilan Goldfajn",,
+d211002b-d187-42bf-8163-9f9a8ce034c4,␣,Desvio de pontuação,.,,
+789181c2-1bc7-441e-9512-fef1a67d327c,␣,Omissão,"Inovação que conecta, Bradesco.",,
+c19ce965-f429-4cfd-a137-c44b3288ee22,␣,Omissão,"Voltando aos criadores, tudo que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar, nunca, daquilo que eu sei, porque aquilo que eu sei",,
+fb7bdf9b-9c05-4f98-bb7f-2ddd9416bcf2,mudar essa,Registro de reformulação da fala,,,
+35e7516c-caab-443e-8af5-005f3a10f9f4,vigiando,Substituição lexical - Por homofonia,vigendo,,
+cc12236f-cef8-41f8-94dd-2ce8fdad0c9e,Aires,Desvio ortográfico - palavra,Ayres,,
+c2a937ef-841b-444f-b4b0-84821bba4ac3,Meca,Substituição lexical - Por homofonia,América,,
+63279462-02f0-4ff8-972c-a20319dd8b24,paraquecimento,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,para o crescimento,,
+b42b2df1-6eb7-4c5c-a683-f103c4bbe55d,vão,Substituição lexical - Por homofonia,vamos,,
+dd73103c-9eae-45b1-bb03-6a3ec28ca2cc,com o,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,cujo,,
+f4970c12-b445-46fd-bde4-316c2b2e1c82,teve,Substituição lexical - Por homofonia,tem,,
+55f6d699-25b9-43f1-a1a5-ec556f318cb5,␣,Omissão,boom,,
+78623dbf-37e8-43fb-86d3-c7f49d51ba61,descomode,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,de commodity,,
+f26e07fa-1d73-479f-af5f-35a72496e4af,"estabilidade, estabilidade",Registro de repetição,,,
+1476ec3c-c193-41cf-988c-06b4c60b2b7a,vai,Substituição lexical - Por homofonia,volta,,
+c7e57957-549b-4ba0-aac2-02ef9023a514,autonormal,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ao normal,,
+4bfc1df4-4f9e-4c03-bbbc-b32679d9c4da,vai,Substituição lexical - Por homofonia,volta,,
+b9cf7775-7ca3-469b-bc75-75c74730330e,autonormal,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ao normal,,
+934c8662-a648-4cba-bedd-2fda28776dd5,é,Substituição lexical - Por homofonia,era,,
+1423d1ff-ad65-4787-9f15-930ae2326af4,aquecer,Substituição lexical - Por homofonia,crescer,,
+998e8b33-99b8-4695-8073-19cd9092b315,Afonso,Desvio ortográfico - palavra,Affonso,,
+ed789dc0-94d3-440d-a1c7-818ce77d7a84,pastor,Substituição lexical - Por homofonia,Pastore,,
+41c26207-4d7f-41d7-bdc9-050fd0ce2cfc,Guilherme,Substituição lexical - Por alucinação,Ilan,,
+49ad23c5-2338-4937-a504-61bc5dbbf4a1,pastor,Substituição lexical - Por homofonia,Pastore,,
+f69bcd84-bf4f-497f-9305-4b4c37985b7f,uma...,Registro de reformulação da fala,,,
+51cddd72-face-4cc9-b8b3-902937bcaf19,reflexão,Substituição lexical - Por homofonia,inflexão,,
+c72b2312-0bd9-4ce6-b49c-cd16bf1cf068,pastor,Substituição lexical - Por homofonia,Pastore,,
+00cb52f7-b8ba-4ab3-a5f6-751f1f20d666,um,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,,,
+76e5d7e3-dabc-4f9c-90f7-d7bc05fa6588,pastor,Substituição lexical - Por homofonia,Pastore,,
+5689debf-2900-4bab-bb8a-b58e178529bb,␣,Omissão,Ilan,,
+22d18cba-e262-4ecf-a337-9435b1fe881e,Recete,Desvio ortográfico - palavra,Reset,,
+244e91c1-ab1d-44aa-90db-6cae7036a2f7,Agora tem um...,Registro de reformulação da fala,,,
+24f6ec20-6f11-447f-a5f5-9248e8d96d8c,"é independente, é independente",Registro de repetição,,,
+c4a3dc23-f6e3-4b61-b719-5b67639ef88f,anti-emitismo,Desvio ortográfico - palavra,antissemitismo,,
+584be47b-42c0-4c14-96dc-6d45ebe2403e,anti-imitismo,Desvio ortográfico - palavra,antissemitismo,,
+cc161f21-ee0c-4c78-a00e-ecb9cd7ce6d2,Goldfein,Desvio ortográfico - palavra,Goldfajn,,
+b253f219-510e-4e4d-9312-3a03f90e0220,Aires,Desvio ortográfico - palavra,Ayres,,
+514b7e93-290c-4e17-8cca-fc7fd212250b,Dashi,Desvio ortográfico - palavra,Adachi,,
+424b096b-89bb-4a68-ae11-579863aa49b8,Veronese,Desvio ortográfico - palavra,Veronezi,,
+db15d92a-4ddc-43f1-9884-84723b9dd4c2,␣,Omissão,"Fiquei semana passada fora, de molho, mas voltei. O Brasil almeja por um papel de maior destaque no cenário global e advoga por",,
+38d6b6d6-349d-4704-bcbf-cc940ae5f926,Legenda por Sônia Ruberti,Inserção,,,
+4aed801f-9965-4dc3-87dc-691007901f75,A,Substituição lexical - Por homofonia,uma,,
+812759f1-c411-4494-bb9a-09032f4d248a,Thank you,Inserção,,,
+da88f7cb-9b71-4c26-aa50-4de46ec93770,you,Inserção,,,
+,,,,,
+# OCORRÊNCIAS EM KEY WORD IN CONTEXT (KWIC) — 8 palavras antes/depois,,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,comentario
+6d0ccde8-7a06-4578-8c45-dde7d215884b,meio das principais plataformas digitais. Os ministros das,F,e presidentes de bancos centrais e bancos multilaterais,Desvio de capitalização,
+3260cb16-1692-4420-86b1-11313cb9b117,"do Brasil e atual presidente do BID, Ilan",Goldfein,Ilan Goldfein é brasileiro e nasceu em março,Desvio ortográfico - palavra,Goldfajn
+1f6071f2-c5fc-4bd3-afcd-255361484366,"e atual presidente do BID, Ilan Goldfein. Ilan",Goldfein,é brasileiro e nasceu em março de 1966,Desvio ortográfico - palavra,Goldfajn
+1741a93a-c44e-4297-8e6f-125e4bb1a8b1,sendo o primeiro brasileiro a ocupar esse cargo,␣,". Boa noite, Ilan. Muito obrigada por estar",Omissão,"Para entrevistar o Ilan Goldfajn nós convidamos Vanessa Adachi, redatora chefe, editora chefe do Reset. Renato Andrade, diretor da sucursal do Globo em São Paulo, Marcela Ayres, repórter de economia da agência Reuters, Luciana Magalhães, correspondente do The Wall Street Journal no Brasil e Alex Ribeiro, repórter especial do Valor Econômico. Contamos ainda com os desenhos em tempo real do nosso Luciano Veronezi. "
+b645482e-3239-439d-b701-a3d16907da2a,"disso, traz também recursos que a gente chama",concessionários,"São doações para ajudar, porque é um projeto,",Substituição lexical - Por homofonia,concessionais
+69551cac-1475-4640-af1d-e7f122672bbd,"ajudar, porque é um projeto, ou para ajudar",a,"desenvolver uma área. E, finalmente, tem mais dois",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+3001b9a9-ae49-4f35-96e5-1d752629e51b,tem mais dois braços privados. Um é o,id,"Invest, que ajuda as empresas nos países, e",Desvio de capitalização,
+28938b9c-51a0-4b0c-873a-d38e05d64b34,"que ajuda as empresas nos países, e o",id,"Lab, que é o que ajuda as empresas",Desvio de capitalização,
+f2afc748-a25c-41a7-84f9-e1cdb267ace3,empresas que estão começando a se desenvolver. Bacana.,Marcel,"Boa noite, Inhela. Boa noite. Hoje o Bid",Desvio ortográfico - palavra,Marcela
+fdfa5935-1596-4d7e-b248-8ddd3ddd8e3f,"começando a se desenvolver. Bacana. Marcel. Boa noite,",Inhela,Boa noite. Hoje o Bid participou de um,Desvio ortográfico - palavra,Ilan
+2cd539c5-9cec-4731-9846-64a6690e2e81,"Marcel. Boa noite, Inhela. Boa noite. Hoje o",id,participou de um anúncio bem importante com o,Desvio de capitalização,
+b514939f-e2e4-404c-97d9-4f35571e4d36,da história no Brasil. Se você olhar na,Meca,"Latina, o que eu tenho que olhar, eu",Substituição lexical - Por homofonia,América
+dfa7d1c4-ec37-4bd3-8a50-6bd6630885ed,"dois incêndios. O México, que teve o problema",do,"Acapulco. O Caribe, que teve o furacão. Mudança",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+1526b3ff-c81e-4c6d-90f1-7e375fdc1d64,"com o câmbio entre real versus dólar, ou",o,"peso, quando está em outro país, vezes o",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+5946bf4a-61a9-412a-b801-e36d388fa226,liquidez? É para dar dinheiro quando tem uma,devaliação,muito grande e não tem oxigênio. A empresa,Desvio ortográfico - palavra,desvalorização
+078d4a1c-94c5-48d7-9087-7e95ce29c52a,"espaço, para dar tempo. E o 3,4 é",␣,"para a gente poder fazer o derivativo, a",Omissão,para nos ajudar
+1527bd51-220e-4d80-900e-53064f5042d9,qual a sua visão? O que precisa mudar?,␣,É uma questão de aumentar o capital desses,Omissão,Precisa mudar?
+3f41b319-f5ad-49a7-bea5-2367595411b5,"também. Como eu estava falando com a Marcela,",␣,"estava falando com todos vocês, mas a Marcela",Omissão,na verdade
+43742036-8d21-4a96-a633-e372bf824d61,"a Marcela, estava falando com todos vocês, mas",␣,a Marcela respondeu. O tamanho do desafio é,Omissão,estava respondendo a Marcela
+dfd8b695-899a-4df5-ad7c-40d6618688a3,"a Marcela, estava falando com todos vocês, mas",a Marcela respondeu,O tamanho do desafio é enorme. E a,Inserção,
+f0ffcc5e-2d9a-449a-a6f6-e6aa91018645,agenda e acabar. E para os bancos do,GTA,"a gente quer uma agenda que seja implementável,",Substituição lexical - Por alucinação,multilaterais
+ebaf4e65-79cd-4f48-86a1-ca10b4f67d38,"2025 e que a gente, de fato, mude.",␣,"Luciana. Boa noite, boa noite, presidente, boa noite",Omissão,Certo
+eb5baa2c-7201-4ef6-bd52-00453a098699,"e que a gente, de fato, mude. Luciana.","Boa noite, boa noite","presidente, boa noite a todos. É muito interessante,",Registro de repetição,
+896166d6-488d-40ee-b989-3f1e158e1558,questão cambial eu já escutei muito no passado.,A,"questão não é nova, o que é novo",Substituição lexical - Por homofonia,Essa
+b184893c-5081-45b5-9842-cff2d128471a,"ter mais investimento. Não do BID. Investimento privado,",chegar com...,"Esse é o sucesso. Se tiver mais sucesso,",Registro de reformulação da fala,
+b9b1b9e6-6005-49cd-a47e-3d3fa1b772af,"onde é que está. Se funcionar, eu te",garanto,"que já vai estar. Só de anunciar, só",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,gaianto
+0d846948-8f28-47d3-baf0-626c02e9d2a9,ligando. Só do anúncio. Como é que essa,cidade,do Brasil quis cambiar? Eu quero também. Só,Substituição lexical - Por homofonia,história
+163942d9-0c08-4c6c-ae67-7cc409501725,anúncio. Como é que essa cidade do Brasil,quis,"cambiar? Eu quero também. Só do anúncio, já",Substituição lexical - Por homofonia,risco
+e3f27ddb-0dca-4c04-93f8-4a228994740c,Como é que essa cidade do Brasil quis,cambiar,"Eu quero também. Só do anúncio, já veio",Substituição lexical - Por homofonia,cambial
+18518b90-6b6f-4603-a424-2bdaf199d016,"do anúncio, já veio doador. Gente de fora.",A Inglaterra,"o governo da Inglaterra, vocês viram que hoje",Registro de reformulação da fala,
+4ec5d7e6-bd8c-4936-9caa-3cbb4bf9a044,"Dando recursos. Não recursos da linha dos 5,4",bilhões,mas recursos para nos ajudar a pensar. Doações,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,bi
+b3d8615d-2e94-40b5-9517-b43ab863088a,"bilhões, mas recursos para nos ajudar a pensar.",␣,Doações para contratar uma consultoria junto com a,Omissão,Certo.
+abe1f3b1-1488-4813-b4c0-d11427054449,"a gente, para ver os especialistas. Então, só",o,"anúncio já está chamando doador, já está chamando",Substituição lexical - Por homofonia,um
+8c10d4e2-3825-4d6a-814a-29d476899e8f,"está chamando doador, já está chamando outros países.",␣,"Agora, é uma questão, não é fácil. Renato.",Omissão,Para entrarem também.
+46ddff3b-19ed-4ea1-968a-beb2752c1e88,"de transição, de transformação, vem com o trabalho",do,de tentar criar o projeto. O programa que,Registro de reformulação da fala,
+a717c2f4-f0a8-41c8-b1da-753aee720a0c,"foco principal do programa. Alex. Boa noite, Ilan.",␣,"Você falou aí, comentando sobre a necessidade de",Omissão,"Fala. Tudo bem, Alex?"
+d97b6c19-7a23-4ebc-9927-4bb7b509d99c,pode fazer com que a máquina funcione finalmente?,A gente...,Acho que é uma ótima pergunta. Os números,Registro de reformulação da fala,
+cf47151a-e22f-4ded-8370-854c8bd298e2,"próximos sete anos, até 2030. Por que 2030",␣,os metas globais de sustentabilidade. Vamos pensar o,Omissão,é
+15507987-3655-4d5e-a253-f8369e55d1e4,"próximos sete anos, até 2030. Por que 2030",os,metas globais de sustentabilidade. Vamos pensar o banco,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+9d675ea6-cf37-4a3c-b6f8-b73ae02bf806,a gente tem. Como é que a gente,presta,"de que forma a gente presta, os empréstimos",Substituição lexical - Por homofonia,empresta
+a574c17f-7eed-49f8-a723-a20e001a362a,"a gente presta, de que forma a gente",presta,os empréstimos ligados ao impacto. Como é que,Substituição lexical - Por homofonia,empresta
+7576f3bc-e230-4fc8-b17a-cc1265681753,"é que a gente mede isso? E, finalmente,",só para não...,Eu sei que a gente tem que avançar,Registro de reformulação da fala,
+4b57ebea-66c5-4096-be0e-5f7fbabc25a4,"Quando teve o problema de violência no Equador,",não sei,"quem acompanhou, por causa da violência, a gente",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,vocês...
+5608a902-2a51-4af4-b779-eaa1452c3147,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",Omissão,da que é super importante
+a31fc7ce-7afd-4cc2-bca0-31b851e44a70,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",Omissão,é o conhecimento
+5fd28c5d-fb92-48cb-9cad-5d9854e5e2b0,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",Omissão,"É, eu acho que é importante, mas agora eu preciso fazer um breve intervalo. A gente volta já já no Roda Viva que hoje recebe o presidente do BID Ilan Goldfajn. Até já."
+295351a4-7055-4a63-96cf-cab6f0789a2a,esse tipo de suporte subsidiário que o banco,",",daquilo que eu sei. Porque aquilo que eu,Desvio de pontuação,.
+ad0377d3-f675-4504-8ea5-08118c49a5f4,"tipo de suporte subsidiário que o banco ,",␣,daquilo que eu sei. Porque aquilo que eu,Omissão,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar nunca"
+93ec304a-e96e-4b5f-ba92-195dfe8f279b,"que o banco , daquilo que eu sei.",␣,Porque aquilo que eu sei é a comunhão.,Omissão,"Inovação que conecta, Bradesco."
+84698462-4638-4b87-b758-e647ee039d9f,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",Omissão,que estamos vigendo hoje.
+e422aed4-5202-47f3-b90b-205dab57c0a0,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",Desvio de pontuação,.
+46181e0b-29cd-4f55-986d-41000cff9280,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",Omissão,Estamos de volta com
+dd19cf37-9cb7-420d-abbb-ce940daef94a,"plano estratégico Roda Viva, que hoje recebe Ilan",Goldfein,"presidente do BID, o Banco Interamericano de Desenvolvimento.",Desvio ortográfico - palavra,Goldfajn
+c66266fc-500f-42e2-a9b3-0e3e38c0d28e,"Central ali com mão de ferro, tendo de",dobrar,"uma inflação que estava descontrolada, sumiu com juros",Substituição lexical - Por homofonia,domar
+8b150710-1701-4d6c-8a97-dab91464cc0b,a queda foi muito rápida da inflação de,juiz,"Então, valeu a pena. Agora estou no BID,",Substituição lexical - Por homofonia,juros
+3520217d-161b-44f9-8ee6-518dce80ab2d,papel é ser o mais eficiente possível em,␣,"... Gastar. Quer dizer, mais eficiente possível na",Omissão,desenvolvimento
+a504d34b-e6ed-4064-b9e0-3ac0a6c9487b,"em ... Gastar. Quer dizer, mais eficiente possível",na redução de,"Na verdade, são três grandes objetivos que a",Registro de reformulação da fala,
+b6411096-7a09-4384-a20a-5763411e3651,"no meu caso, eu quero focar nisso. Mas,",Lina,você concorda com esse rótulo de ortodoxo? Quer,Desvio ortográfico - palavra,Ilan
+fa6773ba-c1ac-40db-8944-ff238d3e22a3,"Estados Unidos a conversa é outra. Quer dizer,",é mais,Não tem isso. Qual que é a sua,Registro de reformulação da fala,
+7e559276-98b7-401b-92fb-4538af11b0e4,a pergunta relevante aqui foi se teve que,vir a,"chave, se alguma coisa mudou. E eu quero",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,virar
+df968568-21de-4b01-9130-61c0b6c6f567,relevante aqui foi se teve que vir a,␣,"chave, se alguma coisa mudou. E eu quero",Omissão,a
+602b428b-08af-44f0-9f76-79a888558202,mudou. E eu quero dizer que teve que,vir a,chave nenhuma. A relação do BID com o,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,virar
+37f611ee-3a76-4487-ba08-8c5a3acee4b8,"Luciana, que ela tinha pedido no intervalo, depois",o,"Vanessa. É verdade, presidente. A gente estava falando",Inserção,
+fdac7cc7-8084-41ba-84a3-d41abf25fb56,"o Alex estava falando sobre isso, e hoje",meou,"a atenção no anúncio do programa que, como",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,me chamou
+920835cb-90bb-4a91-8ca1-f01804bd05cf,hoje. Não. A minha visão de mundo é,que,"quando você está no Banco Central, você está",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+8b49b7c5-b7c7-4143-b3ed-7ee21d1d9d28,pensou que eram tantos milhões que iam entrar.,Queria,falar para você que tinha ideia de que,Substituição lexical - Por homofonia,Quem
+ce8a5dfd-d990-4c4d-a31c-6599ce8e27d7,tantos milhões que iam entrar. Queria falar para,você,que tinha ideia de que isso não tinha.,Desvio ortográfico - palavra,vocês
+eecd9681-1a30-4ebf-856f-bad15f022c09,"necessariamente todo mundo tinha conta, tinha capacidade de",se,"distinguir. Hoje em dia basta ter um celular,",Inserção,
+198fdbaf-ed19-4d47-9fa4-60f9736e7299,"todo mundo tinha conta, tinha capacidade de se",distinguir,"Hoje em dia basta ter um celular, e",Substituição lexical - Por homofonia,transferir
+0db88286-e0e2-4b7a-b39d-676399f9ae2a,"de mundo, o que mudou é simplesmente o",carro,e os instrumentos. Eu acho que o que,Substituição lexical - Por homofonia,cargo
+9d68354e-da57-47a2-849b-3506884da7a9,é que vai incluir mais gente no sistema...,Mais,"presidente. Vai, Marcela, depois Senado. Fala, Marcela. A",Substituição lexical - Por homofonia,Mas
+b570d720-7690-412c-895b-a210c1d4c1a7,"gente no sistema... Mais presidente. Vai, Marcela, depois",Senado,"Fala, Marcela. A indicação do senhor ao comando",Substituição lexical - Por homofonia,Renato
+f709b2e5-bdb4-4ee3-9c67-da68bd8cf5fd,"guarda-chuva, que a gente traga todo mundo junto,",que a gente tenha uma,Qual o nome que você... Não sei. O,Registro de reformulação da fala,
+6634c89c-5ad3-4e9b-9dc5-e37feadb784c,gente tenha uma... Qual o nome que você...,␣,Não sei. O que você acha de Amazônia,Omissão,Eu falei
+23bcd73d-a270-4b10-b783-3da03e05de09,sei. O que você acha de Amazônia para,s,Amazon Forever. Está aí. Estamos aí. E a,Desvio de capitalização,
+ec836e97-7115-470c-ad2c-324c79275ef2,Banco Central do Japão. E ele passou anos,com o,presidente do Banco Central do Japão. Mas é,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,como
+e3ea92a0-960e-414c-8c6b-4ca3dce531e5,É um mundo que conspira a favor da,meca,"latina. O mundo está precisando da meca latina,",Substituição lexical - Por homofonia,América
+598064ca-aee4-4f9c-99be-788fabdd1ebe,um mundo que conspira a favor da meca,l,"O mundo está precisando da meca latina, assim",Desvio de capitalização,
+e8fbf9ed-e362-4732-aa9f-224144580faa,da meca latina. O mundo está precisando da,meca,"latina, assim como a meca latina sempre precisou",Substituição lexical - Por homofonia,América
+95c20612-1985-42a5-9161-fa5f1789c94e,meca latina. O mundo está precisando da meca,l,assim como a meca latina sempre precisou do,Desvio de capitalização,
+08226368-0357-4aee-bdc5-4d57a27329f0,"está precisando da meca latina, assim como a",meca,latina sempre precisou do mundo. Só que no,Substituição lexical - Por homofonia,América
+519b08e1-e384-4fba-a4a3-526cdace1179,"precisando da meca latina, assim como a meca",l,"sempre precisou do mundo. Só que no passado,",Desvio de capitalização,
+dbd6b9c6-fcb7-4bf0-a3e0-e5a544608874,"ajudem, eu preciso que restituam a minha dívida,","eu preciso, eu preciso, eu preciso","Agora eu vejo, eu preciso da energia do",Registro de repetição,
+9784fb27-ccb9-4862-b766-00b41b15d9d6,Preciso de exportação de energia limpa. Eu preciso,de,absorção de CO2 da Amazônia. Preciso que isso,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+84941c4b-28cd-4ba6-8f9f-6c1bc1ff896c,"quero linha barata, nada disso. Eu preciso de",estabilidade. Estabilidade,"regulatória, estabilidade política. Segurança pública que surgiu, ou",Registro de repetição,
+1d8aebe1-442e-4ac2-bd03-812319fc57d3,"boa reforma tributária, uma boa digitalização do governo,",uma boa,instituições que são mais permanentes. Tudo isso ajuda,Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+315f6cce-0f8a-43ab-bb82-aafdee7b4207,"lá. Eu só queria entender um pouquinho aqui,",Irã,qual que é o papel do BID. Você,Substituição lexical - Por homofonia,Ilan
+ce887917-ba8f-47aa-85ac-274d5ef44997,"a Jamaica. O presidente do Banco Mundial, o",E.J.,"Banga, falou, Irã, vamos juntos lá. Vocês têm",Desvio ortográfico - palavra,Ajay
+4fdd4a7e-27a4-41cc-b6d4-cf175abd6b8f,"presidente do Banco Mundial, o E.J. Banga, falou,",Irã,"vamos juntos lá. Vocês têm um escritório grande,",Substituição lexical - Por homofonia,Ilan
+22c375d3-2517-42f7-9120-6d0b17b72c2d,"olha, a gente não tem capacidade de lidar","com você, com você, com você","todos tentando fazer os mesmos projetos, o mesmo",Registro de repetição,
+4e26759b-dbdd-4129-a0ad-0b75edc13cd3,gente quer propor para o grupo de bancos,financeiros reais,é pensar na escala que a gente quer,Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,multilaterais
+1052df60-d1db-49a6-a02e-67948d86f7e0,um dos países membros do BID é o,␣,"Salvador, que enfrenta aí uma situação de praticamente",Omissão,El
+c4163aa0-cd5a-4f42-b32f-1d3c919d0525,"segurança? Na verdade, o BID é o banco",buchatel,cuja unidade de segurança pública é a mais,Desvio ortográfico - palavra,multilateral
+5bfd54eb-2062-4882-b238-c97b7935a586,"gente, primeiro, inteligência policial. Começar no número de",policia,"É inteligência nisso. É trazer conhecimento, treinamento, por",Desvio ortográfico - palavra,polícia
+b09d3e1d-7411-47d4-becb-6b91d7318bd9,"com o crime organizado? Então, você falou do",␣,"Salvador, que tem uma forma de lidar, mas",Omissão,El
+5bb547c9-607a-41b1-a4d9-8359ca2ef555,"estabilidade em termos de segurança pública, segurança pessoal,",vir,ficou algo tão relevante quanto. Cabe mais uma,Inserção,
+243a078f-6d88-455d-ae54-ef2bc567d16e,relevante quanto. Cabe mais uma antes do intervalo.,␣,Eu só queria completar nessa aqui. Os governos,Omissão,Quem vai?
+e1978f2b-f276-4542-afe2-af4196ce138d,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,Omissão,o terceiro bloco desse Roda Viva tão interessante e cheio de assuntos com Ilan Goldfajn
+53c1ab11-4856-4923-bc36-715e4ab98bb3,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,Desvio de pontuação,.
+60ce7535-8ba5-4a6b-a86d-b723be342a36,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,Omissão,"Inovação que conecta, Bradesco."
+c0d6df54-2e98-4216-b07c-d8f8830880a3,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,Omissão,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência."
+fb324611-1ac9-4309-a551-86fe1c4ae252,porque aquilo que eu sei é a comunhão.,"É o que você sabe, é o que você sabe",Nenhum de nós pode transmitir. Nós só podemos,Registro de repetição,
+3b6b906f-038e-4281-b09b-c5ba16d9380f,"naquilo que ela tem que sobressair. Quer dizer,",mudar essa...,Acho que ser feminista é mudar um pouco,Registro de reformulação da fala,
+91b83c55-8df9-4f3e-9a1e-95c6d426cefb,"da cadeia produtiva e é admitido perfeitamente, não",háin,"é a Vanessa Dash. Ilan, eu queria voltar",Desvio ortográfico - palavra,há
+329644d5-4e1b-456b-9c0b-1f38c9e47c3b,"cadeia produtiva e é admitido perfeitamente, não háin",␣,"é a Vanessa Dash. Ilan, eu queria voltar",Omissão,"problema nenhum. No plano estratégico que nós estamos vigendo hoje, isso estava..."
+17fb34f0-a3f5-4374-bb1c-19d5a46f5b8b,"cadeia produtiva e é admitido perfeitamente, não háin",␣,"é a Vanessa Dash. Ilan, eu queria voltar",Omissão,Estamos de volta com o Roda Viva e quem pergunta agora para o Ilan Goldfajn 
+f4d84153-6200-4b29-bfe0-a778cce72bd8,"é admitido perfeitamente, não háin é a Vanessa",Dash,"Ilan, eu queria voltar para o tema do",Desvio ortográfico - palavra,Adachi
+7de205f5-67b3-433b-93c2-ae872cb7c934,"só a Marina, é o Haddad, é a",Tévede,é o governo Lula de uma forma geral.,Desvio ortográfico - palavra,Tebet
+962a8607-660a-45ae-bee3-23360b275ea8,questão climática está assumindo um papel bem relevante.,A,"Valência tem razão. Tem consciência, os capitais estão",Substituição lexical - Por homofonia,Agora
+c5861ce4-f292-4981-b395-2d986111c3bc,climática está assumindo um papel bem relevante. A,Valência,"tem razão. Tem consciência, os capitais estão começando",Substituição lexical - Por homofonia,Vanessa
+712eb822-acb5-4469-be5b-651f5f62e89a,está assumindo um papel bem relevante. A Valência,␣,"tem razão. Tem consciência, os capitais estão começando",Omissão,você
+343623cc-e9ec-43d1-867a-3f018f3c3ddd,"mudou, já está na direção correta, já começou",␣,", mas ainda precisa... Mas mesmo no governo,",Omissão,a andar
+db3eee90-6e02-4a9e-a62b-e65f863bdc1d,"é muito comum, de você ter os estabelecidos,",as,"empresas estabelecidas, as instituições estabelecidas, num lugar, e",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,os
+52bb6f79-7107-4850-8efe-3bd58d49210d,"comum, de você ter os estabelecidos, as empresas",estabelecidas,"as instituições estabelecidas, num lugar, e as que",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,estabelecidos
+1c02cf77-b289-42e0-a096-b7f36a58ff95,"o capital operado não sabe fazer conta, não","sabe, sabe","exatamente. O que precisa é, de alguma forma,",Registro de repetição,
+7f9f600d-d8ed-4791-a7d4-585806204bec,que resolve não respeitar uma parceria pública e,privadaada,A consequência é que fica atraso a todo,Desvio ortográfico - palavra,privada
+6db4e929-c95d-4d33-a32d-10a79f91ba7c,pública e privadaada. A consequência é que fica,atraso,"a todo mundo. Então, é esse tipo de",Desvio ortográfico - palavra,atrasa
+6e7799cc-5ffb-47c6-b2d3-83ff35c01eaa,e privadaada. A consequência é que fica atraso,a,"todo mundo. Então, é esse tipo de coisa",Inserção,
+dc41f932-7d77-43f3-aa0d-bac64be149f0,"bancos industriais, junto com a agenda do G20,","o segredo aqui é a agenda do G20 e a agenda dos bancos e municípios estrangeiros, junto com a agenda do G20.",Essa que é o segredo aqui é a,Inserção,
+8b536a66-43b7-401c-90b2-7e0d795d61d2,"Brasil. Tem um bioma no sul do México,",tem,outro bioma. Por que você não está olhando,Substituição lexical - Por homofonia,é
+6c9a00a5-7e24-4dbe-8237-71bbc2898661,México? Por que você não está olhando as,suas,florestas? Eu acho que isso é um problema,Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,
+b894af47-70be-45ac-8ef6-5154aded657b,se houve algum problema. Alguém pode ir lá,e,"num vídeo você pode chegar e dizer, olha,",Inserção,
+9bde982a-97d7-4e39-bfe2-2ab2d70450f5,houve algum problema. Alguém pode ir lá e,num,"vídeo você pode chegar e dizer, olha, eu",Substituição lexical - Por homofonia,no
+ef067adb-ba61-4ddd-ae6b-ba2714600872,algum problema. Alguém pode ir lá e num,vídeo,"você pode chegar e dizer, olha, eu fui",Substituição lexical - Por homofonia,BID
+285aa178-b63a-4779-98d7-b5f2332783e8,"essa garantia que você vai seguir os procedimentos,",porque o foco...,"É muito difícil o bid financiar um greenwashing,",Registro de reformulação da fala,
+d7b5d945-871a-4043-9497-e3061a35e690,"procedimentos, porque o foco... É muito difícil o",bid,"financiar um greenwashing, porque aí vem toda a",Desvio de capitalização,
+a9b7493d-656c-407c-a3ad-a2bea33ae5a0,que a gente tem com o presidente do,BGT,"É dar essa garantia sem a burocracia. Ilan,",Desvio ortográfico - palavra,BID
+fd276e4d-f8c6-4b49-9848-124e234f8ac1,a gente tem com o presidente do BGT,␣,? É dar essa garantia sem a burocracia.,Omissão,tem
+ee0f7b00-085e-4082-a38a-d6e0d2df5da6,"bilhões de dólares, que em reais multiplica por",100,"Como fazer isso? Eu posso passar aqui, mas",Desvio ortográfico - número,5
+fd9a67e0-d43b-40d4-832c-6b7c646841e1,"antes de eu chegar, já tinha seguido 112",BID,"Isso é suficiente? Não, a gente tem que",Substituição lexical - Por homofonia,bi
+91379b5f-8f54-4274-a0f3-8edfc9fc2a80,para colocar dinheiro lá. Um pouco menos do,Big,"Invest, mas é grande. Mas é o principal",Desvio ortográfico - palavra,BID
+fe948833-6d96-4dd9-8420-55604af68767,"Não, tem vários chapéus. Um deles é o",id,"Invest, onde, se tudo correr bem, a nossa",Desvio de capitalização,
+f2ae2301-d268-41fb-8995-d0172e74c1fb,já para saber dessas mudanças todas aí do,ele,Fica aí. Inovação que conecta. Bradesco. Voltando aos,Substituição lexical - Por homofonia,Ilan
+52cb146a-1c9f-4e43-a3ec-c31ca22dc365,podendo se sobressair naquilo que ela tem que,",","Quer dizer, mudar essa... Acho que ser feminista",Desvio de pontuação,.
+ac0e8485-7f2b-4d8c-9560-18813fff12cd,"naquilo que ela tem que sobressair, Quer dizer,",mudar essa...,Acho que ser feminista é mudar um pouco,Registro de reformulação da fala,
+fdc91f24-7f43-420b-8d0e-f9504fbb8dcb,problema nenhum. No plano estratégico que nós estamos,vigiando,"hoje, isso estava, inclusive... Estamos de volta com",Substituição lexical - Por homofonia,vigendo
+8930a6e0-752c-49f2-85c2-1bdb20bdbf16,"que hoje recebe o presidente do BID, Ilan",Goldfein,"Uma das grandes dúvidas, a gente falou aqui",Desvio ortográfico - palavra,Goldfajn
+0141638e-0505-4e38-85e4-cad7261319a1,não pode ter uma sustentabilidade baseada só em,arregadação,"que pode barrar o crescimento. Então, acho que",Desvio ortográfico - palavra,arrecadação
+78b39a44-1f33-40bb-8a90-7aa831751f77,que vive um momento bastante tumultuado. O presidente,Milley,disse que os problemas foram gerados pelas administrações,Desvio ortográfico - palavra,Milei
+4fd8f43e-279f-4410-b601-a811dfcacc16,"nós, não é a minha. É o pessoal",que está...,Me conta aqui sobre esses projetos. Eu não,Registro de reformulação da fala,
+843bf567-3d12-4d41-8017-570fb1075ff1,O diagnóstico comum é o ajuste fiscal não,é,"feito, no final das contas não tinha financiamento,",Substituição lexical - Por homofonia,era
+bbb467fb-a334-423c-8155-f2e129f5e000,inflacionário é que resolvia isso. Nós conhecemos bem,déc,"década de 80, 90, a forma de fazer.",Inserção,
+ffe7999e-10b2-4e32-b365-c5cac6ee0c10,"linha que a gente está trabalhando com eles,",␣,a primeira é eficiência do ajuste. O segundo,Omissão,então
+3e4795de-5a96-4db2-9bcf-b27c35957285,E a terceira é trazer algo que o,id,"sempre fez muito bem, que é trazer essa",Desvio de capitalização,
+4f8a05cf-0117-4bc0-b79c-af79b58df106,"Brasil é muito conhecido, os Bolsa Família da",V,A gente teve um estudo recente que mostrou,Desvio de capitalização,
+9460e433-a682-4032-8607-605df639673e,papel do BID atuando nessa política americana de,Nia Chorin,Como que fica o BID tendo esses dois,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring
+7da35d91-df92-4a67-82a2-13ad98f6113a,Como que a política levando em conta esse,Nia Chorin,"Eu vou fazer outra pergunta junto também, que",Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring
+f6a348a6-0ac4-41f4-9083-af9b37a37d0d,"política espinhosa, que é Cuba não está no",bid,"Está hoje, está no quadro de sócio. Isso",Desvio de capitalização,
+6ef26386-c3c4-4d52-8a09-263798605a8b,questão da integração regional. Você pode chamar de,New Shoring,o outro pode chamar de não sei o,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,Nearshoring
+36b39a3c-18fa-41fe-878b-62b4b86a35f7,"eleito em um país, o nosso mandato, quando","eu fui eleito, eu fui eleito",para integrar regionalmente. A gente vai fazer isso.,Registro de repetição,
+e9b4fae4-2ed3-423e-8044-74fd0bf86384,"isso. Então, se os Estados Unidos, Janet Yellen,",dizem que querem integrar,"bem-vindas, vão integrar. Se a ministra Tebbett tem",Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,"se eles disserem ó, eu quero integrar"
+48484bae-17b1-4f62-92e0-0d4a5beb9c77,"Unidos, Janet Yellen, dizem que querem integrar, bem-vindas,",vão,integrar. Se a ministra Tebbett tem um programa,Substituição lexical - Por homofonia,vamos
+7681cb45-0b5a-4366-8062-382f483411c3,"querem integrar, bem-vindas, vão integrar. Se a ministra",Tebbett,"tem um programa de rodovia, de rotas, por",Desvio ortográfico - palavra,Tebet
+30638c78-72b4-46c5-b32a-bdd5ed4ae85e,América Latina. O nosso programa é chamado de,Bit,"for the Americas. Bit for the Americas. Agora,",Desvio ortográfico - palavra,BID
+64577cc4-520b-4539-9022-e34ccd51d552,programa é chamado de Bit for the Americas.,Bit,"for the Americas. Agora, é um mundo pós-globalização,",Desvio ortográfico - palavra,BID
+481bcf28-4516-40d2-91b0-a5a569e9eba2,"primeiro lugar, a gente tem que pensar neles,",e não...,A gente pode pensar em mandatos onde você,Registro de reformulação da fala,
+0796c010-fb96-4bfa-ba66-b8ba2a900ae2,"onde, quando eu faço o programa de Amazônia",s,vão entrar recursos. Quando eu entro para ajudar,Desvio de capitalização,
+7b620833-9216-4b03-b43d-c9ef3228cbdd,a capacidade até aí. Isso custa um pouco.,Ca,"um pouco mais processos, custa um pouco mais",Desvio ortográfico - palavra,Custa
+cd0902ce-511f-485c-930d-414733533396,"Mas, de fato, gera uma escala muito maior.",␣,"Eu queria, na verdade, a sua avaliação de",Omissão,"Ilan, deixa eu te perguntar uma outra coisa."
+ceee3707-56ca-4096-8dd3-85f8f78157b9,coisa que acho que é meio fundamental para,economistas,"aqui, para o Brasil em particular, que é",Substituição lexical - Por homofonia,economias
+26fbb140-f2a6-47d4-bfac-edf656a02f47,acho que a gente teve o boom de,comodity,que influenciou muito a região de 2003 a,Desvio ortográfico - palavra,commodity
+5163dd5c-9c6d-4da0-beb5-3eada6e63e35,"crescimento maior em todos os países, independente da",política. Política,"ortodoxa, qualquer caixa que você coloca, todo mundo",Registro de repetição,
+4393576b-e465-414c-889a-e1d91ab12b49,"a gente sabe que, à medida que o",aquecimento,"aumenta, você começa a estar numa região que",Substituição lexical - Por homofonia,crescimento
+81654af9-ecec-4d0d-89b5-5c2c7536c7c5,e México. Surpreendeu que cresceu um pouco mais.,Quer dizer,"ia crescer dois, cresceu três. México cresceu dois,",Substituição lexical - Por alucinação,Brasil
+7dccff8d-54ac-4287-8a7c-d043dc749889,que se pensava. México já é dois. Enquanto,Colôômbia,"está crescendo menos, o Peru está crescendo menos,",Desvio ortográfico - palavra,Colômbia
+f74fab54-8adc-4312-b7e1-f8f740db95bd,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",Omissão,"desse Roda Viva com o presidente do BID, Ilan Goldfajn"
+d211002b-d187-42bf-8163-9f9a8ce034c4,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",Desvio de pontuação,.
+789181c2-1bc7-441e-9512-fef1a67d327c,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",Omissão,"Inovação que conecta, Bradesco."
+c19ce965-f429-4cfd-a137-c44b3288ee22,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",Omissão,"Voltando aos criadores, tudo que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar, nunca, daquilo que eu sei, porque aquilo que eu sei"
+fb7bdf9b-9c05-4f98-bb7f-2ddd9416bcf2,"naquilo que ela tem que sobressair, quer dizer,",mudar essa,"acho que ser feminista, mudar um pouco esse",Registro de reformulação da fala,
+35e7516c-caab-443e-8af5-005f3a10f9f4,problema nenhum. No plano estratégico que nós estamos,vigiando,hoje... Roda Viva está de volta e quem,Substituição lexical - Por homofonia,vigendo
+cc12236f-cef8-41f8-94dd-2ce8fdad0c9e,para o presidente do BID é a Marcela,Aires,"Ilan, a gente vai ter essa semana a",Desvio ortográfico - palavra,Ayres
+c2a937ef-841b-444f-b4b0-84821bba4ac3,minha especulação é um ponto de inflexão da,Meca,"Latina nesse mundo novo, está encaixando melhor do",Substituição lexical - Por homofonia,América
+63279462-02f0-4ff8-972c-a20319dd8b24,É o contrário do que a gente precisa,paraquecimento,"maior no futuro. Então, isso impacta de uma",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,para o crescimento
+b42b2df1-6eb7-4c5c-a683-f103c4bbe55d,"eu escuto é a gente acha vocês ótimos,",vão,"fazer, é a forma de fazer, mas você",Substituição lexical - Por homofonia,vamos
+dd73103c-9eae-45b1-bb03-6a3ec28ca2cc,A visão negativa vem de décadas perdidas. Décadas,com o,"crescimento da região, é 2%, às vezes menos,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,cujo
+f4970c12-b445-46fd-bde4-316c2b2e1c82,"mundo, olha, essa região não cresce. Cresce quando",teve,"um descomode, depois voltou ao normal. Então, é",Substituição lexical - Por homofonia,tem
+55f6d699-25b9-43f1-a1a5-ec556f318cb5,essa região não cresce. Cresce quando teve um,␣,"descomode, depois voltou ao normal. Então, é difícil",Omissão,boom
+78623dbf-37e8-43fb-86d3-c7f49d51ba61,essa região não cresce. Cresce quando teve um,descomode,"depois voltou ao normal. Então, é difícil acreditar",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,de commodity
+f26e07fa-1d73-479f-af5f-35a72496e4af,corrente em geral. Nós temos o problema de,"estabilidade, estabilidade","da regra do jogo, estabilidade do Estado de",Registro de repetição,
+1476ec3c-c193-41cf-988c-06b4c60b2b7a,"ano desse ano, ah, o ano que vem",vai,"autonormal. Aí não, vai autonormal. Até que a",Substituição lexical - Por homofonia,volta
+c7e57957-549b-4ba0-aac2-02ef9023a514,"desse ano, ah, o ano que vem vai",autonormal,"Aí não, vai autonormal. Até que a gente",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ao normal
+4bfc1df4-4f9e-4c03-bbbc-b32679d9c4da,"o ano que vem vai autonormal. Aí não,",vai,autonormal. Até que a gente aprende se for,Substituição lexical - Por homofonia,volta
+b9cf7775-7ca3-469b-bc75-75c74730330e,"ano que vem vai autonormal. Aí não, vai",autonormal,Até que a gente aprende se for um,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ao normal
+934c8662-a648-4cba-bedd-2fda28776dd5,de commodity. Até que a gente aprendeu que,é,"um boom, demora uns dois, três anos. Então,",Substituição lexical - Por homofonia,era
+1423d1ff-ad65-4787-9f15-930ae2326af4,"que, de fato, diga Alex, vai voltar a",aquecer,"ou vai voltar para a média. Ilan, na",Substituição lexical - Por homofonia,crescer
+998e8b33-99b8-4695-8073-19cd9092b315,"semana passada, morreu o ex-presidente do Banco Central,",Afonso,Celso Pastore. Você organizou um livro sobre a,Desvio ortográfico - palavra,Affonso
+ed789dc0-94d3-440d-a1c7-818ce77d7a84,do Pastore. Qual que é a importância do,pastor,"para a sua profissão, Guilherme? O pastor foi",Substituição lexical - Por homofonia,Pastore
+41c26207-4d7f-41d7-bdc9-050fd0ce2cfc,"a importância do pastor para a sua profissão,",Guilherme,O pastor foi fundamental. Foi uma... um economista,Substituição lexical - Por alucinação,Ilan
+49ad23c5-2338-4937-a504-61bc5dbbf4a1,"do pastor para a sua profissão, Guilherme? O",pastor,foi fundamental. Foi uma... um economista que teve,Substituição lexical - Por homofonia,Pastore
+f69bcd84-bf4f-497f-9305-4b4c37985b7f,"sua profissão, Guilherme? O pastor foi fundamental. Foi",uma...,um economista que teve dois papéis exemplares. O,Registro de reformulação da fala,
+51cddd72-face-4cc9-b8b3-902937bcaf19,nunca fazia grande especulação. O meu ponto de,reflexão,ele vai lá e olhava os dados e,Substituição lexical - Por homofonia,inflexão
+c72b2312-0bd9-4ce6-b49c-cd16bf1cf068,"como ter o rigor, de como trabalhar. O",pastor,"um grande figura, trabalhou até o último dia,",Substituição lexical - Por homofonia,Pastore
+00cb52f7-b8ba-4ab3-a5f6-751f1f20d666,"ter o rigor, de como trabalhar. O pastor,",um,"grande figura, trabalhou até o último dia, escrevendo,",Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,
+76e5d7e3-dabc-4f9c-90f7-d7bc05fa6588,"disso, desse papel dele. Então, acho que o",pastor,"deixou uma lacuna, mas também deixou um legado",Substituição lexical - Por homofonia,Pastore
+5689debf-2900-4bab-bb8a-b58e178529bb,mas também deixou um legado muito importante. Vanessa.,␣,Eu queria voltar a puxar a sardinha aqui,Omissão,Ilan
+22d18cba-e262-4ecf-a337-9435b1fe881e,são a nossa pauta de todo dia no,Recete,A gente falou bastante de atração de recursos,Desvio ortográfico - palavra,Reset
+244e91c1-ab1d-44aa-90db-6cae7036a2f7,tempo a questão da autonomia operacional do banco.,Agora tem um...,O governo atual não gosta muito do que,Registro de reformulação da fala,
+24f6ec20-6f11-447f-a5f5-9248e8d96d8c,"da dependência. Mas a importância da instituição, se","é independente, é independente","Está lá que você se viu, você já",Registro de repetição,
+c4a3dc23-f6e3-4b61-b719-5b67639ef88f,mundo vai gostar. Obviamente que essa questão de,anti-emitismo,nunca está associada ao debate público. E a,Desvio ortográfico - palavra,antissemitismo
+584be47b-42c0-4c14-96dc-6d45ebe2403e,Acho que isso tem a ver com esse,anti-imitismo,que a gente não deveria levar e eu,Desvio ortográfico - palavra,antissemitismo
+cc161f21-ee0c-4c78-a00e-ecb9cd7ce6d2,ao fim. Além de agradecer imensamente ao Ilan,Goldfein,"pela entrevista, também agradeço a bancada que a",Desvio ortográfico - palavra,Goldfajn
+b253f219-510e-4e4d-9312-3a03f90e0220,"conduziu junto comigo, Alex Ribeiro, Luciana Magalhães, Marcela",Aires,"Renato Andrade, Vanessa Dashi e Luciano Veronese. Muito",Desvio ortográfico - palavra,Ayres
+514b7e93-290c-4e17-8cca-fc7fd212250b,"Ribeiro, Luciana Magalhães, Marcela Aires, Renato Andrade, Vanessa",Dashi,"e Luciano Veronese. Muito obrigada, sobretudo, a você",Desvio ortográfico - palavra,Adachi
+424b096b-89bb-4a68-ae11-579863aa49b8,"Marcela Aires, Renato Andrade, Vanessa Dashi e Luciano",Veronese,"Muito obrigada, sobretudo, a você pela sua audiência",Desvio ortográfico - palavra,Veronezi
+db15d92a-4ddc-43f1-9884-84723b9dd4c2,"sobretudo, a você pela sua audiência toda semana.",␣,Legenda por Sônia Ruberti A maior participação dos,Omissão,"Fiquei semana passada fora, de molho, mas voltei. O Brasil almeja por um papel de maior destaque no cenário global e advoga por"
+38d6b6d6-349d-4704-bcbf-cc940ae5f926,"sobretudo, a você pela sua audiência toda semana.",Legenda por Sônia Ruberti,A maior participação dos bancos de desenvolvimento no,Inserção,
+4aed801f-9965-4dc3-87dc-691007901f75,sua audiência toda semana. Legenda por Sônia Ruberti,A,maior participação dos bancos de desenvolvimento no financiamento,Substituição lexical - Por homofonia,uma
+812759f1-c411-4494-bb9a-09032f4d248a,"como sempre, às 10 da noite. Até lá.",Thank you,Inovação que conecta. Bradesco. you,Inserção,
+da88f7cb-9b71-4c26-aa50-4de46ec93770,Até lá. Thank you. Inovação que conecta. Bradesco.,you,,Inserção,
+,,,,,
+# KWIC POR CATEGORIA — uma tabela por categoria,,,,,
+,,,,,
+## CATEGORIA: Registro de repetição,#FF9E9E,total=10,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+eb5baa2c-7201-4ef6-bd52-00453a098699,"e que a gente, de fato, mude. Luciana.","Boa noite, boa noite","presidente, boa noite a todos. É muito interessante,",,
+dbd6b9c6-fcb7-4bf0-a3e0-e5a544608874,"ajudem, eu preciso que restituam a minha dívida,","eu preciso, eu preciso, eu preciso","Agora eu vejo, eu preciso da energia do",,
+84941c4b-28cd-4ba6-8f9f-6c1bc1ff896c,"quero linha barata, nada disso. Eu preciso de",estabilidade. Estabilidade,"regulatória, estabilidade política. Segurança pública que surgiu, ou",,
+22c375d3-2517-42f7-9120-6d0b17b72c2d,"olha, a gente não tem capacidade de lidar","com você, com você, com você","todos tentando fazer os mesmos projetos, o mesmo",,
+fb324611-1ac9-4309-a551-86fe1c4ae252,porque aquilo que eu sei é a comunhão.,"É o que você sabe, é o que você sabe",Nenhum de nós pode transmitir. Nós só podemos,,
+1c02cf77-b289-42e0-a096-b7f36a58ff95,"o capital operado não sabe fazer conta, não","sabe, sabe","exatamente. O que precisa é, de alguma forma,",,
+36b39a3c-18fa-41fe-878b-62b4b86a35f7,"eleito em um país, o nosso mandato, quando","eu fui eleito, eu fui eleito",para integrar regionalmente. A gente vai fazer isso.,,
+5163dd5c-9c6d-4da0-beb5-3eada6e63e35,"crescimento maior em todos os países, independente da",política. Política,"ortodoxa, qualquer caixa que você coloca, todo mundo",,
+f26e07fa-1d73-479f-af5f-35a72496e4af,corrente em geral. Nós temos o problema de,"estabilidade, estabilidade","da regra do jogo, estabilidade do Estado de",,
+24f6ec20-6f11-447f-a5f5-9248e8d96d8c,"da dependência. Mas a importância da instituição, se","é independente, é independente","Está lá que você se viu, você já",,
+,,,,,
+## CATEGORIA: Registro de hesitação,#F4CCCC,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Registro de reformulação da fala,#F9CB9C,total=16,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+b184893c-5081-45b5-9842-cff2d128471a,"ter mais investimento. Não do BID. Investimento privado,",chegar com...,"Esse é o sucesso. Se tiver mais sucesso,",,
+18518b90-6b6f-4603-a424-2bdaf199d016,"do anúncio, já veio doador. Gente de fora.",A Inglaterra,"o governo da Inglaterra, vocês viram que hoje",,
+46ddff3b-19ed-4ea1-968a-beb2752c1e88,"de transição, de transformação, vem com o trabalho",do,de tentar criar o projeto. O programa que,,
+d97b6c19-7a23-4ebc-9927-4bb7b509d99c,pode fazer com que a máquina funcione finalmente?,A gente...,Acho que é uma ótima pergunta. Os números,,
+7576f3bc-e230-4fc8-b17a-cc1265681753,"é que a gente mede isso? E, finalmente,",só para não...,Eu sei que a gente tem que avançar,,
+a504d34b-e6ed-4064-b9e0-3ac0a6c9487b,"em ... Gastar. Quer dizer, mais eficiente possível",na redução de,"Na verdade, são três grandes objetivos que a",,
+fa6773ba-c1ac-40db-8944-ff238d3e22a3,"Estados Unidos a conversa é outra. Quer dizer,",é mais,Não tem isso. Qual que é a sua,,
+f709b2e5-bdb4-4ee3-9c67-da68bd8cf5fd,"guarda-chuva, que a gente traga todo mundo junto,",que a gente tenha uma,Qual o nome que você... Não sei. O,,
+3b6b906f-038e-4281-b09b-c5ba16d9380f,"naquilo que ela tem que sobressair. Quer dizer,",mudar essa...,Acho que ser feminista é mudar um pouco,,
+285aa178-b63a-4779-98d7-b5f2332783e8,"essa garantia que você vai seguir os procedimentos,",porque o foco...,"É muito difícil o bid financiar um greenwashing,",,
+ac0e8485-7f2b-4d8c-9560-18813fff12cd,"naquilo que ela tem que sobressair, Quer dizer,",mudar essa...,Acho que ser feminista é mudar um pouco,,
+4fd8f43e-279f-4410-b601-a811dfcacc16,"nós, não é a minha. É o pessoal",que está...,Me conta aqui sobre esses projetos. Eu não,,
+481bcf28-4516-40d2-91b0-a5a569e9eba2,"primeiro lugar, a gente tem que pensar neles,",e não...,A gente pode pensar em mandatos onde você,,
+fb7bdf9b-9c05-4f98-bb7f-2ddd9416bcf2,"naquilo que ela tem que sobressair, quer dizer,",mudar essa,"acho que ser feminista, mudar um pouco esse",,
+f69bcd84-bf4f-497f-9305-4b4c37985b7f,"sua profissão, Guilherme? O pastor foi fundamental. Foi",uma...,um economista que teve dois papéis exemplares. O,,
+244e91c1-ab1d-44aa-90db-6cae7036a2f7,tempo a questão da autonomia operacional do banco.,Agora tem um...,O governo atual não gosta muito do que,,
+,,,,,
+## CATEGORIA: Desvio ortográfico - palavra,#B6D7A8,total=44,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+3260cb16-1692-4420-86b1-11313cb9b117,"do Brasil e atual presidente do BID, Ilan",Goldfein,Ilan Goldfein é brasileiro e nasceu em março,,Goldfajn
+1f6071f2-c5fc-4bd3-afcd-255361484366,"e atual presidente do BID, Ilan Goldfein. Ilan",Goldfein,é brasileiro e nasceu em março de 1966,,Goldfajn
+f2afc748-a25c-41a7-84f9-e1cdb267ace3,empresas que estão começando a se desenvolver. Bacana.,Marcel,"Boa noite, Inhela. Boa noite. Hoje o Bid",,Marcela
+fdfa5935-1596-4d7e-b248-8ddd3ddd8e3f,"começando a se desenvolver. Bacana. Marcel. Boa noite,",Inhela,Boa noite. Hoje o Bid participou de um,,Ilan
+5946bf4a-61a9-412a-b801-e36d388fa226,liquidez? É para dar dinheiro quando tem uma,devaliação,muito grande e não tem oxigênio. A empresa,,desvalorização
+dd19cf37-9cb7-420d-abbb-ce940daef94a,"plano estratégico Roda Viva, que hoje recebe Ilan",Goldfein,"presidente do BID, o Banco Interamericano de Desenvolvimento.",,Goldfajn
+b6411096-7a09-4384-a20a-5763411e3651,"no meu caso, eu quero focar nisso. Mas,",Lina,você concorda com esse rótulo de ortodoxo? Quer,,Ilan
+fdac7cc7-8084-41ba-84a3-d41abf25fb56,"o Alex estava falando sobre isso, e hoje",meou,"a atenção no anúncio do programa que, como",Desvio de segmentação - Hipossegmentação,me chamou
+ce8a5dfd-d990-4c4d-a31c-6599ce8e27d7,tantos milhões que iam entrar. Queria falar para,você,que tinha ideia de que isso não tinha.,,vocês
+ce887917-ba8f-47aa-85ac-274d5ef44997,"a Jamaica. O presidente do Banco Mundial, o",E.J.,"Banga, falou, Irã, vamos juntos lá. Vocês têm",,Ajay
+c4163aa0-cd5a-4f42-b32f-1d3c919d0525,"segurança? Na verdade, o BID é o banco",buchatel,cuja unidade de segurança pública é a mais,,multilateral
+5bfd54eb-2062-4882-b238-c97b7935a586,"gente, primeiro, inteligência policial. Começar no número de",policia,"É inteligência nisso. É trazer conhecimento, treinamento, por",,polícia
+91b83c55-8df9-4f3e-9a1e-95c6d426cefb,"da cadeia produtiva e é admitido perfeitamente, não",háin,"é a Vanessa Dash. Ilan, eu queria voltar",,há
+f4d84153-6200-4b29-bfe0-a778cce72bd8,"é admitido perfeitamente, não háin é a Vanessa",Dash,"Ilan, eu queria voltar para o tema do",,Adachi
+7de205f5-67b3-433b-93c2-ae872cb7c934,"só a Marina, é o Haddad, é a",Tévede,é o governo Lula de uma forma geral.,,Tebet
+7f9f600d-d8ed-4791-a7d4-585806204bec,que resolve não respeitar uma parceria pública e,privadaada,A consequência é que fica atraso a todo,,privada
+6db4e929-c95d-4d33-a32d-10a79f91ba7c,pública e privadaada. A consequência é que fica,atraso,"a todo mundo. Então, é esse tipo de",,atrasa
+a9b7493d-656c-407c-a3ad-a2bea33ae5a0,que a gente tem com o presidente do,BGT,"É dar essa garantia sem a burocracia. Ilan,",,BID
+91379b5f-8f54-4274-a0f3-8edfc9fc2a80,para colocar dinheiro lá. Um pouco menos do,Big,"Invest, mas é grande. Mas é o principal",,BID
+8930a6e0-752c-49f2-85c2-1bdb20bdbf16,"que hoje recebe o presidente do BID, Ilan",Goldfein,"Uma das grandes dúvidas, a gente falou aqui",,Goldfajn
+0141638e-0505-4e38-85e4-cad7261319a1,não pode ter uma sustentabilidade baseada só em,arregadação,"que pode barrar o crescimento. Então, acho que",,arrecadação
+78b39a44-1f33-40bb-8a90-7aa831751f77,que vive um momento bastante tumultuado. O presidente,Milley,disse que os problemas foram gerados pelas administrações,,Milei
+9460e433-a682-4032-8607-605df639673e,papel do BID atuando nessa política americana de,Nia Chorin,Como que fica o BID tendo esses dois,Desvio de segmentação - Hipersegmentação,Nearshoring
+7da35d91-df92-4a67-82a2-13ad98f6113a,Como que a política levando em conta esse,Nia Chorin,"Eu vou fazer outra pergunta junto também, que",Desvio de segmentação - Hipersegmentação,Nearshoring
+6ef26386-c3c4-4d52-8a09-263798605a8b,questão da integração regional. Você pode chamar de,New Shoring,o outro pode chamar de não sei o,Desvio de segmentação - Hipersegmentação,Nearshoring
+7681cb45-0b5a-4366-8062-382f483411c3,"querem integrar, bem-vindas, vão integrar. Se a ministra",Tebbett,"tem um programa de rodovia, de rotas, por",,Tebet
+30638c78-72b4-46c5-b32a-bdd5ed4ae85e,América Latina. O nosso programa é chamado de,Bit,"for the Americas. Bit for the Americas. Agora,",,BID
+64577cc4-520b-4539-9022-e34ccd51d552,programa é chamado de Bit for the Americas.,Bit,"for the Americas. Agora, é um mundo pós-globalização,",,BID
+7b620833-9216-4b03-b43d-c9ef3228cbdd,a capacidade até aí. Isso custa um pouco.,Ca,"um pouco mais processos, custa um pouco mais",,Custa
+26fbb140-f2a6-47d4-bfac-edf656a02f47,acho que a gente teve o boom de,comodity,que influenciou muito a região de 2003 a,,commodity
+7dccff8d-54ac-4287-8a7c-d043dc749889,que se pensava. México já é dois. Enquanto,Colôômbia,"está crescendo menos, o Peru está crescendo menos,",,Colômbia
+cc12236f-cef8-41f8-94dd-2ce8fdad0c9e,para o presidente do BID é a Marcela,Aires,"Ilan, a gente vai ter essa semana a",,Ayres
+63279462-02f0-4ff8-972c-a20319dd8b24,É o contrário do que a gente precisa,paraquecimento,"maior no futuro. Então, isso impacta de uma",Desvio de segmentação - Hipossegmentação,para o crescimento
+78623dbf-37e8-43fb-86d3-c7f49d51ba61,essa região não cresce. Cresce quando teve um,descomode,"depois voltou ao normal. Então, é difícil acreditar",Desvio de segmentação - Hipossegmentação,de commodity
+c7e57957-549b-4ba0-aac2-02ef9023a514,"desse ano, ah, o ano que vem vai",autonormal,"Aí não, vai autonormal. Até que a gente",Desvio de segmentação - Hipossegmentação,ao normal
+b9cf7775-7ca3-469b-bc75-75c74730330e,"ano que vem vai autonormal. Aí não, vai",autonormal,Até que a gente aprende se for um,Desvio de segmentação - Hipossegmentação,ao normal
+998e8b33-99b8-4695-8073-19cd9092b315,"semana passada, morreu o ex-presidente do Banco Central,",Afonso,Celso Pastore. Você organizou um livro sobre a,,Affonso
+22d18cba-e262-4ecf-a337-9435b1fe881e,são a nossa pauta de todo dia no,Recete,A gente falou bastante de atração de recursos,,Reset
+c4a3dc23-f6e3-4b61-b719-5b67639ef88f,mundo vai gostar. Obviamente que essa questão de,anti-emitismo,nunca está associada ao debate público. E a,,antissemitismo
+584be47b-42c0-4c14-96dc-6d45ebe2403e,Acho que isso tem a ver com esse,anti-imitismo,que a gente não deveria levar e eu,,antissemitismo
+cc161f21-ee0c-4c78-a00e-ecb9cd7ce6d2,ao fim. Além de agradecer imensamente ao Ilan,Goldfein,"pela entrevista, também agradeço a bancada que a",,Goldfajn
+b253f219-510e-4e4d-9312-3a03f90e0220,"conduziu junto comigo, Alex Ribeiro, Luciana Magalhães, Marcela",Aires,"Renato Andrade, Vanessa Dashi e Luciano Veronese. Muito",,Ayres
+514b7e93-290c-4e17-8cca-fc7fd212250b,"Ribeiro, Luciana Magalhães, Marcela Aires, Renato Andrade, Vanessa",Dashi,"e Luciano Veronese. Muito obrigada, sobretudo, a você",,Adachi
+424b096b-89bb-4a68-ae11-579863aa49b8,"Marcela Aires, Renato Andrade, Vanessa Dashi e Luciano",Veronese,"Muito obrigada, sobretudo, a você pela sua audiência",,Veronezi
+,,,,,
+## CATEGORIA: Desvio ortográfico - número,#B6D7A8,total=1,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+ee0f7b00-085e-4082-a38a-d6e0d2df5da6,"bilhões de dólares, que em reais multiplica por",100,"Como fazer isso? Eu posso passar aqui, mas",,5
+,,,,,
+## CATEGORIA: Desvio de pontuação,#72FFFF,total=5,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+295351a4-7055-4a63-96cf-cab6f0789a2a,esse tipo de suporte subsidiário que o banco,",",daquilo que eu sei. Porque aquilo que eu,,.
+e422aed4-5202-47f3-b90b-205dab57c0a0,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",,.
+53c1ab11-4856-4923-bc36-715e4ab98bb3,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,,.
+52cb146a-1c9f-4e43-a3ec-c31ca22dc365,podendo se sobressair naquilo que ela tem que,",","Quer dizer, mudar essa... Acho que ser feminista",,.
+d211002b-d187-42bf-8163-9f9a8ce034c4,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",,.
+,,,,,
+## CATEGORIA: Desvio de capitalização,#99BAF2,total=14,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+6d0ccde8-7a06-4578-8c45-dde7d215884b,meio das principais plataformas digitais. Os ministros das,F,e presidentes de bancos centrais e bancos multilaterais,,
+3001b9a9-ae49-4f35-96e5-1d752629e51b,tem mais dois braços privados. Um é o,id,"Invest, que ajuda as empresas nos países, e",,
+28938b9c-51a0-4b0c-873a-d38e05d64b34,"que ajuda as empresas nos países, e o",id,"Lab, que é o que ajuda as empresas",,
+2cd539c5-9cec-4731-9846-64a6690e2e81,"Marcel. Boa noite, Inhela. Boa noite. Hoje o",id,participou de um anúncio bem importante com o,,
+23bcd73d-a270-4b10-b783-3da03e05de09,sei. O que você acha de Amazônia para,s,Amazon Forever. Está aí. Estamos aí. E a,,
+598064ca-aee4-4f9c-99be-788fabdd1ebe,um mundo que conspira a favor da meca,l,"O mundo está precisando da meca latina, assim",,
+95c20612-1985-42a5-9161-fa5f1789c94e,meca latina. O mundo está precisando da meca,l,assim como a meca latina sempre precisou do,,
+519b08e1-e384-4fba-a4a3-526cdace1179,"precisando da meca latina, assim como a meca",l,"sempre precisou do mundo. Só que no passado,",,
+d7b5d945-871a-4043-9497-e3061a35e690,"procedimentos, porque o foco... É muito difícil o",bid,"financiar um greenwashing, porque aí vem toda a",,
+fe948833-6d96-4dd9-8420-55604af68767,"Não, tem vários chapéus. Um deles é o",id,"Invest, onde, se tudo correr bem, a nossa",,
+3e4795de-5a96-4db2-9bcf-b27c35957285,E a terceira é trazer algo que o,id,"sempre fez muito bem, que é trazer essa",,
+4f8a05cf-0117-4bc0-b79c-af79b58df106,"Brasil é muito conhecido, os Bolsa Família da",V,A gente teve um estudo recente que mostrou,,
+f6a348a6-0ac4-41f4-9083-af9b37a37d0d,"política espinhosa, que é Cuba não está no",bid,"Está hoje, está no quadro de sócio. Isso",,
+0796c010-fb96-4bfa-ba66-b8ba2a900ae2,"onde, quando eu faço o programa de Amazônia",s,vão entrar recursos. Quando eu entro para ajudar,,
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipossegmentação,#54D862,total=5,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+fdac7cc7-8084-41ba-84a3-d41abf25fb56,"o Alex estava falando sobre isso, e hoje",meou,"a atenção no anúncio do programa que, como",Desvio ortográfico - palavra,me chamou
+63279462-02f0-4ff8-972c-a20319dd8b24,É o contrário do que a gente precisa,paraquecimento,"maior no futuro. Então, isso impacta de uma",Desvio ortográfico - palavra,para o crescimento
+78623dbf-37e8-43fb-86d3-c7f49d51ba61,essa região não cresce. Cresce quando teve um,descomode,"depois voltou ao normal. Então, é difícil acreditar",Desvio ortográfico - palavra,de commodity
+c7e57957-549b-4ba0-aac2-02ef9023a514,"desse ano, ah, o ano que vem vai",autonormal,"Aí não, vai autonormal. Até que a gente",Desvio ortográfico - palavra,ao normal
+b9cf7775-7ca3-469b-bc75-75c74730330e,"ano que vem vai autonormal. Aí não, vai",autonormal,Até que a gente aprende se for um,Desvio ortográfico - palavra,ao normal
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipersegmentação,#54D862,total=9,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+4b57ebea-66c5-4096-be0e-5f7fbabc25a4,"Quando teve o problema de violência no Equador,",não sei,"quem acompanhou, por causa da violência, a gente",Substituição lexical - Por homofonia,vocês...
+7e559276-98b7-401b-92fb-4538af11b0e4,a pergunta relevante aqui foi se teve que,vir a,"chave, se alguma coisa mudou. E eu quero",Substituição lexical - Por homofonia,virar
+602b428b-08af-44f0-9f76-79a888558202,mudou. E eu quero dizer que teve que,vir a,chave nenhuma. A relação do BID com o,Substituição lexical - Por homofonia,virar
+ec836e97-7115-470c-ad2c-324c79275ef2,Banco Central do Japão. E ele passou anos,com o,presidente do Banco Central do Japão. Mas é,Substituição lexical - Por homofonia,como
+4e26759b-dbdd-4129-a0ad-0b75edc13cd3,gente quer propor para o grupo de bancos,financeiros reais,é pensar na escala que a gente quer,Substituição lexical - Por homofonia,multilaterais
+9460e433-a682-4032-8607-605df639673e,papel do BID atuando nessa política americana de,Nia Chorin,Como que fica o BID tendo esses dois,Desvio ortográfico - palavra,Nearshoring
+7da35d91-df92-4a67-82a2-13ad98f6113a,Como que a política levando em conta esse,Nia Chorin,"Eu vou fazer outra pergunta junto também, que",Desvio ortográfico - palavra,Nearshoring
+6ef26386-c3c4-4d52-8a09-263798605a8b,questão da integração regional. Você pode chamar de,New Shoring,o outro pode chamar de não sei o,Desvio ortográfico - palavra,Nearshoring
+dd73103c-9eae-45b1-bb03-6a3ec28ca2cc,A visão negativa vem de décadas perdidas. Décadas,com o,"crescimento da região, é 2%, às vezes menos,",Substituição lexical - Por homofonia,cujo
+,,,,,
+## CATEGORIA: Omissão,#B6DCFF,total=39,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+1741a93a-c44e-4297-8e6f-125e4bb1a8b1,sendo o primeiro brasileiro a ocupar esse cargo,␣,". Boa noite, Ilan. Muito obrigada por estar",,"Para entrevistar o Ilan Goldfajn nós convidamos Vanessa Adachi, redatora chefe, editora chefe do Reset. Renato Andrade, diretor da sucursal do Globo em São Paulo, Marcela Ayres, repórter de economia da agência Reuters, Luciana Magalhães, correspondente do The Wall Street Journal no Brasil e Alex Ribeiro, repórter especial do Valor Econômico. Contamos ainda com os desenhos em tempo real do nosso Luciano Veronezi. "
+078d4a1c-94c5-48d7-9087-7e95ce29c52a,"espaço, para dar tempo. E o 3,4 é",␣,"para a gente poder fazer o derivativo, a",,para nos ajudar
+1527bd51-220e-4d80-900e-53064f5042d9,qual a sua visão? O que precisa mudar?,␣,É uma questão de aumentar o capital desses,,Precisa mudar?
+3f41b319-f5ad-49a7-bea5-2367595411b5,"também. Como eu estava falando com a Marcela,",␣,"estava falando com todos vocês, mas a Marcela",,na verdade
+43742036-8d21-4a96-a633-e372bf824d61,"a Marcela, estava falando com todos vocês, mas",␣,a Marcela respondeu. O tamanho do desafio é,,estava respondendo a Marcela
+ebaf4e65-79cd-4f48-86a1-ca10b4f67d38,"2025 e que a gente, de fato, mude.",␣,"Luciana. Boa noite, boa noite, presidente, boa noite",,Certo
+b3d8615d-2e94-40b5-9517-b43ab863088a,"bilhões, mas recursos para nos ajudar a pensar.",␣,Doações para contratar uma consultoria junto com a,,Certo.
+8c10d4e2-3825-4d6a-814a-29d476899e8f,"está chamando doador, já está chamando outros países.",␣,"Agora, é uma questão, não é fácil. Renato.",,Para entrarem também.
+a717c2f4-f0a8-41c8-b1da-753aee720a0c,"foco principal do programa. Alex. Boa noite, Ilan.",␣,"Você falou aí, comentando sobre a necessidade de",,"Fala. Tudo bem, Alex?"
+cf47151a-e22f-4ded-8370-854c8bd298e2,"próximos sete anos, até 2030. Por que 2030",␣,os metas globais de sustentabilidade. Vamos pensar o,,é
+5608a902-2a51-4af4-b779-eaa1452c3147,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",,da que é super importante
+a31fc7ce-7afd-4cc2-bca0-31b851e44a70,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",,é o conhecimento
+5fd28c5d-fb92-48cb-9cad-5d9854e5e2b0,esse tipo de suporte subsidiário que o banco,␣,", daquilo que eu sei. Porque aquilo que",,"É, eu acho que é importante, mas agora eu preciso fazer um breve intervalo. A gente volta já já no Roda Viva que hoje recebe o presidente do BID Ilan Goldfajn. Até já."
+ad0377d3-f675-4504-8ea5-08118c49a5f4,"tipo de suporte subsidiário que o banco ,",␣,daquilo que eu sei. Porque aquilo que eu,,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar nunca"
+93ec304a-e96e-4b5f-ba92-195dfe8f279b,"que o banco , daquilo que eu sei.",␣,Porque aquilo que eu sei é a comunhão.,,"Inovação que conecta, Bradesco."
+84698462-4638-4b87-b758-e647ee039d9f,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",,que estamos vigendo hoje.
+46181e0b-29cd-4f55-986d-41000cff9280,"perfeitamente, não há problema nenhum. No plano estratégico",␣,"Roda Viva, que hoje recebe Ilan Goldfein, presidente",,Estamos de volta com
+3520217d-161b-44f9-8ee6-518dce80ab2d,papel é ser o mais eficiente possível em,␣,"... Gastar. Quer dizer, mais eficiente possível na",,desenvolvimento
+df968568-21de-4b01-9130-61c0b6c6f567,relevante aqui foi se teve que vir a,␣,"chave, se alguma coisa mudou. E eu quero",,a
+6634c89c-5ad3-4e9b-9dc5-e37feadb784c,gente tenha uma... Qual o nome que você...,␣,Não sei. O que você acha de Amazônia,,Eu falei
+1052df60-d1db-49a6-a02e-67948d86f7e0,um dos países membros do BID é o,␣,"Salvador, que enfrenta aí uma situação de praticamente",,El
+b09d3e1d-7411-47d4-becb-6b91d7318bd9,"com o crime organizado? Então, você falou do",␣,"Salvador, que tem uma forma de lidar, mas",,El
+243a078f-6d88-455d-ae54-ef2bc567d16e,relevante quanto. Cabe mais uma antes do intervalo.,␣,Eu só queria completar nessa aqui. Os governos,,Quem vai?
+e1978f2b-f276-4542-afe2-af4196ce138d,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,,o terceiro bloco desse Roda Viva tão interessante e cheio de assuntos com Ilan Goldfajn
+60ce7535-8ba5-4a6b-a86d-b723be342a36,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,,"Inovação que conecta, Bradesco."
+c0d6df54-2e98-4216-b07c-d8f8830880a3,"fazer mais um intervalo, volta já já para",␣,Eu nunca vou poder compartilhar nunca daquilo que,,"Voltando aos criadores, tudo o que eu posso dar é a minha experiência."
+329644d5-4e1b-456b-9c0b-1f38c9e47c3b,"cadeia produtiva e é admitido perfeitamente, não háin",␣,"é a Vanessa Dash. Ilan, eu queria voltar",,"problema nenhum. No plano estratégico que nós estamos vigendo hoje, isso estava..."
+17fb34f0-a3f5-4374-bb1c-19d5a46f5b8b,"cadeia produtiva e é admitido perfeitamente, não háin",␣,"é a Vanessa Dash. Ilan, eu queria voltar",,Estamos de volta com o Roda Viva e quem pergunta agora para o Ilan Goldfajn 
+712eb822-acb5-4469-be5b-651f5f62e89a,está assumindo um papel bem relevante. A Valência,␣,"tem razão. Tem consciência, os capitais estão começando",,você
+343623cc-e9ec-43d1-867a-3f018f3c3ddd,"mudou, já está na direção correta, já começou",␣,", mas ainda precisa... Mas mesmo no governo,",,a andar
+fd276e4d-f8c6-4b49-9848-124e234f8ac1,a gente tem com o presidente do BGT,␣,? É dar essa garantia sem a burocracia.,,tem
+ffe7999e-10b2-4e32-b365-c5cac6ee0c10,"linha que a gente está trabalhando com eles,",␣,a primeira é eficiência do ajuste. O segundo,,então
+cd0902ce-511f-485c-930d-414733533396,"Mas, de fato, gera uma escala muito maior.",␣,"Eu queria, na verdade, a sua avaliação de",,"Ilan, deixa eu te perguntar uma outra coisa."
+f74fab54-8adc-4312-b7e1-f8f740db95bd,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",,"desse Roda Viva com o presidente do BID, Ilan Goldfajn"
+789181c2-1bc7-441e-9512-fef1a67d327c,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",,"Inovação que conecta, Bradesco."
+c19ce965-f429-4cfd-a137-c44b3288ee22,intervalo e volta já já para o encerramento,␣,"é a comunhão. É o que você sabe,",,"Voltando aos criadores, tudo que eu posso dar é a minha experiência. Eu nunca vou poder compartilhar, nunca, daquilo que eu sei, porque aquilo que eu sei"
+55f6d699-25b9-43f1-a1a5-ec556f318cb5,essa região não cresce. Cresce quando teve um,␣,"descomode, depois voltou ao normal. Então, é difícil",,boom
+5689debf-2900-4bab-bb8a-b58e178529bb,mas também deixou um legado muito importante. Vanessa.,␣,Eu queria voltar a puxar a sardinha aqui,,Ilan
+db15d92a-4ddc-43f1-9884-84723b9dd4c2,"sobretudo, a você pela sua audiência toda semana.",␣,Legenda por Sônia Ruberti A maior participação dos,,"Fiquei semana passada fora, de molho, mas voltei. O Brasil almeja por um papel de maior destaque no cenário global e advoga por"
+,,,,,
+## CATEGORIA: Inserção,#4AC2FF,total=11,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+dfd8b695-899a-4df5-ad7c-40d6618688a3,"a Marcela, estava falando com todos vocês, mas",a Marcela respondeu,O tamanho do desafio é enorme. E a,,
+37f611ee-3a76-4487-ba08-8c5a3acee4b8,"Luciana, que ela tinha pedido no intervalo, depois",o,"Vanessa. É verdade, presidente. A gente estava falando",,
+eecd9681-1a30-4ebf-856f-bad15f022c09,"necessariamente todo mundo tinha conta, tinha capacidade de",se,"distinguir. Hoje em dia basta ter um celular,",,
+5bb547c9-607a-41b1-a4d9-8359ca2ef555,"estabilidade em termos de segurança pública, segurança pessoal,",vir,ficou algo tão relevante quanto. Cabe mais uma,,
+6e7799cc-5ffb-47c6-b2d3-83ff35c01eaa,e privadaada. A consequência é que fica atraso,a,"todo mundo. Então, é esse tipo de coisa",,
+dc41f932-7d77-43f3-aa0d-bac64be149f0,"bancos industriais, junto com a agenda do G20,","o segredo aqui é a agenda do G20 e a agenda dos bancos e municípios estrangeiros, junto com a agenda do G20.",Essa que é o segredo aqui é a,,
+b894af47-70be-45ac-8ef6-5154aded657b,se houve algum problema. Alguém pode ir lá,e,"num vídeo você pode chegar e dizer, olha,",,
+bbb467fb-a334-423c-8155-f2e129f5e000,inflacionário é que resolvia isso. Nós conhecemos bem,déc,"década de 80, 90, a forma de fazer.",,
+38d6b6d6-349d-4704-bcbf-cc940ae5f926,"sobretudo, a você pela sua audiência toda semana.",Legenda por Sônia Ruberti,A maior participação dos bancos de desenvolvimento no,,
+812759f1-c411-4494-bb9a-09032f4d248a,"como sempre, às 10 da noite. Até lá.",Thank you,Inovação que conecta. Bradesco. you,,
+da88f7cb-9b71-4c26-aa50-4de46ec93770,Até lá. Thank you. Inovação que conecta. Bradesco.,you,,,
+,,,,,
+## CATEGORIA: Substituição lexical - Por homofonia,#C165FF,total=53,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+b645482e-3239-439d-b701-a3d16907da2a,"disso, traz também recursos que a gente chama",concessionários,"São doações para ajudar, porque é um projeto,",,concessionais
+b514939f-e2e4-404c-97d9-4f35571e4d36,da história no Brasil. Se você olhar na,Meca,"Latina, o que eu tenho que olhar, eu",,América
+896166d6-488d-40ee-b989-3f1e158e1558,questão cambial eu já escutei muito no passado.,A,"questão não é nova, o que é novo",,Essa
+0d846948-8f28-47d3-baf0-626c02e9d2a9,ligando. Só do anúncio. Como é que essa,cidade,do Brasil quis cambiar? Eu quero também. Só,,história
+163942d9-0c08-4c6c-ae67-7cc409501725,anúncio. Como é que essa cidade do Brasil,quis,"cambiar? Eu quero também. Só do anúncio, já",,risco
+e3f27ddb-0dca-4c04-93f8-4a228994740c,Como é que essa cidade do Brasil quis,cambiar,"Eu quero também. Só do anúncio, já veio",,cambial
+abe1f3b1-1488-4813-b4c0-d11427054449,"a gente, para ver os especialistas. Então, só",o,"anúncio já está chamando doador, já está chamando",,um
+9d675ea6-cf37-4a3c-b6f8-b73ae02bf806,a gente tem. Como é que a gente,presta,"de que forma a gente presta, os empréstimos",,empresta
+a574c17f-7eed-49f8-a723-a20e001a362a,"a gente presta, de que forma a gente",presta,os empréstimos ligados ao impacto. Como é que,,empresta
+4b57ebea-66c5-4096-be0e-5f7fbabc25a4,"Quando teve o problema de violência no Equador,",não sei,"quem acompanhou, por causa da violência, a gente",Desvio de segmentação - Hipersegmentação,vocês...
+c66266fc-500f-42e2-a9b3-0e3e38c0d28e,"Central ali com mão de ferro, tendo de",dobrar,"uma inflação que estava descontrolada, sumiu com juros",,domar
+8b150710-1701-4d6c-8a97-dab91464cc0b,a queda foi muito rápida da inflação de,juiz,"Então, valeu a pena. Agora estou no BID,",,juros
+7e559276-98b7-401b-92fb-4538af11b0e4,a pergunta relevante aqui foi se teve que,vir a,"chave, se alguma coisa mudou. E eu quero",Desvio de segmentação - Hipersegmentação,virar
+602b428b-08af-44f0-9f76-79a888558202,mudou. E eu quero dizer que teve que,vir a,chave nenhuma. A relação do BID com o,Desvio de segmentação - Hipersegmentação,virar
+8b49b7c5-b7c7-4143-b3ed-7ee21d1d9d28,pensou que eram tantos milhões que iam entrar.,Queria,falar para você que tinha ideia de que,,Quem
+198fdbaf-ed19-4d47-9fa4-60f9736e7299,"todo mundo tinha conta, tinha capacidade de se",distinguir,"Hoje em dia basta ter um celular, e",,transferir
+0db88286-e0e2-4b7a-b39d-676399f9ae2a,"de mundo, o que mudou é simplesmente o",carro,e os instrumentos. Eu acho que o que,,cargo
+9d68354e-da57-47a2-849b-3506884da7a9,é que vai incluir mais gente no sistema...,Mais,"presidente. Vai, Marcela, depois Senado. Fala, Marcela. A",,Mas
+b570d720-7690-412c-895b-a210c1d4c1a7,"gente no sistema... Mais presidente. Vai, Marcela, depois",Senado,"Fala, Marcela. A indicação do senhor ao comando",,Renato
+ec836e97-7115-470c-ad2c-324c79275ef2,Banco Central do Japão. E ele passou anos,com o,presidente do Banco Central do Japão. Mas é,Desvio de segmentação - Hipersegmentação,como
+e3ea92a0-960e-414c-8c6b-4ca3dce531e5,É um mundo que conspira a favor da,meca,"latina. O mundo está precisando da meca latina,",,América
+e8fbf9ed-e362-4732-aa9f-224144580faa,da meca latina. O mundo está precisando da,meca,"latina, assim como a meca latina sempre precisou",,América
+08226368-0357-4aee-bdc5-4d57a27329f0,"está precisando da meca latina, assim como a",meca,latina sempre precisou do mundo. Só que no,,América
+315f6cce-0f8a-43ab-bb82-aafdee7b4207,"lá. Eu só queria entender um pouquinho aqui,",Irã,qual que é o papel do BID. Você,,Ilan
+4fdd4a7e-27a4-41cc-b6d4-cf175abd6b8f,"presidente do Banco Mundial, o E.J. Banga, falou,",Irã,"vamos juntos lá. Vocês têm um escritório grande,",,Ilan
+4e26759b-dbdd-4129-a0ad-0b75edc13cd3,gente quer propor para o grupo de bancos,financeiros reais,é pensar na escala que a gente quer,Desvio de segmentação - Hipersegmentação,multilaterais
+962a8607-660a-45ae-bee3-23360b275ea8,questão climática está assumindo um papel bem relevante.,A,"Valência tem razão. Tem consciência, os capitais estão",,Agora
+c5861ce4-f292-4981-b395-2d986111c3bc,climática está assumindo um papel bem relevante. A,Valência,"tem razão. Tem consciência, os capitais estão começando",,Vanessa
+8b536a66-43b7-401c-90b2-7e0d795d61d2,"Brasil. Tem um bioma no sul do México,",tem,outro bioma. Por que você não está olhando,,é
+9bde982a-97d7-4e39-bfe2-2ab2d70450f5,houve algum problema. Alguém pode ir lá e,num,"vídeo você pode chegar e dizer, olha, eu",,no
+ef067adb-ba61-4ddd-ae6b-ba2714600872,algum problema. Alguém pode ir lá e num,vídeo,"você pode chegar e dizer, olha, eu fui",,BID
+fd9a67e0-d43b-40d4-832c-6b7c646841e1,"antes de eu chegar, já tinha seguido 112",BID,"Isso é suficiente? Não, a gente tem que",,bi
+f2ae2301-d268-41fb-8995-d0172e74c1fb,já para saber dessas mudanças todas aí do,ele,Fica aí. Inovação que conecta. Bradesco. Voltando aos,,Ilan
+fdc91f24-7f43-420b-8d0e-f9504fbb8dcb,problema nenhum. No plano estratégico que nós estamos,vigiando,"hoje, isso estava, inclusive... Estamos de volta com",,vigendo
+843bf567-3d12-4d41-8017-570fb1075ff1,O diagnóstico comum é o ajuste fiscal não,é,"feito, no final das contas não tinha financiamento,",,era
+48484bae-17b1-4f62-92e0-0d4a5beb9c77,"Unidos, Janet Yellen, dizem que querem integrar, bem-vindas,",vão,integrar. Se a ministra Tebbett tem um programa,,vamos
+ceee3707-56ca-4096-8dd3-85f8f78157b9,coisa que acho que é meio fundamental para,economistas,"aqui, para o Brasil em particular, que é",,economias
+4393576b-e465-414c-889a-e1d91ab12b49,"a gente sabe que, à medida que o",aquecimento,"aumenta, você começa a estar numa região que",,crescimento
+35e7516c-caab-443e-8af5-005f3a10f9f4,problema nenhum. No plano estratégico que nós estamos,vigiando,hoje... Roda Viva está de volta e quem,,vigendo
+c2a937ef-841b-444f-b4b0-84821bba4ac3,minha especulação é um ponto de inflexão da,Meca,"Latina nesse mundo novo, está encaixando melhor do",,América
+b42b2df1-6eb7-4c5c-a683-f103c4bbe55d,"eu escuto é a gente acha vocês ótimos,",vão,"fazer, é a forma de fazer, mas você",,vamos
+dd73103c-9eae-45b1-bb03-6a3ec28ca2cc,A visão negativa vem de décadas perdidas. Décadas,com o,"crescimento da região, é 2%, às vezes menos,",Desvio de segmentação - Hipersegmentação,cujo
+f4970c12-b445-46fd-bde4-316c2b2e1c82,"mundo, olha, essa região não cresce. Cresce quando",teve,"um descomode, depois voltou ao normal. Então, é",,tem
+1476ec3c-c193-41cf-988c-06b4c60b2b7a,"ano desse ano, ah, o ano que vem",vai,"autonormal. Aí não, vai autonormal. Até que a",,volta
+4bfc1df4-4f9e-4c03-bbbc-b32679d9c4da,"o ano que vem vai autonormal. Aí não,",vai,autonormal. Até que a gente aprende se for,,volta
+934c8662-a648-4cba-bedd-2fda28776dd5,de commodity. Até que a gente aprendeu que,é,"um boom, demora uns dois, três anos. Então,",,era
+1423d1ff-ad65-4787-9f15-930ae2326af4,"que, de fato, diga Alex, vai voltar a",aquecer,"ou vai voltar para a média. Ilan, na",,crescer
+ed789dc0-94d3-440d-a1c7-818ce77d7a84,do Pastore. Qual que é a importância do,pastor,"para a sua profissão, Guilherme? O pastor foi",,Pastore
+49ad23c5-2338-4937-a504-61bc5dbbf4a1,"do pastor para a sua profissão, Guilherme? O",pastor,foi fundamental. Foi uma... um economista que teve,,Pastore
+51cddd72-face-4cc9-b8b3-902937bcaf19,nunca fazia grande especulação. O meu ponto de,reflexão,ele vai lá e olhava os dados e,,inflexão
+c72b2312-0bd9-4ce6-b49c-cd16bf1cf068,"como ter o rigor, de como trabalhar. O",pastor,"um grande figura, trabalhou até o último dia,",,Pastore
+76e5d7e3-dabc-4f9c-90f7-d7bc05fa6588,"disso, desse papel dele. Então, acho que o",pastor,"deixou uma lacuna, mas também deixou um legado",,Pastore
+4aed801f-9965-4dc3-87dc-691007901f75,sua audiência toda semana. Legenda por Sônia Ruberti,A,maior participação dos bancos de desenvolvimento no financiamento,,uma
+,,,,,
+## CATEGORIA: Substituição lexical - Por alucinação,#C165FF,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+f0ffcc5e-2d9a-449a-a6f6-e6aa91018645,agenda e acabar. E para os bancos do,GTA,"a gente quer uma agenda que seja implementável,",,multilaterais
+81654af9-ecec-4d0d-89b5-5c2c7536c7c5,e México. Surpreendeu que cresceu um pouco mais.,Quer dizer,"ia crescer dois, cresceu três. México cresceu dois,",,Brasil
+41c26207-4d7f-41d7-bdc9-050fd0ce2cfc,"a importância do pastor para a sua profissão,",Guilherme,O pastor foi fundamental. Foi uma... um economista,,Ilan
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+15507987-3655-4d5e-a253-f8369e55d1e4,"próximos sete anos, até 2030. Por que 2030",os,metas globais de sustentabilidade. Vamos pensar o banco,,
+1d8aebe1-442e-4ac2-bd03-812319fc57d3,"boa reforma tributária, uma boa digitalização do governo,",uma boa,instituições que são mais permanentes. Tudo isso ajuda,,
+00cb52f7-b8ba-4ab3-a5f6-751f1f20d666,"ter o rigor, de como trabalhar. O pastor,",um,"grande figura, trabalhou até o último dia, escrevendo,",,
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Variações informais,#fbff00,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,total=11,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+69551cac-1475-4640-af1d-e7f122672bbd,"ajudar, porque é um projeto, ou para ajudar",a,"desenvolver uma área. E, finalmente, tem mais dois",,
+dfa7d1c4-ec37-4bd3-8a50-6bd6630885ed,"dois incêndios. O México, que teve o problema",do,"Acapulco. O Caribe, que teve o furacão. Mudança",,
+1526b3ff-c81e-4c6d-90f1-7e375fdc1d64,"com o câmbio entre real versus dólar, ou",o,"peso, quando está em outro país, vezes o",,
+b9b1b9e6-6005-49cd-a47e-3d3fa1b772af,"onde é que está. Se funcionar, eu te",garanto,"que já vai estar. Só de anunciar, só",,gaianto
+4ec5d7e6-bd8c-4936-9caa-3cbb4bf9a044,"Dando recursos. Não recursos da linha dos 5,4",bilhões,mas recursos para nos ajudar a pensar. Doações,,bi
+920835cb-90bb-4a91-8ca1-f01804bd05cf,hoje. Não. A minha visão de mundo é,que,"quando você está no Banco Central, você está",,
+9784fb27-ccb9-4862-b766-00b41b15d9d6,Preciso de exportação de energia limpa. Eu preciso,de,absorção de CO2 da Amazônia. Preciso que isso,,
+db3eee90-6e02-4a9e-a62b-e65f863bdc1d,"é muito comum, de você ter os estabelecidos,",as,"empresas estabelecidas, as instituições estabelecidas, num lugar, e",,os
+52bb6f79-7107-4850-8efe-3bd58d49210d,"comum, de você ter os estabelecidos, as empresas",estabelecidas,"as instituições estabelecidas, num lugar, e as que",,estabelecidos
+6c9a00a5-7e24-4dbe-8237-71bbc2898661,México? Por que você não está olhando as,suas,florestas? Eu acho que isso é um problema,,
+e9b4fae4-2ed3-423e-8044-74fd0bf86384,"isso. Então, se os Estados Unidos, Janet Yellen,",dizem que querem integrar,"bem-vindas, vão integrar. Se a ministra Tebbett tem",,"se eles disserem ó, eu quero integrar"
+,,,,,
+# OCORRÊNCIAS COM MAIS DE UMA CATEGORIA (KWIC),,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,
+4b57ebea-66c5-4096-be0e-5f7fbabc25a4,"Quando teve o problema de violência no Equador,",não sei,"quem acompanhou, por causa da violência, a gente",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+7e559276-98b7-401b-92fb-4538af11b0e4,a pergunta relevante aqui foi se teve que,vir a,"chave, se alguma coisa mudou. E eu quero",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+602b428b-08af-44f0-9f76-79a888558202,mudou. E eu quero dizer que teve que,vir a,chave nenhuma. A relação do BID com o,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+fdac7cc7-8084-41ba-84a3-d41abf25fb56,"o Alex estava falando sobre isso, e hoje",meou,"a atenção no anúncio do programa que, como",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+ec836e97-7115-470c-ad2c-324c79275ef2,Banco Central do Japão. E ele passou anos,com o,presidente do Banco Central do Japão. Mas é,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+4e26759b-dbdd-4129-a0ad-0b75edc13cd3,gente quer propor para o grupo de bancos,financeiros reais,é pensar na escala que a gente quer,Substituição lexical - Por homofonia | Desvio de segmentação - Hipersegmentação,
+9460e433-a682-4032-8607-605df639673e,papel do BID atuando nessa política americana de,Nia Chorin,Como que fica o BID tendo esses dois,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,
+7da35d91-df92-4a67-82a2-13ad98f6113a,Como que a política levando em conta esse,Nia Chorin,"Eu vou fazer outra pergunta junto também, que",Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,
+6ef26386-c3c4-4d52-8a09-263798605a8b,questão da integração regional. Você pode chamar de,New Shoring,o outro pode chamar de não sei o,Desvio de segmentação - Hipersegmentação | Desvio ortográfico - palavra,
+63279462-02f0-4ff8-972c-a20319dd8b24,É o contrário do que a gente precisa,paraquecimento,"maior no futuro. Então, isso impacta de uma",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+dd73103c-9eae-45b1-bb03-6a3ec28ca2cc,A visão negativa vem de décadas perdidas. Décadas,com o,"crescimento da região, é 2%, às vezes menos,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+78623dbf-37e8-43fb-86d3-c7f49d51ba61,essa região não cresce. Cresce quando teve um,descomode,"depois voltou ao normal. Então, é difícil acreditar",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+c7e57957-549b-4ba0-aac2-02ef9023a514,"desse ano, ah, o ano que vem vai",autonormal,"Aí não, vai autonormal. Até que a gente",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+b9cf7775-7ca3-469b-bc75-75c74730330e,"ano que vem vai autonormal. Aí não, vai",autonormal,Até que a gente aprende se for um,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+,,,,,
+# OCORRÊNCIAS NÃO VINCULADAS — destaques cuja cor não é idêntica a nenhuma categoria,,,,,
+Total de ocorrências não vinculadas,0,,,,
+,,,,,
+## QUANTIFICAÇÃO POR COR (não vinculadas),,,,,
+cor_detectada,total_ocorrencias,,,,
+,,,,,
+## LISTA (KWIC) — não vinculadas,,,,,
+id,cor_detectada,contexto_esquerdo,trecho,contexto_direito,

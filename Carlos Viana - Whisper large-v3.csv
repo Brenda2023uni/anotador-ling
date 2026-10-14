@@ -1,0 +1,516 @@
+Arquivo csv dos dados obtidos com a anotação da transcrição da entrevista do Carlos Viana. Dados referentes a anotação da transcrição produzida pelo Whisper large-v3,,,,,
+# RELATÓRIO ESTATÍSTICO,RODA VIVA | CARLOS VIANA | 16/03/2026 - Whisper large v3,,,,
+Total de elementos sinalizados (cada trecho conta 1 vez),137,,,,
+Ocorrências com mais de uma categoria,6,,,,
+Ocorrências NÃO vinculadas (cor sem correspondência exata — campo separado),0,,,,
+Categorias no projeto,16,,,,
+,,,,,
+# CONTAGEM POR CATEGORIA,,,,,
+categoria,cor,total_ocorrencias,,,
+Registro de repetição,#FF9E9E,5,,,
+Registro de hesitação,#F4CCCC,1,,,
+Registro de reformulação da fala,#F9CB9C,5,,,
+Desvio ortográfico - palavra,#B6D7A8,57,,,
+Desvio ortográfico - número,#B6D7A8,0,,,
+Desvio de pontuação,#72FFFF,5,,,
+Desvio de capitalização,#99BAF2,4,,,
+Desvio de segmentação - Hipossegmentação,#54D862,4,,,
+Desvio de segmentação - Hipersegmentação,#54D862,3,,,
+Omissão,#B6DCFF,20,,,
+Inserção,#4AC2FF,6,,,
+Substituição lexical - Por homofonia,#C165FF,30,,,
+Substituição lexical - Por alucinação,#C165FF,3,,,
+Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,0,,,
+Registro da flexibilidade da fala - Variações informais,#fbff00,0,,,
+Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,0,,,
+,,,,,
+# OCORRÊNCIAS INDIVIDUAIS (sem contexto),,,,,
+id,trecho,categorias,comentario,,
+d0d21b1e-4159-4b1c-a1f2-0a9b89be8c7c,Braunas,Desvio ortográfico - palavra,Braúnas,,
+03359816-5c5d-4fe4-8fef-d469f7a92ac3,Michele Trumbelli,Desvio ortográfico - palavra,Michelle Trombelli,,
+a8d340f3-8c46-422e-b54e-908b5b0b1fd7,Metrópolis,Desvio ortográfico - palavra,Metrópoles,,
+ddd04705-aee2-4ba5-a2f6-733cabb70f3a,Juliana,Desvio ortográfico - palavra,Julliana,,
+976c2418-b141-4767-a592-f8eb864a7341,Luísa,Desvio ortográfico - palavra,Luiza,,
+fb803b4b-25b5-4614-be85-d3da8b146532,Batistão,Desvio ortográfico - palavra,Baptistão,,
+80c5b419-1cda-44ce-8c55-887a5a904352,as coisas têm sido...,Registro de reformulação da fala,,,
+4a66a3de-afdf-423b-90ad-cf72fbe42515,o STF,Registro de reformulação da fala,,,
+7762ecc8-32e9-4e93-8be7-43b1e3d2411e,Pedro,Substituição lexical - Por homofonia,primeiro,,
+cfb145c6-9a52-4d0b-9109-efe7c0bce661,demais,Desvio de segmentação - Hipossegmentação,,,
+83f4d230-9615-401b-b87a-c14b8383d3d1,Opália,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ô Paglia,,
+7b7957cb-2f7a-4ed0-b83b-2433ae97968a,Michele,Desvio ortográfico - palavra,Michelle,,
+9f4f1cd4-c7f2-44e8-ae43-fb67e530e348,postes,Substituição lexical - Por homofonia,Porches,,
+fcff7f4f-1918-469f-8589-26dde0eb0c1c,Felipe,Desvio ortográfico - palavra,Phillipi,,
+5e814fdf-c363-4c37-91ac-df5f706f2234,William,Substituição lexical - Por alucinação,Guilherme,,
+76208890-0069-4d59-93c2-8153d709ed56,Alvocaro,Substituição lexical - Por homofonia,Vorcaro,,
+7ef6149a-cecf-439b-a81b-43ffc9d8dfa9,a,Inserção,,,
+350a93d6-77eb-44c9-a9dc-c10e827fc127,vida de um,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,vídeo,,
+5724f34d-a4ad-43a6-837e-39e56ac645b5,␣,Omissão,E,,
+f71b6b03-5114-48f5-8957-662dd3bed47b,h,Desvio de capitalização,,,
+26ee6b90-32e7-46cb-b4ed-293091fe03cf,a CPMI gerou toda uma série de...,Registro de reformulação da fala,,,
+149f6075-ad62-4c75-98a7-8568515af9c1,␣,Omissão,Paglia,,
+844bd6c9-53d4-4483-a346-56affaa97a10,Alexandre de Moraes acaba,Registro de reformulação da fala,,,
+2787caf2-402c-40dd-9d92-eeacbaa705b3,x,Desvio de capitalização,,,
+13b9a6f2-788b-400c-83fe-a1414720db8d,Juliana,Desvio ortográfico - palavra,Julliana,,
+b7ff23cf-9d28-4d06-98c1-d3ad5f64c469,Luiz,Desvio ortográfico - palavra,Luís,,
+ccd67ac1-1488-411c-b35f-483baf7be3d6,Luiz,Desvio ortográfico - palavra,Luís,,
+22fa5111-6646-422a-a192-8875a4115e1d,Carmem,Desvio ortográfico - palavra,Cármen,,
+53c5a9aa-0d68-42f7-81bc-b148b7c66dd8,Everton,Desvio ortográfico - palavra,Weverton,,
+7ad94711-90ec-4377-bf12-3ef8fc545e8e,Euclides Pedersen,Desvio ortográfico - palavra,Euclydes Pettersen,,
+d7f520a4-a5b1-43c2-af60-74f7ece04415,identificar,Substituição lexical - Por homofonia,identificada,,
+840da940-3976-4efd-997a-b0240775ad8a,dessa ,Substituição lexical - Por homofonia,essa,,
+d23f4466-22cf-4af2-adff-3fe40c725390,Ibanez,Desvio ortográfico - palavra,Ibaneis,,
+f45d88df-be9b-4386-93b6-9c9193aaaa77,Luísa,Desvio ortográfico - palavra,Luiza,,
+76e86cc7-7d39-432b-83c2-1453bb0ca106,Luísa,Desvio ortográfico - palavra,Luiza,,
+f0ce845f-0dbc-4b22-b505-a7a3ad633288,␣,Omissão,Há ali,,
+2aebba61-7255-4516-8607-3a273265fe98,Qual é o sentido? Qual é o sentido,Registro de repetição,,,
+a2aa08bb-7c03-44e2-90db-34dddd415a82,e isso,Registro de reformulação da fala,,,
+e42decfe-3ab8-4460-819b-251471fb4258,"resultados, resultados",Registro de repetição,,,
+c60ed8b6-c2a9-484a-9d25-355320e6d498,␣,Omissão,instantes com o senador Carlos Viana. Até lá.,,
+41b5f887-d1b2-4de9-b27b-69ffa55d4b9e,␣,Omissão,"Inovação que conecta, Bradesco.",,
+f76808b7-eda0-475a-860e-042609d74bac,␣,Omissão,"Hoje, vamos",,
+bfdbc7e8-14a1-43fb-95f5-846f31f67a10,Manoel,Desvio ortográfico - palavra,Manomel,,
+25568609-e7fb-4c91-b281-c432c2e35750,Itabelinha,Desvio ortográfico - palavra,Isabelinha,,
+34989711-cb6a-4b36-a4d7-a9a66b8c9a68,␣,Omissão,Uma legião de técnicos trabalhando para levar banda larga para milhões de estudantes em todo o Brasil. E na velocidade do zoom.,,
+fb428970-3afc-4c2e-ad21-df31044324da,Aprenda,Substituição lexical - Por homofonia,Aprender,,
+79551941-53e9-4b08-9bd1-1fe37300c3b7,a,Inserção,,,
+419722d8-d273-4e8f-a6e5-d766ddaa6641,conectar,Substituição lexical - Por homofonia,conectado,,
+805144c9-ff94-4215-9f92-dd2e8e3a9ad2,Vianna,Desvio ortográfico - palavra,Viana,,
+f4d258ab-236e-4634-89f2-dc7ec9833ee0,Vital,Desvio ortográfico - palavra,Vitão,,
+cb83554b-63f9-48f3-8d49-075b3e27ac01,marcas,Substituição lexical - Por homofonia,macas,,
+1d6bdbc1-4172-457b-8968-fa867bef1097,u,Desvio de capitalização,,,
+71bffaec-55e1-475a-8ab6-46176c116672,dita,Substituição lexical - Por homofonia,dívida,,
+c7aeddfa-9342-455e-b7ef-88e7347472c2,Zetel,Desvio ortográfico - palavra,Zettel,,
+b6d543f5-819c-4d12-8d35-0cbcf27aac92,Zetel,Desvio ortográfico - palavra,Zettel,,
+553443ac-e2b5-461f-a746-8baef497d271,Oasis,Desvio ortográfico - palavra,Oásis,,
+7a2b5993-3b6b-40eb-8571-596e2b657c39,Zetel,Desvio ortográfico - palavra,Zettel,,
+9f6a293d-55f6-4725-a59f-214ddc22a740,Zetel,Desvio ortográfico - palavra,Zettel,,
+40fee48b-5472-4cd4-b811-f82b3499dbc1,NSS,Desvio ortográfico - palavra,INSS,,
+5aa5d3c3-7179-4246-8c71-bdce1f078153,Iamos,Desvio ortográfico - palavra,Íamos,,
+84cbe1a3-3eb5-4a21-81aa-86cabffb56ca,Vocaro,Desvio ortográfico - palavra,Vorcaro,,
+6102c317-f6d6-482a-a23f-553ed79c1c81,Zetel,Desvio ortográfico - palavra,Zettel,,
+079e99d4-811b-4c93-9dcd-2d8bf61265c2,Zetel,Desvio ortográfico - palavra,Zettel,,
+9dd70827-aac4-48e6-b6be-8f92b9d19117,␣,Omissão,O senhor,,
+9c861c12-4239-4d8c-9537-92aa002a6589,Já,Inserção,,,
+c7cc6c28-c60e-42d3-87c6-40d42a652bee,Zetel,Desvio ortográfico - palavra,Zettel,,
+dda31e9c-0d90-4064-85c3-0702f70dd072,a,Desvio ortográfico - palavra,que,,
+5f47155a-92a2-424c-ba71-5c6d010679c9,Zetel,Desvio ortográfico - palavra,Zettel,,
+45920d0b-bc10-472c-95d6-1a2ba69334b2,Juliana,Desvio ortográfico - palavra,Julliana,,
+a7240591-5370-42be-baab-af1d5fae20d6,Ananda,Desvio ortográfico - palavra,Annanda,,
+18a61820-144d-4984-9beb-497be2a8bfb6,né,Substituição lexical - Por homofonia,Annanda,,
+1f2f5345-53c8-4f33-a4bb-324d77df19b7,?,Desvio de pontuação,.,,
+7e44e540-7daf-4c8e-a736-87e52a0212a8,Ananda,Desvio ortográfico - palavra,Annanda,,
+37604001-b825-46bb-8468-f71760e4cd63,Anandes,Substituição lexical - Por homofonia,Annanda,,
+8b7a4358-40d2-48dd-89c4-0244ea2ab644,estivesse,Substituição lexical - Por homofonia,tivessem,,
+51f43c2d-0229-45cb-8b6b-67803e522fdd,em,Inserção,,,
+c9c6b0fc-1ca1-4cec-a7c1-d363049715c3,Senadora,Substituição lexical - Por homofonia,Senador,,
+75d60eba-90b7-4e81-9d26-b6cc705cd363,␣,Omissão,"Pois não, Guilherme.",,
+01da21e8-2418-4cbb-a7b9-40201a3374ec,Ananda,Desvio ortográfico - palavra,Annanda,,
+e6a271fa-f918-4e6a-a78a-5d07fe7df45e,Maci,Substituição lexical - Por homofonia,Master,,
+87fe2afa-39a2-45ba-b0d4-2c2ab62fbd34,␣,Omissão,hoje,,
+d9bfad9f-fb97-493c-875c-f4c9b4002e13,a vida,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,havido,,
+6bc19c7e-5a6d-4e4d-8430-ee56ca7e390c,␣,Omissão,a,,
+4b5ecd93-21a2-4df5-ba4f-71605523bd9e,de São,Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,decisão,,
+046d1233-c00b-4352-86d3-ffe2139cd7f2,Domingos,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,do ministro,,
+173631a3-e638-4d20-8bf0-0b724fd71af9,Fábio,Desvio ortográfico - palavra,Flávio,,
+87d5b535-6d40-435f-902b-ac84ac837879,Dino,Desvio ortográfico - palavra,Dino,,
+56b5b422-dd9d-4f4f-a96b-64ef359dda18,viates,Desvio ortográfico - palavra,Iates,,
+1eb30dcb-1e2a-4b87-88df-49657578734c,Metrópolis,Desvio ortográfico - palavra,Metrópoles,,
+2039f3b4-006f-4630-a7f7-4db8ed0776fc,␣,Desvio de pontuação,",",,
+a3b31be2-f8f0-41d3-94b5-9d540024318a,Geraldo,Substituição lexical - Por homofonia,Geral,,
+18fc61a3-b2dd-424e-8114-da6f135bfb4e,",",Desvio de pontuação,,,
+f8ea1620-857f-4336-841a-496fd47b6395,"telefones, telefones",Registro de repetição,,,
+01e3d726-ca31-4654-8a85-d3732e8b8c77,Nícolas,Desvio ortográfico - palavra,Nikolas,,
+6c82a9b5-7486-4bfd-a238-2d8ef8cf4465,Cássio,Desvio ortográfico - palavra,Kassio,,
+af33c74d-d860-465d-b880-934944f3f861,␣,Omissão,o,,
+c603668b-006d-497e-a4fa-06e3628af669,massas,Substituição lexical - Por homofonia,Master,,
+d472e039-851e-4d5e-b702-d7990dd6df19,",",Desvio de pontuação,?,,
+df6fcd77-8ee7-4ca8-b5d0-d9667704deed,Vianna,Desvio ortográfico - palavra,Viana,,
+eb12f257-e8a2-45f0-b22a-89a82af56cce,Vocaro,Desvio ortográfico - palavra,Vorcaro,,
+d38224a7-161f-411b-b148-51b856a0cf09,Mato,Substituição lexical - Por homofonia,Master,,
+fd14a887-2df2-490b-a3e2-90e63606055d,␣,Omissão,do,,
+4c64cb8d-d4f3-4393-b93b-ae7f017e3635,Mato Grosso do Sul,Substituição lexical - Por alucinação,Vorcaro,,
+827f78ea-9668-4d4b-944f-6c85c3a7b751,␣,Omissão,de,,
+3d74a065-bbca-4c4e-8337-22f98e66b9cb,Moreira,Substituição lexical - Por homofonia,Moraes,,
+67ff6324-4475-47d0-bef4-1ae5184c9a94,Contradiz-se,Substituição lexical - Por homofonia,Contradisse,,
+0443dc19-ba4f-4446-884d-7873589b8707,Márcio,Substituição lexical - Por homofonia,Master,,
+05d559db-c900-49e5-8ab9-cdfbe81b7624,Luísa,Desvio ortográfico - palavra,Luiza,,
+325509e4-13c9-4a93-ae28-f43cba0f44f8,␣,Omissão,de,,
+50ebd2e0-f0dd-4661-baed-da331474a0bc,Ogumota,Substituição lexical - Por homofonia | Desvio de segmentação - Hipossegmentação,Hugo Motta,,
+e248f8a0-74c5-4bf0-82b3-0fd0af19d831,Juliana,Desvio ortográfico - palavra,Julliana,,
+7c14c47f-eb87-458f-84c8-d563cf746678,sua,Substituição lexical - Por homofonia,sou,,
+5d26fdd3-1fd7-4195-b092-78189fe44ff4,chamada,Substituição lexical - Por homofonia,chamado,,
+6b1fd809-1405-43f2-99ac-de95da9ae33e,é,Inserção,,,
+df04edf6-0137-46fc-a431-83cf1f3ff280,exagerado. Exagerado,Registro de repetição,,,
+343aa472-2f08-489a-b89b-661fc323aec5,é,Substituição lexical - Por alucinação,foi,,
+0bb3ca6d-9735-4dc6-967b-060898d15f70,",",Desvio de pontuação,,,
+9a604b2d-ab84-4849-b17b-12df7b711e86,Michel,Desvio ortográfico - palavra,Michelle,,
+bef2ea00-b103-4d45-bf47-1af2355e0738,Moherdawi,Desvio ortográfico - palavra,Moherdaui,,
+bc8f206b-2aa0-4a99-8b1f-fff7285b8694,perdido,Substituição lexical - Por homofonia,pedido,,
+6499f9ff-0f6b-459d-8bfb-6d0bcef8176a,␣,Omissão,"Olha, Luiza...",,
+33d7c9db-0ee6-41a6-b87b-bd76e86b1e7d,␣,Omissão,Posso só perguntar?,,
+7e0cb68e-dbc7-4bfb-acd1-92b800db68a2,␣,Omissão,Pois não.,,
+3a19158a-f627-47f5-9d7a-13bea3d18e2b,vocário,Desvio ortográfico - palavra,Vorcaro,,
+b66b04e9-2678-429c-9a18-378555b855ea,Arthur,Desvio ortográfico - palavra,Artur,,
+1c83c62a-7563-47d3-b761-0dbcbc29bd2c,Palha,Substituição lexical - Por homofonia,Paglia,,
+d92d983d-b718-4225-9c55-2bbe1b703f31,e,Desvio de capitalização,,,
+d6e3f6c6-ed0f-44b4-be18-57ba3b7d08ca,"trabalho. Trabalho, trabalho",Registro de repetição,,,
+355928f2-0d35-41ed-82ef-ed3e5b350262,Ah,Registro de hesitação,,,
+92bdf284-0f0d-4ab7-ab70-d347f9847ace,␣,Omissão,"Pois não, Sidney.",,
+0d7d7527-261f-402d-b786-60c63885edbe,jipfakes,Desvio ortográfico - palavra,deepfakes,,
+9ccbec14-62ca-4a06-b3d6-49971e5fbc43,␣,Omissão,"Sidney,",,
+43513e97-9d7c-4f4b-a830-af3005d54e41,Palha,Substituição lexical - Por homofonia,Paglia,,
+6a06b007-b233-46db-9c66-f77434f3b41c,Batistão,Desvio ortográfico - palavra,Baptistão,,
+62882a79-a5b4-481d-a437-f603e123c677,Metrópolis,Desvio ortográfico - palavra,Metrópoles,,
+ca20c56a-0a28-4496-b5f8-304d869ae58c,É,Substituição lexical - Por homofonia,Até,,
+6909872d-6c6d-43cf-a45d-e964e88620f1,Thank you,Inserção,,,
+,,,,,
+# OCORRÊNCIAS EM KEY WORD IN CONTEXT (KWIC) — 8 palavras antes/depois,,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,comentario
+d0d21b1e-4159-4b1c-a1f2-0a9b89be8c7c,o senador Carlos Viana. Ele é mineiro de,Braunas,"na região do Vale do Rio Doce. Jornalista,",Desvio ortográfico - palavra,Braúnas
+03359816-5c5d-4fe4-8fef-d469f7a92ac3,"nós convidamos Raquel Landim, âncora do SBT News,",Michele Trumbelli,apresentadora e coordenadora de conteúdo da Band News,Desvio ortográfico - palavra,Michelle Trombelli
+a8d340f3-8c46-422e-b54e-908b5b0b1fd7,"Poder 360. Fábio Leite, diretor da sucursal do",Metrópolis,"em São Paulo. Juliana Lopes, analista de política",Desvio ortográfico - palavra,Metrópoles
+ddd04705-aee2-4ba5-a2f6-733cabb70f3a,diretor da sucursal do Metrópolis em São Paulo.,Juliana,"Lopes, analista de política da CNN Brasil. E",Desvio ortográfico - palavra,Julliana
+976c2418-b141-4767-a592-f8eb864a7341,"Lopes, analista de política da CNN Brasil. E",Luísa,"Moraes, repórter da TV Cultura. Temos também a",Desvio ortográfico - palavra,Luiza
+fb803b4b-25b5-4614-be85-d3da8b146532,E as ilustrações que são do nosso Eduardo,Batistão,"E você, em qualquer parte do mundo, pode",Desvio ortográfico - palavra,Baptistão
+80c5b419-1cda-44ce-8c55-887a5a904352,"evidências dos problemas do Banco Master. Quer dizer,",as coisas têm sido...,O senhor teve que cancelar hoje a sessão,Registro de reformulação da fala,
+4a66a3de-afdf-423b-90ad-cf72fbe42515,"hoje a sessão da CPMI, porque, de novo,",o STF,"mesmo o ministro André Mendonça, isentou de obrigação",Registro de reformulação da fala,
+7762ecc8-32e9-4e93-8be7-43b1e3d2411e,"ainda quer fazer na CPMI do INSS? Olha,",Pedro,"boa noite a você, a todos que estão",Substituição lexical - Por homofonia,primeiro
+cfb145c6-9a52-4d0b-9109-efe7c0bce661,Por quê? Porque o Banco Master também é,demais,"de um governo. Nós temos ali, Opália, esse",Desvio de segmentação - Hipossegmentação,
+83f4d230-9615-401b-b87a-c14b8383d3d1,"é demais de um governo. Nós temos ali,",Opália,esse esquema que foi montado para desviar o,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,ô Paglia
+7b7957cb-2f7a-4ed0-b83b-2433ae97968a,"dentro da CPMI. Mas eu volto a dizer,",Michele,nós conseguimos hoje colocar na cadeia os principais,Desvio ortográfico - palavra,Michelle
+9f4f1cd4-c7f2-44e8-ae43-fb67e530e348,"pessoas presas, nós temos 4 Ferraris apreendidas, 11",postes,"fazenda, avião de 50 milhões de reais, 3",Substituição lexical - Por homofonia,Porches
+fcff7f4f-1918-469f-8589-26dde0eb0c1c,"emblemáticos, como, por exemplo, a morte do Luiz",Felipe,Machado de Moraes Mourão na superintendência da Polícia,Desvio ortográfico - palavra,Phillipi
+5e814fdf-c363-4c37-91ac-df5f706f2234,A Polícia Federal está sendo isenta nessa investigação?,William,essa é uma pergunta muito boa. Quando nós,Substituição lexical - Por alucinação,Guilherme
+76208890-0069-4d59-93c2-8153d709ed56,na investigação. Porque não me interessa se Daniel,Alvocaro,"ou quem quer que seja, tinha a vida",Substituição lexical - Por homofonia,Vorcaro
+7ef6149a-cecf-439b-a81b-43ffc9d8dfa9,"Daniel Alvocaro, ou quem quer que seja, tinha",a,"vida de um íntimo, conversa dele com a",Inserção,
+350a93d6-77eb-44c9-a9dc-c10e827fc127,"Alvocaro, ou quem quer que seja, tinha a",vida de um,"íntimo, conversa dele com a namorada. O que",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,vídeo
+5724f34d-a4ad-43a6-837e-39e56ac645b5,e o Estado não deu a proteção necessária.,␣,"hoje nós temos um dos escândalos mais terríveis,",Omissão,E
+f71b6b03-5114-48f5-8957-662dd3bed47b,e o Estado não deu a proteção necessária.,h,"nós temos um dos escândalos mais terríveis, eu",Desvio de capitalização,
+26ee6b90-32e7-46cb-b4ed-293091fe03cf,"porque quis ou é bonzinho, não. É porque",a CPMI gerou toda uma série de...,"Hoje, no Brasil, nós já chegamos a ter",Registro de reformulação da fala,
+149f6075-ad62-4c75-98a7-8568515af9c1,"ou é bonzinho, não. É porque a CPMI",␣,"gerou toda uma série de... Hoje, no Brasil,",Omissão,Paglia
+844bd6c9-53d4-4483-a346-56affaa97a10,"Hoje teve sessão, inclusive, cancelada por conta disso.",Alexandre de Moraes acaba,o ministro André Mendonça acaba concentrando decisões como,Registro de reformulação da fala,
+2787caf2-402c-40dd-9d92-eeacbaa705b3,"das fake news. Seria Mendonça, nesse momento, o",x,da direita? Não. Vamos colocar uma coisa aqui.,Desvio de capitalização,
+13b9a6f2-788b-400c-83fe-a1414720db8d,"é só na nossa CPMI. O que precisa,",Juliana,"é que nós parlamentares que fazemos as leis,",Desvio ortográfico - palavra,Julliana
+b7ff23cf-9d28-4d06-98c1-d3ad5f64c469,que suspendeu a quebra do sigilo de Fábio,Luiz,"da Silva, o filho do presidente da República,",Desvio ortográfico - palavra,Luís
+ccd67ac1-1488-411c-b35f-483baf7be3d6,"República, e retirou esse material da CPMI. Fábio",Luiz,"está sendo investigado, depois a gente pode tratar",Desvio ortográfico - palavra,Luís
+22fa5111-6646-422a-a192-8875a4115e1d,"corpus obrigando as pessoas a irem. Ministro Fux,",Carmem,"Lúcia. Então, dentro do próprio Supremo, não há",Desvio ortográfico - palavra,Cármen
+53c5a9aa-0d68-42f7-81bc-b148b7c66dd8,"pela PF. No escândalo do INSS, o senador",Everton,"Rocha, do PDT do Maranhão, e o senador",Desvio ortográfico - palavra,Weverton
+7ad94711-90ec-4377-bf12-3ef8fc545e8e,"Rocha, do PDT do Maranhão, e o senador",Euclides Pedersen,"do Republicanos de Minas Gerais, aliado do senhor,",Desvio ortográfico - palavra,Euclydes Pettersen
+d7f520a4-a5b1-43c2-af60-74f7ece04415,"nós, nessa questão do Banco Master, por exemplo,",identificar,dessa questão do contrato do ministro Alexandre de,Substituição lexical - Por homofonia,identificada
+840da940-3976-4efd-997a-b0240775ad8a,"nessa questão do Banco Master, por exemplo, identificar",dessa ,"questão do contrato do ministro Alexandre de Moraes,",Substituição lexical - Por homofonia,essa
+d23f4466-22cf-4af2-adff-3fe40c725390,"interessante chamar lá o governador de Brasília, o",Ibanez,para ele explicar os acordos com o Master.,Desvio ortográfico - palavra,Ibaneis
+f45d88df-be9b-4386-93b6-9c9193aaaa77,as comissões no futuro vão ficar completamente esvaziadas.,Luísa,"por favor, sua pergunta. Eu peço que a",Desvio ortográfico - palavra,Luiza
+76e86cc7-7d39-432b-83c2-1453bb0ca106,"de dar respostas para a população brasileira. Olha,",Luísa,eu tenho sido muito firme em colocar em,Desvio ortográfico - palavra,Luiza
+f0ce845f-0dbc-4b22-b505-a7a3ad633288,votação requerimentos que estão diretamente ligados às investigações.,␣,Se você pegar nas centenas de pedidos de,Omissão,Há ali
+2aebba61-7255-4516-8607-3a273265fe98,o governador de São Paulo Tarcísio de Freitas?,Qual é o sentido? Qual é o sentido,de eu chamar a ex-presidente Dilma Rousseff? Estão,Registro de repetição,
+a2aa08bb-7c03-44e2-90db-34dddd415a82,"político. Você disse bem, é um ano eleitoral",e isso,Mas nós temos conseguido não deixar contaminar. A,Registro de reformulação da fala,
+e42decfe-3ab8-4460-819b-251471fb4258,conseguido não deixar contaminar. A CPMI tem dado,"resultados, resultados","muito efetivos para o Brasil. Bem, nós vamos",Registro de repetição,
+c60ed8b6-c2a9-484a-9d25-355320e6d498,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",Omissão,instantes com o senador Carlos Viana. Até lá.
+41b5f887-d1b2-4de9-b27b-69ffa55d4b9e,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",Omissão,"Inovação que conecta, Bradesco."
+f76808b7-eda0-475a-860e-042609d74bac,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",Omissão,"Hoje, vamos"
+bfdbc7e8-14a1-43fb-95f5-846f31f67a10,"públicas em todo o Brasil. Quantas escolas hoje,",Manoel,"Centenas, Itabelinha. Escolas rurais, indígenas e quilombolas conectadas",Desvio ortográfico - palavra,Manomel
+25568609-e7fb-4c91-b281-c432c2e35750,"todo o Brasil. Quantas escolas hoje, Manoel? Centenas,",Itabelinha,"Escolas rurais, indígenas e quilombolas conectadas de norte",Desvio ortográfico - palavra,Isabelinha
+34989711-cb6a-4b36-a4d7-a9a66b8c9a68,indígenas e quilombolas conectadas de norte a sul.,␣,Aprenda a conectar. Bom sinal para a educação.,Omissão,Uma legião de técnicos trabalhando para levar banda larga para milhões de estudantes em todo o Brasil. E na velocidade do zoom.
+fb428970-3afc-4c2e-ad21-df31044324da,indígenas e quilombolas conectadas de norte a sul.,Aprenda,a conectar. Bom sinal para a educação. Muito,Substituição lexical - Por homofonia,Aprender
+79551941-53e9-4b08-9bd1-1fe37300c3b7,e quilombolas conectadas de norte a sul. Aprenda,a,"conectar. Bom sinal para a educação. Muito bem,",Inserção,
+419722d8-d273-4e8f-a6e5-d766ddaa6641,quilombolas conectadas de norte a sul. Aprenda a,conectar,"Bom sinal para a educação. Muito bem, estamos",Substituição lexical - Por homofonia,conectado
+805144c9-ff94-4215-9f92-dd2e8e3a9ad2,"presidente da CPMI do INSS, o senador Carlos",Vianna,num programa que está bem quente. Temos recebido,Desvio ortográfico - palavra,Viana
+f4d258ab-236e-4634-89f2-dc7ec9833ee0,"nós estamos no caminho certo. Bom, agora o",Vital,"Barbosa Araújo, de Bananeiras, Paraíba, diz que gostaria",Desvio ortográfico - palavra,Vitão
+cb83554b-63f9-48f3-8d49-075b3e27ac01,"gere, depois faz as licitações e entrega as",marcas,"as camas, os equipamentos. E isso tudo é",Substituição lexical - Por homofonia,macas
+1d6bdbc1-4172-457b-8968-fa867bef1097,aí nós estamos falando... É uma dívida enorme.,u,dita enorme que tem com as igrejas. O,Desvio de capitalização,
+71bffaec-55e1-475a-8ab6-46176c116672,nós estamos falando... É uma dívida enorme. uma,dita,enorme que tem com as igrejas. O questionamento,Substituição lexical - Por homofonia,dívida
+c7aeddfa-9342-455e-b7ef-88e7347472c2,"Agora, foi muito bom entrar nessa questão do",Zetel,"para a gente poder deixar claro, porque em",Desvio ortográfico - palavra,Zettel
+b6d543f5-819c-4d12-8d35-0cbcf27aac92,"lado de lá da oposição, vira alvo. O",Zetel,tinha uma igreja separada que usava o nome,Desvio ortográfico - palavra,Zettel
+553443ac-e2b5-461f-a746-8baef497d271,"Lagoinha. São duas fundações que nós temos, a",Oasis,"e dois asilos, um na região metropolitana e",Desvio ortográfico - palavra,Oásis
+7a2b5993-3b6b-40eb-8571-596e2b657c39,verificar. Mas eu tenho uma pergunta sobre o,Zetel,"Fabiano, o Zetel, cunhado de Daniel Vorcaro, hoje",Desvio ortográfico - palavra,Zettel
+9f6a293d-55f6-4725-a59f-214ddc22a740,"tenho uma pergunta sobre o Zetel. Fabiano, o",Zetel,"cunhado de Daniel Vorcaro, hoje está preso também,",Desvio ortográfico - palavra,Zettel
+40fee48b-5472-4cd4-b811-f82b3499dbc1,dos alvos da Polícia Federal. A CPMI do,NSS,"aprovou a sua convocação para ir depor, muito",Desvio ortográfico - palavra,INSS
+5aa5d3c3-7179-4246-8c71-bdce1f078153,do seu sigilo fiscal e bancário. Por quê?,Iamos,votar na quinta-feira em que o relator não,Desvio ortográfico - palavra,Íamos
+84cbe1a3-3eb5-4a21-81aa-86cabffb56ca,"do crime organizado, que tem os dados do",Vocaro,"ao que parece já chegaram, que compartilhe conosco.",Desvio ortográfico - palavra,Vorcaro
+6102c317-f6d6-482a-a23f-553ed79c1c81,"que parece já chegaram, que compartilhe conosco. Do",Zetel,"Do Zetel, que compartilhe com a CPMI do",Desvio ortográfico - palavra,Zettel
+079e99d4-811b-4c93-9dcd-2d8bf61265c2,"já chegaram, que compartilhe conosco. Do Zetel. Do",Zetel,que compartilhe com a CPMI do INSS para,Desvio ortográfico - palavra,Zettel
+9dd70827-aac4-48e6-b6be-8f92b9d19117,que os parlamentares possam ter acesso às investigações.,␣,"Já está aqui fazendo um compromisso público, então,",Omissão,O senhor
+9c861c12-4239-4d8c-9537-92aa002a6589,que os parlamentares possam ter acesso às investigações.,Já,"está aqui fazendo um compromisso público, então, que",Inserção,
+c7cc6c28-c60e-42d3-87c6-40d42a652bee,do INSS tenha finalmente acesso aos dados do,Zetel,"Raquel, eu não vou blindar ninguém. Não vou",Desvio ortográfico - palavra,Zettel
+dda31e9c-0d90-4064-85c3-0702f70dd072,vou blindar. Toda e qualquer pessoa que tiver,a,ser investigada vai ser investigada. Pode ser gente,Desvio ortográfico - palavra,que
+5f47155a-92a2-424c-ba71-5c6d010679c9,ter que dar respostas. E no caso do,Zetel,"ele tem muitas respostas a dar. Infelizmente, nós",Desvio ortográfico - palavra,Zettel
+45920d0b-bc10-472c-95d6-1a2ba69334b2,"Banco Master, com esse tempo tão limitado. Olha,",Juliana,"primeiro, só dando uma informação para o público",Desvio ortográfico - palavra,Julliana
+a7240591-5370-42be-baab-af1d5fae20d6,diferente? E eu aproveito para convidar a universitária,Ananda,"da PUC São Paulo, porque ela tem uma",Desvio ortográfico - palavra,Annanda
+18a61820-144d-4984-9beb-497be2a8bfb6,"que se encaminha bem nessa direção. Pois não,",né,"Olá, prazer. Eu gostaria de saber quais mudanças",Substituição lexical - Por homofonia,Annanda
+1f2f5345-53c8-4f33-a4bb-324d77df19b7,"que se encaminha bem nessa direção. Pois não,",?,"Olá, prazer. Eu gostaria de saber quais mudanças",Desvio de pontuação,.
+7e44e540-7daf-4c8e-a736-87e52a0212a8,"é o nome do telespectador? Rubens Silva. Bem,",Ananda,"e Rubens, que estão nos assistindo. O Rubens",Desvio ortográfico - palavra,Annanda
+37604001-b825-46bb-8468-f71760e4cd63,"de razão. Nós estamos num momento no Brasil,",Anandes,"que nós precisamos repensar as instituições da República,",Substituição lexical - Por homofonia,Annanda
+8b7a4358-40d2-48dd-89c4-0244ea2ab644,"mês. Segundo ponto, criar regras em que CPMI",estivesse,em uma legislação muito clara sobre a obrigatoriedade,Substituição lexical - Por homofonia,tivessem
+51f43c2d-0229-45cb-8b6b-67803e522fdd,"Segundo ponto, criar regras em que CPMI estivesse",em,uma legislação muito clara sobre a obrigatoriedade de,Inserção,
+c9c6b0fc-1ca1-4cec-a7c1-d363049715c3,temos no eleitorado e a desconfiança nos poderes.,Senadora,eu queria trazer mais um tema aqui para,Substituição lexical - Por homofonia,Senador
+75d60eba-90b7-4e81-9d26-b6cc705cd363,trazer mais um tema aqui para essa discussão.,␣,"O advogado-geral da União, Jorge Messias, que foi",Omissão,"Pois não, Guilherme."
+01da21e8-2418-4cbb-a7b9-40201a3374ec,"A meu ver, um dos projetos que a",Ananda,"colocou, que nós deveríamos colocar, é o fim",Desvio ortográfico - palavra,Annanda
+e6a271fa-f918-4e6a-a78a-5d07fe7df45e,Moraes e a mulher dele com o Banco,Maci,É obrigação do Parlamento. Nós temos obrigação de,Substituição lexical - Por homofonia,Master
+87fe2afa-39a2-45ba-b0d4-2c2ab62fbd34,Isso é muito ruim para nós no país,␣,". Senador, eu tenho uma pergunta aqui para",Omissão,hoje
+d9bfad9f-fb97-493c-875c-f4c9b4002e13,"os dados que vocês têm, apesar de ter",a vida,"de São Domingos Fábio Dino suspender a quebra,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,havido
+6bc19c7e-5a6d-4e4d-8430-ee56ca7e390c,"que vocês têm, apesar de ter a vida",␣,"de São Domingos Fábio Dino suspender a quebra,",Omissão,a
+4b5ecd93-21a2-4df5-ba4f-71605523bd9e,"que vocês têm, apesar de ter a vida",de São,"Domingos Fábio Dino suspender a quebra, vocês tiveram",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,decisão
+046d1233-c00b-4352-86d3-ffe2139cd7f2,"têm, apesar de ter a vida de São",Domingos,"Fábio Dino suspender a quebra, vocês tiveram acesso",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,do ministro
+173631a3-e638-4d20-8bf0-0b724fd71af9,apesar de ter a vida de São Domingos,Fábio,"Dino suspender a quebra, vocês tiveram acesso a",Desvio ortográfico - palavra,Flávio
+87d5b535-6d40-435f-902b-ac84ac837879,de ter a vida de São Domingos Fábio,Dino,"suspender a quebra, vocês tiveram acesso a muita",Desvio ortográfico - palavra,Dino
+56b5b422-dd9d-4f4f-a96b-64ef359dda18,"própria polícia na apreensão de carros de luxo,",viates,"essas coisas todas. Bem, vamos deixar claro para",Desvio ortográfico - palavra,Iates
+1eb30dcb-1e2a-4b87-88df-49657578734c,foi deflagrada pela Polícia Federal. A gente no,Metrópolis,revelou um ano antes da operação e depois,Desvio ortográfico - palavra,Metrópoles
+2039f3b4-006f-4630-a7f7-4db8ed0776fc,as denúncias e não agiu. O nosso controlador,␣,"hoje, Geraldo da União, sabia, as denúncias existiam",Desvio de pontuação,","
+a3b31be2-f8f0-41d3-94b5-9d540024318a,"denúncias e não agiu. O nosso controlador hoje,",Geraldo,"da União, sabia, as denúncias existiam e a",Substituição lexical - Por homofonia,Geral
+18fc61a3-b2dd-424e-8114-da6f135bfb4e,"não agiu. O nosso controlador hoje, Geraldo da",",","sabia, as denúncias existiam e a CGU não",Desvio de pontuação,
+f8ea1620-857f-4336-841a-496fd47b6395,do Vorcaro. Na agenda do aparelho constavam alguns,"telefones, telefones","de senadores como Flávio Bolsonaro, de deputados como",Registro de repetição,
+01e3d726-ca31-4654-8a85-d3732e8b8c77,"de senadores como Flávio Bolsonaro, de deputados como",Nícolas,"de Minas Gerais, de ministros do Supremo, ela",Desvio ortográfico - palavra,Nikolas
+6c82a9b5-7486-4bfd-a238-2d8ef8cf4465,"apenas o Moraes, mas o Nunes Marques também,",Cássio,Nunes Marques. Essas pessoas passam a ser pessoas,Desvio ortográfico - palavra,Kassio
+af33c74d-d860-465d-b880-934944f3f861,Polícia Federal que investigavam o esquema onde estavam,␣,"massas, todos os nomes. Então, o fato de",Omissão,o
+c603668b-006d-497e-a4fa-06e3628af669,Polícia Federal que investigavam o esquema onde estavam,massas,"todos os nomes. Então, o fato de a",Substituição lexical - Por homofonia,Master
+d472e039-851e-4d5e-b702-d7990dd6df19,"mensagem em que ele diz lá claramente, conseguiu",",","ali a coisa começou a ficar complicada, porque",Desvio de pontuação,?
+df6fcd77-8ee7-4ca8-b5d0-d9667704deed,rápido intervalo. Voltamos já com o senador Carlos,Vianna,Inovação que conecta. Bradesco. Estamos de volta com,Desvio ortográfico - palavra,Viana
+eb12f257-e8a2-45f0-b22a-89a82af56cce,número de telefone no momento em que o,Vocaro,manda a mensagem. Mas que é o número,Desvio ortográfico - palavra,Vorcaro
+d38224a7-161f-411b-b148-51b856a0cf09,isenta possível em relação a esse escândalo do,Mato,"Mas como presidente da CPI, desculpe insistir, senador,",Substituição lexical - Por homofonia,Master
+fd14a887-2df2-490b-a3e2-90e63606055d,nós queremos tomar em relação a essa informação,␣,que está lá na quebra de sigilo do,Omissão,do
+4c64cb8d-d4f3-4393-b93b-ae7f017e3635,que está lá na quebra de sigilo do,Mato Grosso do Sul,não só essa como outras. Podemos levantar uma,Substituição lexical - Por alucinação,Vorcaro
+827f78ea-9668-4d4b-944f-6c85c3a7b751,"uma vez, qualquer país sério, o ministro Alexandre",␣,Moreira tinha que estar afastado do cargo pelo,Omissão,de
+3d74a065-bbca-4c4e-8337-22f98e66b9cb,"uma vez, qualquer país sério, o ministro Alexandre",Moreira,tinha que estar afastado do cargo pelo próprio,Substituição lexical - Por homofonia,Moraes
+67ff6324-4475-47d0-bef4-1ae5184c9a94,a CPMI do Banco Master em um pedido.,Contradiz-se,"o próprio Supremo na CPI do Covid, em",Substituição lexical - Por homofonia,Contradisse
+0443dc19-ba4f-4446-884d-7873589b8707,consegue instaurar essa CPMI? Ou essa CPI do,Márcio,"Olha, Luísa, eu vejo que, infelizmente, os diversos",Substituição lexical - Por homofonia,Master
+05d559db-c900-49e5-8ab9-cdfbe81b7624,"essa CPMI? Ou essa CPI do Márcio? Olha,",Luísa,"eu vejo que, infelizmente, os diversos escândalos que",Desvio ortográfico - palavra,Luiza
+325509e4-13c9-4a93-ae28-f43cba0f44f8,"afastados, e eu digo aqui, Toffoli e Alexandre",␣,"Moraes não deveriam estar no cargo, também no",Omissão,de
+50ebd2e0-f0dd-4661-baed-da331474a0bc,"não tem nenhuma sinalização na Câmara, nem por",Ogumota,"uma CPMI também não, por Davi Alcolumbre. Qual",Substituição lexical - Por homofonia | Desvio de segmentação - Hipossegmentação,Hugo Motta
+e248f8a0-74c5-4bf0-82b3-0fd0af19d831,"população sobre o Congresso Nacional também. Exatamente. Olha,",Juliana,"eu tenho muita confiança, mas muita confiança de",Desvio ortográfico - palavra,Julliana
+7c14c47f-eb87-458f-84c8-d563cf746678,"parte, não tem faltado firmeza. E às vezes",sua,chamada até é de exagerado. Exagerado é o,Substituição lexical - Por homofonia,sou
+5d26fdd3-1fd7-4195-b092-78189fe44ff4,não tem faltado firmeza. E às vezes sua,chamada,até é de exagerado. Exagerado é o tamanho,Substituição lexical - Por homofonia,chamado
+6b1fd809-1405-43f2-99ac-de95da9ae33e,faltado firmeza. E às vezes sua chamada até,é,de exagerado. Exagerado é o tamanho do escândalo,Inserção,
+df04edf6-0137-46fc-a431-83cf1f3ff280,E às vezes sua chamada até é de,exagerado. Exagerado,é o tamanho do escândalo que aconteceu no,Registro de repetição,
+343aa472-2f08-489a-b89b-661fc323aec5,vezes sua chamada até é de exagerado. Exagerado,é,o tamanho do escândalo que aconteceu no Brasil.,Substituição lexical - Por alucinação,foi
+0bb3ca6d-9735-4dc6-967b-060898d15f70,"que o ministro André Mendonça, no caso do",",","querer fazer uma delação, que isso será homologado",Desvio de pontuação,
+9a604b2d-ab84-4849-b17b-12df7b711e86,"a gente coloca em votação. Já prevendo isso,",Michel,"só para você ter uma ideia, nas primeiras",Desvio ortográfico - palavra,Michelle
+bef2ea00-b103-4d45-bf47-1af2355e0738,"aqui da TV Cultura, que é o Wilson",Moherdawi,jornalista e comentarista do Jornal da Cultura. Ele,Desvio ortográfico - palavra,Moherdaui
+bc8f206b-2aa0-4a99-8b1f-fff7285b8694,"mágico. E por falar nos dados, eu tinha",perdido,"a palavra. Só para começar esse bloco, falando",Substituição lexical - Por homofonia,pedido
+6499f9ff-0f6b-459d-8bfb-6d0bcef8176a,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,Omissão,"Olha, Luiza..."
+33d7c9db-0ee6-41a6-b87b-bd76e86b1e7d,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,Omissão,Posso só perguntar?
+7e0cb68e-dbc7-4bfb-acd1-92b800db68a2,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,Omissão,Pois não.
+3a19158a-f627-47f5-9d7a-13bea3d18e2b,"pode levar, inclusive, a dificultar a condenação do",vocário,"E afeta também a credibilidade, de alguma forma,",Desvio ortográfico - palavra,Vorcaro
+b66b04e9-2678-429c-9a18-378555b855ea,"presidente do Palmeiras, do Banco Crefisa, e do",Arthur,"Azevedo, CEO do Banco C6 Consignado. Então, eu",Desvio ortográfico - palavra,Artur
+1c83c62a-7563-47d3-b761-0dbcbc29bd2c,"período de maior expansão do Banco Master. Olha,",Palha,"primeiro, eu nunca vi um setor tão protegido",Substituição lexical - Por homofonia,Paglia
+d92d983d-b718-4225-9c55-2bbe1b703f31,Roberto Campos Neto? Desculpe. Ele vai ser quinta-feira.,e,vou colocar o requerimento de convite a Roberto,Desvio de capitalização,
+d6e3f6c6-ed0f-44b4-be18-57ba3b7d08ca,"cabeça em relação a isso. E, olha, eu","trabalho. Trabalho, trabalho","muito. Meu final de semana, muitas vezes, é",Registro de repetição,
+355928f2-0d35-41ed-82ef-ed3e5b350262,"gera na política, muitas vezes, situações como essa.",Ah,você tinha na sua declaração 75 mil. Tinha.,Registro de hesitação,
+92bdf284-0f0d-4ab7-ab70-d347f9847ace,mas talvez o senhor possa adiantar alguma resposta.,␣,"Bem, senador, diante do avanço da inteligência artificial",Omissão,"Pois não, Sidney."
+0d7d7527-261f-402d-b786-60c63885edbe,diante do avanço da inteligência artificial e das,jipfakes,"e outras tecnologias em golpes, como é que",Desvio ortográfico - palavra,deepfakes
+9ccbec14-62ca-4a06-b3d6-49971e5fbc43,"de preparo real para barrar esses golpes? Olha,",␣,essa pergunta é muito boa. Nós tivemos na,Omissão,"Sidney,"
+43513e97-9d7c-4f4b-a830-af3005d54e41,"chance de prorrogar a CPMI. Sou um otimista,",Palha,"Eu acredito em 8, que nós vamos conseguir",Substituição lexical - Por homofonia,Paglia
+6a06b007-b233-46db-9c66-f77434f3b41c,de jornalismo. E também ao nosso querido Eduardo,Batistão,que faz agora a sua última assinatura deste,Desvio ortográfico - palavra,Baptistão
+62882a79-a5b4-481d-a437-f603e123c677,e fica a partir de agora com o,Metrópolis,Uma boa noite. É segunda-feira que vem. Thank,Desvio ortográfico - palavra,Metrópoles
+ca20c56a-0a28-4496-b5f8-304d869ae58c,de agora com o Metrópolis. Uma boa noite.,É,segunda-feira que vem. Thank you. Inovação que conecta.,Substituição lexical - Por homofonia,Até
+6909872d-6c6d-43cf-a45d-e964e88620f1,Metrópolis. Uma boa noite. É segunda-feira que vem.,Thank you,Inovação que conecta. Bradesco.,Inserção,
+,,,,,
+# KWIC POR CATEGORIA — uma tabela por categoria,,,,,
+,,,,,
+## CATEGORIA: Registro de repetição,#FF9E9E,total=5,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+2aebba61-7255-4516-8607-3a273265fe98,o governador de São Paulo Tarcísio de Freitas?,Qual é o sentido? Qual é o sentido,de eu chamar a ex-presidente Dilma Rousseff? Estão,,
+e42decfe-3ab8-4460-819b-251471fb4258,conseguido não deixar contaminar. A CPMI tem dado,"resultados, resultados","muito efetivos para o Brasil. Bem, nós vamos",,
+f8ea1620-857f-4336-841a-496fd47b6395,do Vorcaro. Na agenda do aparelho constavam alguns,"telefones, telefones","de senadores como Flávio Bolsonaro, de deputados como",,
+df04edf6-0137-46fc-a431-83cf1f3ff280,E às vezes sua chamada até é de,exagerado. Exagerado,é o tamanho do escândalo que aconteceu no,,
+d6e3f6c6-ed0f-44b4-be18-57ba3b7d08ca,"cabeça em relação a isso. E, olha, eu","trabalho. Trabalho, trabalho","muito. Meu final de semana, muitas vezes, é",,
+,,,,,
+## CATEGORIA: Registro de hesitação,#F4CCCC,total=1,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+355928f2-0d35-41ed-82ef-ed3e5b350262,"gera na política, muitas vezes, situações como essa.",Ah,você tinha na sua declaração 75 mil. Tinha.,,
+,,,,,
+## CATEGORIA: Registro de reformulação da fala,#F9CB9C,total=5,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+80c5b419-1cda-44ce-8c55-887a5a904352,"evidências dos problemas do Banco Master. Quer dizer,",as coisas têm sido...,O senhor teve que cancelar hoje a sessão,,
+4a66a3de-afdf-423b-90ad-cf72fbe42515,"hoje a sessão da CPMI, porque, de novo,",o STF,"mesmo o ministro André Mendonça, isentou de obrigação",,
+26ee6b90-32e7-46cb-b4ed-293091fe03cf,"porque quis ou é bonzinho, não. É porque",a CPMI gerou toda uma série de...,"Hoje, no Brasil, nós já chegamos a ter",,
+844bd6c9-53d4-4483-a346-56affaa97a10,"Hoje teve sessão, inclusive, cancelada por conta disso.",Alexandre de Moraes acaba,o ministro André Mendonça acaba concentrando decisões como,,
+a2aa08bb-7c03-44e2-90db-34dddd415a82,"político. Você disse bem, é um ano eleitoral",e isso,Mas nós temos conseguido não deixar contaminar. A,,
+,,,,,
+## CATEGORIA: Desvio ortográfico - palavra,#B6D7A8,total=57,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+d0d21b1e-4159-4b1c-a1f2-0a9b89be8c7c,o senador Carlos Viana. Ele é mineiro de,Braunas,"na região do Vale do Rio Doce. Jornalista,",,Braúnas
+03359816-5c5d-4fe4-8fef-d469f7a92ac3,"nós convidamos Raquel Landim, âncora do SBT News,",Michele Trumbelli,apresentadora e coordenadora de conteúdo da Band News,,Michelle Trombelli
+a8d340f3-8c46-422e-b54e-908b5b0b1fd7,"Poder 360. Fábio Leite, diretor da sucursal do",Metrópolis,"em São Paulo. Juliana Lopes, analista de política",,Metrópoles
+ddd04705-aee2-4ba5-a2f6-733cabb70f3a,diretor da sucursal do Metrópolis em São Paulo.,Juliana,"Lopes, analista de política da CNN Brasil. E",,Julliana
+976c2418-b141-4767-a592-f8eb864a7341,"Lopes, analista de política da CNN Brasil. E",Luísa,"Moraes, repórter da TV Cultura. Temos também a",,Luiza
+fb803b4b-25b5-4614-be85-d3da8b146532,E as ilustrações que são do nosso Eduardo,Batistão,"E você, em qualquer parte do mundo, pode",,Baptistão
+83f4d230-9615-401b-b87a-c14b8383d3d1,"é demais de um governo. Nós temos ali,",Opália,esse esquema que foi montado para desviar o,Desvio de segmentação - Hipossegmentação,ô Paglia
+7b7957cb-2f7a-4ed0-b83b-2433ae97968a,"dentro da CPMI. Mas eu volto a dizer,",Michele,nós conseguimos hoje colocar na cadeia os principais,,Michelle
+fcff7f4f-1918-469f-8589-26dde0eb0c1c,"emblemáticos, como, por exemplo, a morte do Luiz",Felipe,Machado de Moraes Mourão na superintendência da Polícia,,Phillipi
+13b9a6f2-788b-400c-83fe-a1414720db8d,"é só na nossa CPMI. O que precisa,",Juliana,"é que nós parlamentares que fazemos as leis,",,Julliana
+b7ff23cf-9d28-4d06-98c1-d3ad5f64c469,que suspendeu a quebra do sigilo de Fábio,Luiz,"da Silva, o filho do presidente da República,",,Luís
+ccd67ac1-1488-411c-b35f-483baf7be3d6,"República, e retirou esse material da CPMI. Fábio",Luiz,"está sendo investigado, depois a gente pode tratar",,Luís
+22fa5111-6646-422a-a192-8875a4115e1d,"corpus obrigando as pessoas a irem. Ministro Fux,",Carmem,"Lúcia. Então, dentro do próprio Supremo, não há",,Cármen
+53c5a9aa-0d68-42f7-81bc-b148b7c66dd8,"pela PF. No escândalo do INSS, o senador",Everton,"Rocha, do PDT do Maranhão, e o senador",,Weverton
+7ad94711-90ec-4377-bf12-3ef8fc545e8e,"Rocha, do PDT do Maranhão, e o senador",Euclides Pedersen,"do Republicanos de Minas Gerais, aliado do senhor,",,Euclydes Pettersen
+d23f4466-22cf-4af2-adff-3fe40c725390,"interessante chamar lá o governador de Brasília, o",Ibanez,para ele explicar os acordos com o Master.,,Ibaneis
+f45d88df-be9b-4386-93b6-9c9193aaaa77,as comissões no futuro vão ficar completamente esvaziadas.,Luísa,"por favor, sua pergunta. Eu peço que a",,Luiza
+76e86cc7-7d39-432b-83c2-1453bb0ca106,"de dar respostas para a população brasileira. Olha,",Luísa,eu tenho sido muito firme em colocar em,,Luiza
+bfdbc7e8-14a1-43fb-95f5-846f31f67a10,"públicas em todo o Brasil. Quantas escolas hoje,",Manoel,"Centenas, Itabelinha. Escolas rurais, indígenas e quilombolas conectadas",,Manomel
+25568609-e7fb-4c91-b281-c432c2e35750,"todo o Brasil. Quantas escolas hoje, Manoel? Centenas,",Itabelinha,"Escolas rurais, indígenas e quilombolas conectadas de norte",,Isabelinha
+805144c9-ff94-4215-9f92-dd2e8e3a9ad2,"presidente da CPMI do INSS, o senador Carlos",Vianna,num programa que está bem quente. Temos recebido,,Viana
+f4d258ab-236e-4634-89f2-dc7ec9833ee0,"nós estamos no caminho certo. Bom, agora o",Vital,"Barbosa Araújo, de Bananeiras, Paraíba, diz que gostaria",,Vitão
+c7aeddfa-9342-455e-b7ef-88e7347472c2,"Agora, foi muito bom entrar nessa questão do",Zetel,"para a gente poder deixar claro, porque em",,Zettel
+b6d543f5-819c-4d12-8d35-0cbcf27aac92,"lado de lá da oposição, vira alvo. O",Zetel,tinha uma igreja separada que usava o nome,,Zettel
+553443ac-e2b5-461f-a746-8baef497d271,"Lagoinha. São duas fundações que nós temos, a",Oasis,"e dois asilos, um na região metropolitana e",,Oásis
+7a2b5993-3b6b-40eb-8571-596e2b657c39,verificar. Mas eu tenho uma pergunta sobre o,Zetel,"Fabiano, o Zetel, cunhado de Daniel Vorcaro, hoje",,Zettel
+9f6a293d-55f6-4725-a59f-214ddc22a740,"tenho uma pergunta sobre o Zetel. Fabiano, o",Zetel,"cunhado de Daniel Vorcaro, hoje está preso também,",,Zettel
+40fee48b-5472-4cd4-b811-f82b3499dbc1,dos alvos da Polícia Federal. A CPMI do,NSS,"aprovou a sua convocação para ir depor, muito",,INSS
+5aa5d3c3-7179-4246-8c71-bdce1f078153,do seu sigilo fiscal e bancário. Por quê?,Iamos,votar na quinta-feira em que o relator não,,Íamos
+84cbe1a3-3eb5-4a21-81aa-86cabffb56ca,"do crime organizado, que tem os dados do",Vocaro,"ao que parece já chegaram, que compartilhe conosco.",,Vorcaro
+6102c317-f6d6-482a-a23f-553ed79c1c81,"que parece já chegaram, que compartilhe conosco. Do",Zetel,"Do Zetel, que compartilhe com a CPMI do",,Zettel
+079e99d4-811b-4c93-9dcd-2d8bf61265c2,"já chegaram, que compartilhe conosco. Do Zetel. Do",Zetel,que compartilhe com a CPMI do INSS para,,Zettel
+c7cc6c28-c60e-42d3-87c6-40d42a652bee,do INSS tenha finalmente acesso aos dados do,Zetel,"Raquel, eu não vou blindar ninguém. Não vou",,Zettel
+dda31e9c-0d90-4064-85c3-0702f70dd072,vou blindar. Toda e qualquer pessoa que tiver,a,ser investigada vai ser investigada. Pode ser gente,,que
+5f47155a-92a2-424c-ba71-5c6d010679c9,ter que dar respostas. E no caso do,Zetel,"ele tem muitas respostas a dar. Infelizmente, nós",,Zettel
+45920d0b-bc10-472c-95d6-1a2ba69334b2,"Banco Master, com esse tempo tão limitado. Olha,",Juliana,"primeiro, só dando uma informação para o público",,Julliana
+a7240591-5370-42be-baab-af1d5fae20d6,diferente? E eu aproveito para convidar a universitária,Ananda,"da PUC São Paulo, porque ela tem uma",,Annanda
+7e44e540-7daf-4c8e-a736-87e52a0212a8,"é o nome do telespectador? Rubens Silva. Bem,",Ananda,"e Rubens, que estão nos assistindo. O Rubens",,Annanda
+01da21e8-2418-4cbb-a7b9-40201a3374ec,"A meu ver, um dos projetos que a",Ananda,"colocou, que nós deveríamos colocar, é o fim",,Annanda
+046d1233-c00b-4352-86d3-ffe2139cd7f2,"têm, apesar de ter a vida de São",Domingos,"Fábio Dino suspender a quebra, vocês tiveram acesso",Desvio de segmentação - Hipossegmentação,do ministro
+173631a3-e638-4d20-8bf0-0b724fd71af9,apesar de ter a vida de São Domingos,Fábio,"Dino suspender a quebra, vocês tiveram acesso a",,Flávio
+87d5b535-6d40-435f-902b-ac84ac837879,de ter a vida de São Domingos Fábio,Dino,"suspender a quebra, vocês tiveram acesso a muita",,Dino
+56b5b422-dd9d-4f4f-a96b-64ef359dda18,"própria polícia na apreensão de carros de luxo,",viates,"essas coisas todas. Bem, vamos deixar claro para",,Iates
+1eb30dcb-1e2a-4b87-88df-49657578734c,foi deflagrada pela Polícia Federal. A gente no,Metrópolis,revelou um ano antes da operação e depois,,Metrópoles
+01e3d726-ca31-4654-8a85-d3732e8b8c77,"de senadores como Flávio Bolsonaro, de deputados como",Nícolas,"de Minas Gerais, de ministros do Supremo, ela",,Nikolas
+6c82a9b5-7486-4bfd-a238-2d8ef8cf4465,"apenas o Moraes, mas o Nunes Marques também,",Cássio,Nunes Marques. Essas pessoas passam a ser pessoas,,Kassio
+df6fcd77-8ee7-4ca8-b5d0-d9667704deed,rápido intervalo. Voltamos já com o senador Carlos,Vianna,Inovação que conecta. Bradesco. Estamos de volta com,,Viana
+eb12f257-e8a2-45f0-b22a-89a82af56cce,número de telefone no momento em que o,Vocaro,manda a mensagem. Mas que é o número,,Vorcaro
+05d559db-c900-49e5-8ab9-cdfbe81b7624,"essa CPMI? Ou essa CPI do Márcio? Olha,",Luísa,"eu vejo que, infelizmente, os diversos escândalos que",,Luiza
+e248f8a0-74c5-4bf0-82b3-0fd0af19d831,"população sobre o Congresso Nacional também. Exatamente. Olha,",Juliana,"eu tenho muita confiança, mas muita confiança de",,Julliana
+9a604b2d-ab84-4849-b17b-12df7b711e86,"a gente coloca em votação. Já prevendo isso,",Michel,"só para você ter uma ideia, nas primeiras",,Michelle
+bef2ea00-b103-4d45-bf47-1af2355e0738,"aqui da TV Cultura, que é o Wilson",Moherdawi,jornalista e comentarista do Jornal da Cultura. Ele,,Moherdaui
+3a19158a-f627-47f5-9d7a-13bea3d18e2b,"pode levar, inclusive, a dificultar a condenação do",vocário,"E afeta também a credibilidade, de alguma forma,",,Vorcaro
+b66b04e9-2678-429c-9a18-378555b855ea,"presidente do Palmeiras, do Banco Crefisa, e do",Arthur,"Azevedo, CEO do Banco C6 Consignado. Então, eu",,Artur
+0d7d7527-261f-402d-b786-60c63885edbe,diante do avanço da inteligência artificial e das,jipfakes,"e outras tecnologias em golpes, como é que",,deepfakes
+6a06b007-b233-46db-9c66-f77434f3b41c,de jornalismo. E também ao nosso querido Eduardo,Batistão,que faz agora a sua última assinatura deste,,Baptistão
+62882a79-a5b4-481d-a437-f603e123c677,e fica a partir de agora com o,Metrópolis,Uma boa noite. É segunda-feira que vem. Thank,,Metrópoles
+,,,,,
+## CATEGORIA: Desvio ortográfico - número,#B6D7A8,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Desvio de pontuação,#72FFFF,total=5,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+1f2f5345-53c8-4f33-a4bb-324d77df19b7,"que se encaminha bem nessa direção. Pois não,",?,"Olá, prazer. Eu gostaria de saber quais mudanças",,.
+2039f3b4-006f-4630-a7f7-4db8ed0776fc,as denúncias e não agiu. O nosso controlador,␣,"hoje, Geraldo da União, sabia, as denúncias existiam",,","
+18fc61a3-b2dd-424e-8114-da6f135bfb4e,"não agiu. O nosso controlador hoje, Geraldo da",",","sabia, as denúncias existiam e a CGU não",,
+d472e039-851e-4d5e-b702-d7990dd6df19,"mensagem em que ele diz lá claramente, conseguiu",",","ali a coisa começou a ficar complicada, porque",,?
+0bb3ca6d-9735-4dc6-967b-060898d15f70,"que o ministro André Mendonça, no caso do",",","querer fazer uma delação, que isso será homologado",,
+,,,,,
+## CATEGORIA: Desvio de capitalização,#99BAF2,total=4,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+f71b6b03-5114-48f5-8957-662dd3bed47b,e o Estado não deu a proteção necessária.,h,"nós temos um dos escândalos mais terríveis, eu",,
+2787caf2-402c-40dd-9d92-eeacbaa705b3,"das fake news. Seria Mendonça, nesse momento, o",x,da direita? Não. Vamos colocar uma coisa aqui.,,
+1d6bdbc1-4172-457b-8968-fa867bef1097,aí nós estamos falando... É uma dívida enorme.,u,dita enorme que tem com as igrejas. O,,
+d92d983d-b718-4225-9c55-2bbe1b703f31,Roberto Campos Neto? Desculpe. Ele vai ser quinta-feira.,e,vou colocar o requerimento de convite a Roberto,,
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipossegmentação,#54D862,total=4,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+cfb145c6-9a52-4d0b-9109-efe7c0bce661,Por quê? Porque o Banco Master também é,demais,"de um governo. Nós temos ali, Opália, esse",,
+83f4d230-9615-401b-b87a-c14b8383d3d1,"é demais de um governo. Nós temos ali,",Opália,esse esquema que foi montado para desviar o,Desvio ortográfico - palavra,ô Paglia
+046d1233-c00b-4352-86d3-ffe2139cd7f2,"têm, apesar de ter a vida de São",Domingos,"Fábio Dino suspender a quebra, vocês tiveram acesso",Desvio ortográfico - palavra,do ministro
+50ebd2e0-f0dd-4661-baed-da331474a0bc,"não tem nenhuma sinalização na Câmara, nem por",Ogumota,"uma CPMI também não, por Davi Alcolumbre. Qual",Substituição lexical - Por homofonia,Hugo Motta
+,,,,,
+## CATEGORIA: Desvio de segmentação - Hipersegmentação,#54D862,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+350a93d6-77eb-44c9-a9dc-c10e827fc127,"Alvocaro, ou quem quer que seja, tinha a",vida de um,"íntimo, conversa dele com a namorada. O que",Substituição lexical - Por homofonia,vídeo
+d9bfad9f-fb97-493c-875c-f4c9b4002e13,"os dados que vocês têm, apesar de ter",a vida,"de São Domingos Fábio Dino suspender a quebra,",Substituição lexical - Por homofonia,havido
+4b5ecd93-21a2-4df5-ba4f-71605523bd9e,"que vocês têm, apesar de ter a vida",de São,"Domingos Fábio Dino suspender a quebra, vocês tiveram",Substituição lexical - Por homofonia,decisão
+,,,,,
+## CATEGORIA: Omissão,#B6DCFF,total=20,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+5724f34d-a4ad-43a6-837e-39e56ac645b5,e o Estado não deu a proteção necessária.,␣,"hoje nós temos um dos escândalos mais terríveis,",,E
+149f6075-ad62-4c75-98a7-8568515af9c1,"ou é bonzinho, não. É porque a CPMI",␣,"gerou toda uma série de... Hoje, no Brasil,",,Paglia
+f0ce845f-0dbc-4b22-b505-a7a3ad633288,votação requerimentos que estão diretamente ligados às investigações.,␣,Se você pegar nas centenas de pedidos de,,Há ali
+c60ed8b6-c2a9-484a-9d25-355320e6d498,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",,instantes com o senador Carlos Viana. Até lá.
+41b5f887-d1b2-4de9-b27b-69ffa55d4b9e,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",,"Inovação que conecta, Bradesco."
+f76808b7-eda0-475a-860e-042609d74bac,fazer um rápido intervalo. Roda Viva volta em,␣,"conhecer o Aprender Conectado, que já levou internet",,"Hoje, vamos"
+34989711-cb6a-4b36-a4d7-a9a66b8c9a68,indígenas e quilombolas conectadas de norte a sul.,␣,Aprenda a conectar. Bom sinal para a educação.,,Uma legião de técnicos trabalhando para levar banda larga para milhões de estudantes em todo o Brasil. E na velocidade do zoom.
+9dd70827-aac4-48e6-b6be-8f92b9d19117,que os parlamentares possam ter acesso às investigações.,␣,"Já está aqui fazendo um compromisso público, então,",,O senhor
+75d60eba-90b7-4e81-9d26-b6cc705cd363,trazer mais um tema aqui para essa discussão.,␣,"O advogado-geral da União, Jorge Messias, que foi",,"Pois não, Guilherme."
+87fe2afa-39a2-45ba-b0d4-2c2ab62fbd34,Isso é muito ruim para nós no país,␣,". Senador, eu tenho uma pergunta aqui para",,hoje
+6bc19c7e-5a6d-4e4d-8430-ee56ca7e390c,"que vocês têm, apesar de ter a vida",␣,"de São Domingos Fábio Dino suspender a quebra,",,a
+af33c74d-d860-465d-b880-934944f3f861,Polícia Federal que investigavam o esquema onde estavam,␣,"massas, todos os nomes. Então, o fato de",,o
+fd14a887-2df2-490b-a3e2-90e63606055d,nós queremos tomar em relação a essa informação,␣,que está lá na quebra de sigilo do,,do
+827f78ea-9668-4d4b-944f-6c85c3a7b751,"uma vez, qualquer país sério, o ministro Alexandre",␣,Moreira tinha que estar afastado do cargo pelo,,de
+325509e4-13c9-4a93-ae28-f43cba0f44f8,"afastados, e eu digo aqui, Toffoli e Alexandre",␣,"Moraes não deveriam estar no cargo, também no",,de
+6499f9ff-0f6b-459d-8bfb-6d0bcef8176a,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,,"Olha, Luiza..."
+33d7c9db-0ee6-41a6-b87b-bd76e86b1e7d,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,,Posso só perguntar?
+7e0cb68e-dbc7-4bfb-acd1-92b800db68a2,reunir com a advocacia a partir de amanhã.,␣,E tinha uma suspeita de gente entrando com,,Pois não.
+92bdf284-0f0d-4ab7-ab70-d347f9847ace,mas talvez o senhor possa adiantar alguma resposta.,␣,"Bem, senador, diante do avanço da inteligência artificial",,"Pois não, Sidney."
+9ccbec14-62ca-4a06-b3d6-49971e5fbc43,"de preparo real para barrar esses golpes? Olha,",␣,essa pergunta é muito boa. Nós tivemos na,,"Sidney,"
+,,,,,
+## CATEGORIA: Inserção,#4AC2FF,total=6,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+7ef6149a-cecf-439b-a81b-43ffc9d8dfa9,"Daniel Alvocaro, ou quem quer que seja, tinha",a,"vida de um íntimo, conversa dele com a",,
+79551941-53e9-4b08-9bd1-1fe37300c3b7,e quilombolas conectadas de norte a sul. Aprenda,a,"conectar. Bom sinal para a educação. Muito bem,",,
+9c861c12-4239-4d8c-9537-92aa002a6589,que os parlamentares possam ter acesso às investigações.,Já,"está aqui fazendo um compromisso público, então, que",,
+51f43c2d-0229-45cb-8b6b-67803e522fdd,"Segundo ponto, criar regras em que CPMI estivesse",em,uma legislação muito clara sobre a obrigatoriedade de,,
+6b1fd809-1405-43f2-99ac-de95da9ae33e,faltado firmeza. E às vezes sua chamada até,é,de exagerado. Exagerado é o tamanho do escândalo,,
+6909872d-6c6d-43cf-a45d-e964e88620f1,Metrópolis. Uma boa noite. É segunda-feira que vem.,Thank you,Inovação que conecta. Bradesco.,,
+,,,,,
+## CATEGORIA: Substituição lexical - Por homofonia,#C165FF,total=30,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+7762ecc8-32e9-4e93-8be7-43b1e3d2411e,"ainda quer fazer na CPMI do INSS? Olha,",Pedro,"boa noite a você, a todos que estão",,primeiro
+9f4f1cd4-c7f2-44e8-ae43-fb67e530e348,"pessoas presas, nós temos 4 Ferraris apreendidas, 11",postes,"fazenda, avião de 50 milhões de reais, 3",,Porches
+76208890-0069-4d59-93c2-8153d709ed56,na investigação. Porque não me interessa se Daniel,Alvocaro,"ou quem quer que seja, tinha a vida",,Vorcaro
+350a93d6-77eb-44c9-a9dc-c10e827fc127,"Alvocaro, ou quem quer que seja, tinha a",vida de um,"íntimo, conversa dele com a namorada. O que",Desvio de segmentação - Hipersegmentação,vídeo
+d7f520a4-a5b1-43c2-af60-74f7ece04415,"nós, nessa questão do Banco Master, por exemplo,",identificar,dessa questão do contrato do ministro Alexandre de,,identificada
+840da940-3976-4efd-997a-b0240775ad8a,"nessa questão do Banco Master, por exemplo, identificar",dessa ,"questão do contrato do ministro Alexandre de Moraes,",,essa
+fb428970-3afc-4c2e-ad21-df31044324da,indígenas e quilombolas conectadas de norte a sul.,Aprenda,a conectar. Bom sinal para a educação. Muito,,Aprender
+419722d8-d273-4e8f-a6e5-d766ddaa6641,quilombolas conectadas de norte a sul. Aprenda a,conectar,"Bom sinal para a educação. Muito bem, estamos",,conectado
+cb83554b-63f9-48f3-8d49-075b3e27ac01,"gere, depois faz as licitações e entrega as",marcas,"as camas, os equipamentos. E isso tudo é",,macas
+71bffaec-55e1-475a-8ab6-46176c116672,nós estamos falando... É uma dívida enorme. uma,dita,enorme que tem com as igrejas. O questionamento,,dívida
+18a61820-144d-4984-9beb-497be2a8bfb6,"que se encaminha bem nessa direção. Pois não,",né,"Olá, prazer. Eu gostaria de saber quais mudanças",,Annanda
+37604001-b825-46bb-8468-f71760e4cd63,"de razão. Nós estamos num momento no Brasil,",Anandes,"que nós precisamos repensar as instituições da República,",,Annanda
+8b7a4358-40d2-48dd-89c4-0244ea2ab644,"mês. Segundo ponto, criar regras em que CPMI",estivesse,em uma legislação muito clara sobre a obrigatoriedade,,tivessem
+c9c6b0fc-1ca1-4cec-a7c1-d363049715c3,temos no eleitorado e a desconfiança nos poderes.,Senadora,eu queria trazer mais um tema aqui para,,Senador
+e6a271fa-f918-4e6a-a78a-5d07fe7df45e,Moraes e a mulher dele com o Banco,Maci,É obrigação do Parlamento. Nós temos obrigação de,,Master
+d9bfad9f-fb97-493c-875c-f4c9b4002e13,"os dados que vocês têm, apesar de ter",a vida,"de São Domingos Fábio Dino suspender a quebra,",Desvio de segmentação - Hipersegmentação,havido
+4b5ecd93-21a2-4df5-ba4f-71605523bd9e,"que vocês têm, apesar de ter a vida",de São,"Domingos Fábio Dino suspender a quebra, vocês tiveram",Desvio de segmentação - Hipersegmentação,decisão
+a3b31be2-f8f0-41d3-94b5-9d540024318a,"denúncias e não agiu. O nosso controlador hoje,",Geraldo,"da União, sabia, as denúncias existiam e a",,Geral
+c603668b-006d-497e-a4fa-06e3628af669,Polícia Federal que investigavam o esquema onde estavam,massas,"todos os nomes. Então, o fato de a",,Master
+d38224a7-161f-411b-b148-51b856a0cf09,isenta possível em relação a esse escândalo do,Mato,"Mas como presidente da CPI, desculpe insistir, senador,",,Master
+3d74a065-bbca-4c4e-8337-22f98e66b9cb,"uma vez, qualquer país sério, o ministro Alexandre",Moreira,tinha que estar afastado do cargo pelo próprio,,Moraes
+67ff6324-4475-47d0-bef4-1ae5184c9a94,a CPMI do Banco Master em um pedido.,Contradiz-se,"o próprio Supremo na CPI do Covid, em",,Contradisse
+0443dc19-ba4f-4446-884d-7873589b8707,consegue instaurar essa CPMI? Ou essa CPI do,Márcio,"Olha, Luísa, eu vejo que, infelizmente, os diversos",,Master
+50ebd2e0-f0dd-4661-baed-da331474a0bc,"não tem nenhuma sinalização na Câmara, nem por",Ogumota,"uma CPMI também não, por Davi Alcolumbre. Qual",Desvio de segmentação - Hipossegmentação,Hugo Motta
+7c14c47f-eb87-458f-84c8-d563cf746678,"parte, não tem faltado firmeza. E às vezes",sua,chamada até é de exagerado. Exagerado é o,,sou
+5d26fdd3-1fd7-4195-b092-78189fe44ff4,não tem faltado firmeza. E às vezes sua,chamada,até é de exagerado. Exagerado é o tamanho,,chamado
+bc8f206b-2aa0-4a99-8b1f-fff7285b8694,"mágico. E por falar nos dados, eu tinha",perdido,"a palavra. Só para começar esse bloco, falando",,pedido
+1c83c62a-7563-47d3-b761-0dbcbc29bd2c,"período de maior expansão do Banco Master. Olha,",Palha,"primeiro, eu nunca vi um setor tão protegido",,Paglia
+43513e97-9d7c-4f4b-a830-af3005d54e41,"chance de prorrogar a CPMI. Sou um otimista,",Palha,"Eu acredito em 8, que nós vamos conseguir",,Paglia
+ca20c56a-0a28-4496-b5f8-304d869ae58c,de agora com o Metrópolis. Uma boa noite.,É,segunda-feira que vem. Thank you. Inovação que conecta.,,Até
+,,,,,
+## CATEGORIA: Substituição lexical - Por alucinação,#C165FF,total=3,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+5e814fdf-c363-4c37-91ac-df5f706f2234,A Polícia Federal está sendo isenta nessa investigação?,William,essa é uma pergunta muito boa. Quando nós,,Guilherme
+4c64cb8d-d4f3-4393-b93b-ae7f017e3635,que está lá na quebra de sigilo do,Mato Grosso do Sul,não só essa como outras. Podemos levantar uma,,Vorcaro
+343aa472-2f08-489a-b89b-661fc323aec5,vezes sua chamada até é de exagerado. Exagerado,é,o tamanho do escândalo que aconteceu no Brasil.,,foi
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Desvio na pronúncia do falante registrado na transcrição,#fbff00,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Registro da flexibilidade da fala - Variações informais,#fbff00,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+## CATEGORIA: Edição e adequação à norma-padrão - correção dos desvios de regência verbal e nominal produzidas pelo falante,#f07400,total=0,,,
+id,contexto_esquerdo,trecho,contexto_direito,outras_categorias,comentario
+,,,,,
+# OCORRÊNCIAS COM MAIS DE UMA CATEGORIA (KWIC),,,,,
+id,contexto_esquerdo,trecho,contexto_direito,categorias,
+83f4d230-9615-401b-b87a-c14b8383d3d1,"é demais de um governo. Nós temos ali,",Opália,esse esquema que foi montado para desviar o,Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+350a93d6-77eb-44c9-a9dc-c10e827fc127,"Alvocaro, ou quem quer que seja, tinha a",vida de um,"íntimo, conversa dele com a namorada. O que",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+d9bfad9f-fb97-493c-875c-f4c9b4002e13,"os dados que vocês têm, apesar de ter",a vida,"de São Domingos Fábio Dino suspender a quebra,",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+4b5ecd93-21a2-4df5-ba4f-71605523bd9e,"que vocês têm, apesar de ter a vida",de São,"Domingos Fábio Dino suspender a quebra, vocês tiveram",Desvio de segmentação - Hipersegmentação | Substituição lexical - Por homofonia,
+046d1233-c00b-4352-86d3-ffe2139cd7f2,"têm, apesar de ter a vida de São",Domingos,"Fábio Dino suspender a quebra, vocês tiveram acesso",Desvio de segmentação - Hipossegmentação | Desvio ortográfico - palavra,
+50ebd2e0-f0dd-4661-baed-da331474a0bc,"não tem nenhuma sinalização na Câmara, nem por",Ogumota,"uma CPMI também não, por Davi Alcolumbre. Qual",Substituição lexical - Por homofonia | Desvio de segmentação - Hipossegmentação,
+,,,,,
+# OCORRÊNCIAS NÃO VINCULADAS — destaques cuja cor não é idêntica a nenhuma categoria,,,,,
+Total de ocorrências não vinculadas,0,,,,
+,,,,,
+## QUANTIFICAÇÃO POR COR (não vinculadas),,,,,
+cor_detectada,total_ocorrencias,,,,
+,,,,,
+## LISTA (KWIC) — não vinculadas,,,,,
+id,cor_detectada,contexto_esquerdo,trecho,contexto_direito,
